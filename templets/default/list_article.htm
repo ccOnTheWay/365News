@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="zh-cmn-Hans-CN">
+    <head>
+    <meta charset="utf-8" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <META name="filetype" content="1">
+    <META name="publishedtype" content="1">
+    <META name="pagetype" content="2">
+    <meta name="applicable-device" content="pc">
+    <META name="catalogs" content="toutiao_PC">
+    <link href="{dede:global.cfg_basehost/}/favicon.ico" type="image/x-icon" rel="icon" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+    <link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/reset.css" />
+    <link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/common.css" />
+    <link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/channel.css" />
+    <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/minicookie.js"></script>
+    <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/jquery.cookie.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/assets/js/globle.js"></script>
+    <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/v1/js/search_word.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/dup.baidustatic.com/js/ds.js"></script>
+    <script type="text/javascript">
+        var global_share_title="";
+        var global_share_url="";
+        var global_share_img="";
+        var img_domain = 'http://imgmini.eastday.com/';
+        var type = '0010';
+        var channel = 'guonei';
+        var newstype='guonei';
+        /*var channel_list_url= 'http://ttpc.dfshurufa.com/jsonpc/refresh';
+        var channel_list_next_url ='http://ttpc.dfshurufa.com/jsonpc/next';*/
+        var channel_no_lunbo = 0;
+    </script>
+    </head>
+    <body>
+{dede:include filename="list_header.htm"/} 
+<!-- 第一个新闻容器 --> 
+<!--<div id='first_news_cnt' class='first_news_cnt'></div>-->
+<div class='main_contain_cnt'>
+      <div class='main_left'>
+    <div class="slider_cnt_channel">
+          <h1 id="titleNewsSlider"> {dede:arclist row='1' limit='0,1' titlelen='50' flag='c'} <a target="_blank" href="[field:arcurl/]">[field:title/]</a> {/dede:arclist} <em><i class="now">1</i>/<i class="sum">4</i> </em> </h1>
+          <ul id="sliderContain" class="sliderContain">
+        {dede:arclist row='1' limit='0,1' titlelen='40' flag='c,p'}
+        <li  > <a href="[field:arcurl/]" target="_blank"> <img src="[field:litpic/]" alt="[field:title/]" /> </a> </li>
+        {/dede:arclist}  
+        {dede:arclist row='3' limit='1,3' titlelen='40' flag='c,p'}
+        <li  style="display: none;"> <a href="[field:arcurl/]" target="_blank"> <img src="[field:litpic/]" alt="[field:title/]" /> </a> </li>
+        {/dede:arclist} <a class="btn_left" href="javascript:;" style="left: -42px;"></a> <a class="btn_right" href="javascript:;" style="right: -42px;"></a>
+      </ul>
+        </div>
+    <hr class="split-line" />
+    <ul id='listNewsTimeLy' class="listNewsTimeLy">
+          {dede:list pagesize='15'}
+          <li class="J-has-share listNews-item-s1 clearfix">
+        <div class="img fl"><a href="[field:arcurl/]" target="_blank"><img class="animation" src="[field:litpic/]" alt="[field:litpic/]" width="180" height="135"></a></div>
+        <div class="info">
+              <h3><a class="J-share-a" href="[field:arcurl/]" target="_blank">[field:title/]</a></h3>
+              <p class="desc"><!--来源：[field:source/]-->　[field:description/]...</p>
+              <p class="from">[field:pubdate function="GetDateTimeMK(@me)"/] 来源：[field:source/]</p>
+              <!-- <div class="J-bdsharebuttonbox-wrap">
+        <div class="J-bdsharebuttonbox bdsharebuttonbox clearfix"><span class="fl">分享</span><a class="J-bdshare bds-tsina fl" data-cmd="tsina" href="javascript:;"></a><a class="J-bdshare bds-qzone fl" data-cmd="qzone" href="javascript:;"></a><a class="J-bdshare bds-tqq fl" data-cmd="tqq" href="javascript:;"></a><a class="J-bdshare bds-weixin fl" data-cmd="weixin" href="javascript:;"></a></div>
+      </div>--> 
+              
+            </div>
+      </li>
+          {/dede:list}
+        </ul>
+    <div class="pagnation" id="pagnation" style="padding:20px 0;">
+          <ul>
+        {dede:pagelist listitem="index,info,pre,next,pageno" listsize="2"/}
+      </ul>
+        </div>
+    <script>
+	var pagnation=$("#pagnation");
+	$(document).on("keydown",function(event){
+		switch(event.keyCode){
+			 case 37 : window.location.href = pagnation.find(".page-prev").attr("href");break;
+			 case 39 : window.location.href = pagnation.find(".page-next").attr("href");break
+		}
+	});
+</script> 
+  </div>
+      <div id="J_channel_right_sidebar" class='main_right'>
+    <div class="main_r_title">
+          <h4><span><em style='width:130px;'></em>24小时新闻排行</span></h4>
+        </div>
+    <div class="main_item_cnt">
+          <ul id="hoursListNews" class="special_more_item">
+        {dede:arclist row='10' orderby='hot' titlelen='55' }
+        <li><i class="i[field:global name=autoindex runphp="yes"]@me=@me-1;[/field:global]"></i><a
+                                  href="[field:arcurl/]"
+                                  target="_blank" title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+        </div>
+    <div class="main_r_title">
+          <h4><span><em></em>新闻热点</span></h4>
+        </div>
+    <div class="main_item_cnt">
+          <ul id="news_hot_day_item" class="main_item_news">
+        {dede:arclist row='6' flag='p' orderby='rand'}
+        <li><a title="[field:title/]"
+                                     href="[field:arcurl/]"
+                                     target="_blank" class="news_pic"><img class="animation"
+                                          src="[field:litpic/]"
+                                          alt="[field:title/]" width="145" height="105"></a><a
+                                      href="[field:arcurl/]"
+                                      target="_blank" class="title_news" title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+        </div>
+    <div style="width:300px; padding-left:30px;"> 
+          <script src='/plus/ad_js.php?aid=33' language='javascript'></script> 
+          <!-- <img src="{dede:global.cfg_basehost/}/images/ad/2.png">--> 
+        </div>
+    <!--<div class="gg_channel_r_b" id="channel_right_1">--> 
+    
+    <!-- 广告位：新闻内页_300*100 --> 
+    <!--  					<script type="text/javascript" >BAIDU_CLB_SLOT_ID = "1109520";</script>
+  					<script type="text/javascript" src="../cbjs.baidu.com/js/o.js"></script>	--> 
+    <!--</div>--> 
+    <!--<div class="gg_channel_r_b"  id="channel_right_2">--> 
+    <!-- 广告位：新闻页面_右2_300*250 --> 
+    <!--  <script type="text/javascript" src="resources/channel/list_index_300_250_3_gg.js"></script>--> 
+    <!--	</div>--> 
+  </div>
+    </div>
+<div class="goto_top"><a id='gotop_btn' class='show_go_0' href="javascript:;"></a><a class='show_go_1' href="javascript:;"></a>
+      <div class="erwei_cnt"></div>
+    </div>
+{dede:include filename="style_footer.htm"/}
+<div style="display:none;"> </div>
+<script src="{dede:global.cfg_templets_skin/}/assets/js/channel.js"></script> 
+<script  type="text/javascript">
+  (function(){
+    if (!channel_no_lunbo){
+        setTimeout(function(){
+            //图片切换
+            var sliderCnt=$('#sliderContain');
+            var btn_left=sliderCnt.find('.btn_left');
+            var btn_right=sliderCnt.find('.btn_right');
+            var oLi=sliderCnt.children('li');
+            var titleNewsSlider=$('#titleNewsSlider');//新闻标题dom
+            var i_iNow=titleNewsSlider.find('i.now');//当前页索引容器dom
+            var _Sum=oLi.length;//图片总数
+            var iNow=0;
+            timer();
+            titleNewsSlider.find('i.sum').html(_Sum);
+            btn_right.on('click',function(){
+                iNow++;
+                if(iNow >= parseInt(_Sum)){
+                    iNow=0;
+                }
+                move(iNow);
+            });
+            btn_left.on('click',function(){
+                iNow--;
+                if(iNow < 0){
+                    iNow=parseInt(_Sum-1);
+                }
+                move(iNow);
+            });
+            sliderCnt.hover(function(){
+                btn_left.stop();
+                btn_right.stop();
+                btn_left.animate({'left':'0px'});
+                btn_right.animate({'right':'0px'});
+                clearInterval(t);
+            },function(){
+                btn_left.stop();
+                btn_right.stop();
+                btn_left.animate({'left':'-42px'});
+                btn_right.animate({'right':'-42px'});
+                timer();
+            });
+            function timer(){
+              t=setInterval(function(){
+               iNow++;
+               if(iNow >= parseInt(_Sum)){
+                 iNow=0;
+               }
+                move(iNow);
+                 },5000);
+            }
+            function move(index){
+                oLi.eq(index).show().siblings('li').hide();
+                titleNewsSlider.find('a').html(oLi.eq(index).find('img').attr('alt')).attr('href',oLi.eq(index).find('a').attr('href'));
+                i_iNow.html(index+1);
+            }
+        },3000);
+    }
+  })();
+</script> 
+<script src="{dede:global.cfg_templets_skin/}/assets/detail_v6/detail.js"></script> 
+<script src="{dede:global.cfg_templets_skin/}/assets/js/globle_bottom.js"></script> 
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/cbjs.baidu.com/js/m.js"></script> 
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/channel/channel_gg.js"></script> 
+<script type="text/javascript">
+    /*嵩恒-悬浮-左右折叠200*250-创建于 2015-07-15*/
+    var cpro_id = "u2218976";
+</script> 
+<script src="{dede:global.cfg_templets_skin/}/cpro.baidustatic.com/cpro/ui/s.js" type="text/javascript"></script> 
+<!--[if IE 6]>
+<script src="{dede:global.cfg_templets_skin/}/assets/js/DDPngMin.js"></script>
+<script>
+    DD_belatedPNG.fix('.png24,.btn_left,.btn_right');
+    $('#gotop_btn').find('.erwei_cnt').append("<img src='/assets/images/2codes.png'>");
+    $('a.show_go_1').on('mouseenter', function(){
+      $(this).siblings('.erwei_cnt').css({'display':'block','filter':'alpha(opacity=100)'});
+    });
+    $('a.show_go_1').on('mouseleave', function(){
+      $(this).siblings('.erwei_cnt').css({'display':'none','filter':'alpha(opacity=0)'});
+    });  
+</script>
+<![endif]-->
+</body>
+</html>

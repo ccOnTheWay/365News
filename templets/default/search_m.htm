@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta charset="utf-8">
+<meta name="format-detection" content="telephone=no">
+<meta name="keywords" content="{dede:field name='keywords'/}" />
+<meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+
+<link type="text/css" rel="stylesheet" href="assets/css/common-debug_50f4f76.css">
+<link rel="stylesheet" type="text/css" href="assets/css/pagelet_dfa255f.css">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/css/touch.css" />
+</head>
+<body class="withHeader list-page">
+{dede:include filename="style_header_m.htm"/}
+<!-- channel widget start -->
+<div id="pageletChannelWidgets"></div>
+<!-- channel widget end -->
+<!-- list content start -->
+  <content id="pageletListContent" class="feed-list-container">
+      <div class="list_content" pull-fresh="">
+          {dede:list pagesize='10'}
+              [field:style /]
+          {/dede:list}
+      </div>
+  </content>
+<!-- list content end -->
+
+ <div class="dede_pages">
+   <ul class="pagelist">
+    {dede:pagelist listitem="info,pre,next" listsize="5"/}
+   </ul>
+  </div>
+
+<!-- bottom banner start -->
+<div id="pageletBottomBanner" class="banner-index-bottom"><a href="javascript:void(0)" class="close"></a><a href="javascript:void(0)" target="_self" class="download" rel="nofollow"><div class="logo"><div class="mask"></div></div><div class="banner-label"><p class="tb">今日头条</p><p>4亿用户的选择</p></div></a>
+</div>
+<!-- bottom banner end -->
+<!--<div class="nav">
+    <ul>
+          <li><a href="{dede:type}[field:typeurl/]{/dede:type}" style="margin:0 ; padding:0;text-align:center;">返回列表页</a></li>
+    </ul>
+</div>-->
+
+
+<div class="footer">
+   {dede:global.cfg_shoujidibu/}
+    <p><a href="{dede:global.cfg_basehost/}">电脑版</a></p>
+</div>
+<!--<div class="fudong">
+  <div class="fudongcon"><span><a href="" target="_blank">立即下载</a></span>{dede:global.cfg_webname/}<br />最好用的咨询手机APP</div>
+</div>-->
+
+<div class="mask"></div>
+</body>
+</html>

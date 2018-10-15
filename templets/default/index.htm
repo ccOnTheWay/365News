@@ -1,0 +1,870 @@
+<!doctype html>
+<html lang="zh-cmn-Hans-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<META name="filetype" content="1">
+<META name="publishedtype" content="1">
+<META name="pagetype" content="2">
+<META name="catalogs" content="toutiao_PC">
+<meta name="applicable-device" content="pc">
+<link href="{dede:global.cfg_basehost/}/favicon.ico" type="image/x-icon" rel="icon" />
+<title>{dede:global.cfg_webname/}</title>
+<meta name="description" content="{dede:global.cfg_description/}" />
+<meta name="keywords" content="{dede:global.cfg_keywords/}" />
+<meta name="author" content="order by dede58.com" />
+<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/reset.css" />
+<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/common.css" />
+<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/page_index.css" />
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/minicookie.js"></script>
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/jquery.cookie.js"></script>
+<script src="{dede:global.cfg_templets_skin/}/assets/js/globle.js"></script>
+<!-- 搜索框提示词 -->
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/v1/js/search_word.js"></script>
+<script src="{dede:global.cfg_templets_skin/}/dup.baidustatic.com/js/ds.js"></script>
+<!-- html5shiv.js支持H5的插件&Respond.js支持媒体查询的插件 -->
+<!--[if lt IE 9]>
+    <script src="{dede:global.cfg_templets_skin/}/assets/js/html5shiv.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/assets/js/respond.min.js"></script>
+    <![endif]-->
+<script type="text/javascript">var img_domain = "http://imgmini.eastday.com/"; var newstype = "toutiao";</script><!--http://imgmini.eastday.com/-->
+<script type="text/javascript">
+try {
+var urlhash = window.location.hash;
+if (!urlhash.match("fromapp"))
+{
+if ((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i)))
+{
+window.location="{dede:global.cfg_basehost/}/m/";
+}
+}
+}
+catch(err)
+{
+}</script>
+</head>
+<body>
+
+<!-- 头部 start --> 
+{dede:include filename="style_header.htm"/} 
+<!-- /导航 end --> 
+
+<!-- 第一屏 start -->
+<div class="first-view">
+  <div class="container first-view-container clearfix"> 
+    <!-- 热点要闻 + 个性推荐 start -->
+    <div class="hot-personality fl">
+      <div id="J_hot_personality_nav" class="hot-personality-nav pr clearfix"> <a class="J-nav nav-hot fl active" href="javascript:;" data-target="hn">热点要闻</a> <a class="J-nav nav-personality fl" href="javascript:;" data-target="pr">个性推荐</a> 
+        <!--<a class="more" href="javascript:;">更多<i>+</i></a>--> 
+        <span class="J-bt-line bt-line"></span> </div>
+      <div class="hot-personality-content pr"> 
+        <!-- 热点要闻 start -->
+        <div id="J_hot_news" class="hot-news">
+          <div class="hot-news-top">
+            <ul class="hnt-list">
+              <!--while one-->
+              <li class="hnt-item pr"> <i class="dot"></i> {dede:arclist row='1' titlelen='50' infolen='160' limit='0,1' orderby='hot'} <a class="title-lg" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a> {/dede:arclist}
+                <p class="title-sm-wrap clearfix"> {dede:arclist row='2' titlelen='30' infolen='160' limit='1,2' orderby='hot'} <a  class="title-sm fl" href="[field:arcurl/]" target="_blank">[field:title/]</a> {/dede:arclist} </p>
+              </li>
+              <!--while one--> 
+              <!--while two-->
+              <li class="hnt-item pr"> <i class="dot"></i> {dede:arclist row='1' titlelen='50' infolen='160' limit='3,1' orderby='hot'} <a class="title-lg" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a> {/dede:arclist}
+                <p class="title-sm-wrap clearfix"> {dede:arclist row='2' titlelen='30' infolen='160' limit='4,2' orderby='hot'} <a  class="title-sm fl" href="[field:arcurl/]" target="_blank">[field:title/]</a> {/dede:arclist} </p>
+              </li>
+              <!--while two--> 
+              <!--while three-->
+              <li class="hnt-item pr"> <i class="dot"></i> {dede:arclist row='1' titlelen='50' infolen='160' limit='5,1' orderby='hot'} <a class="title-lg" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a> {/dede:arclist}
+                <p class="title-sm-wrap clearfix"> {dede:arclist row='2' titlelen='30' infolen='160' limit='7,2' orderby='hot'} <a  class="title-sm fl" href="[field:arcurl/]" target="_blank">[field:title/]</a> {/dede:arclist} </p>
+              </li>
+              <!--while three--> 
+              <!--while four-->
+              <li class="hnt-item pr"> <i class="dot"></i> {dede:arclist row='1' titlelen='50' infolen='160' limit='8,1' orderby='hot'} <a class="title-lg" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a> {/dede:arclist}
+                <p class="title-sm-wrap clearfix"> {dede:arclist row='2' titlelen='30' infolen='160' limit='11,2' orderby='hot'} <a  class="title-sm fl" href="[field:arcurl/]" target="_blank">[field:title/]</a> {/dede:arclist} </p>
+              </li>
+              <!--while four-->
+            </ul>
+          </div>
+          <div class="hot-news-bottom"> 
+            <!--while one-->
+            <ul class="hnb-list">
+              {dede:arclist row='1' limit='0,1' titlelen='50'}
+              <li class="hnb-item first pr"><i class="dot"></i><a class="title-main" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+              {/dede:arclist}  
+              {dede:arclist row='1' limit='1,5' titlelen='50'}
+              <li class="hnb-item  pr"><i class="dot-sm"></i><a class="title-sub" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+              {/dede:arclist}
+            </ul>
+            <!--while one--> 
+            <!--while two-->
+            <ul class="hnb-list">
+              {dede:arclist row='1' limit='6,1' titlelen='50'}
+              <li class="hnb-item first pr"><i class="dot"></i><a class="title-main" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+              {/dede:arclist}  
+              {dede:arclist row='1' limit='7,5' titlelen='50'}
+              <li class="hnb-item  pr"><i class="dot-sm"></i><a class="title-sub" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+              {/dede:arclist}
+            </ul>
+            <!--while two--> 
+            <!--while three-->
+            <ul class="hnb-list">
+              {dede:arclist row='1' limit='12,1' titlelen='50'}
+              <li class="hnb-item first pr"><i class="dot"></i><a class="title-main" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+              {/dede:arclist}  
+              {dede:arclist row='1' limit='13,5' titlelen='50'}
+              <li class="hnb-item  pr"><i class="dot-sm"></i><a class="title-sub" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+              {/dede:arclist}
+            </ul>
+            <!--while three--> 
+            <!--while four-->
+            <ul class="hnb-list">
+              {dede:arclist row='1' limit='18,1' titlelen='50'}
+              <li class="hnb-item first pr"><i class="dot"></i><a class="title-main" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+              {/dede:arclist}  
+              {dede:arclist row='1' limit='19,5' titlelen='50'}
+              <li class="hnb-item  pr"><i class="dot-sm"></i><a class="title-sub" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+              {/dede:arclist}
+            </ul>
+            <!--while four--> 
+            
+          </div>
+        </div>
+        <!-- /热点要闻 end --> 
+        <!-- 个性推荐 start -->
+        <div id="J_personality_recommend" class="personality-recommend none">
+          <div class="J-pr-content-wrap pr-content-wrap" style="height: 1043px;">
+            <ul id="J_pr_list" class="pr-list">
+              {dede:arclist row='10' flag='c' titlelen='40'}
+              <li class="pr-item pr"><a class="img" href="[field:arcurl/]" target="_blank" title="[field:title/]"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="100" height="75"></a>
+                <div class="pr-list-txt-wrap">
+                  <h4><a href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></h4>
+                  <p>[field:title/]</p>
+                </div>
+              </li>
+              {/dede:arclist}
+            </ul>
+          </div>
+          <!--<p class="pr-more"><a href="javascript:;">更多个性推荐新闻</a></p>--> 
+        </div>
+        <!-- /个性推荐 end --> 
+      </div>
+    </div>
+    <!-- /热点要闻 + 个性推荐 end -->
+    
+    <div class="carousel-wrap fr"> 
+      <!-- 轮播 start -->
+      <div class="carousel">
+        <div class="right_slider_cnt">
+          <div id="banner_silider" class="banner"> {dede:arclist row='1' limit='0,1' titlelen='50' flag='f'} <a class="img_a inline" target="_blank" data-title="[field:title/]" href="[field:arcurl/]"> <img src="[field:litpic/]"  width="580px"  height="326px" alt="[field:title/]"> </a> {/dede:arclist}
+            {dede:arclist row='3' limit='1,3' titlelen='50' flag='f'} <a class="img_a none" target="_blank" data-title="[field:title/]" href="[field:arcurl/]"> <img style="width:580px; height:326px" src="[field:litpic/]" alt="[field:title/]"> </a> {/dede:arclist}
+            <div class="banner_bar"></div>
+            {dede:arclist row='1' limit='0,1' titlelen='50' flag='f'}
+            <div class="banner_txt"> <a target="_blank" href="[field:arcurl/]">[field:title/]</a> </div>
+            {/dede:arclist}
+            <div class="banner_act"> {dede:arclist row='1' limit='0,1' titlelen='50' flag='f'}
+              <div><span class="now"></span></div>
+              {/dede:arclist}
+              {dede:arclist row='3' limit='1,3' titlelen='50' flag='f'}
+              <div><span></span></div>
+              {/dede:arclist} </div>
+            <div class="btn_l"></div>
+            <div class="btn_r"></div>
+          </div>
+        </div>
+      </div>
+      <!-- /轮播 end --> 
+      
+      <!-- 推广1 start -->
+      <div class="gg-index-1 mt10"> 
+        <!-- 广告位：嵩恒_头条_新站_首页_轮播图下方 --> 
+        {dede:myad name='gg-index-01'/} </div>
+      <!-- 推广1 end --> 
+      <!-- 大家在看 + 暖新闻 start -->
+      <div class="clearfix mt20">
+        <div class="everybody-see fl">
+          <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+          {dede:arclist row='1' limit='0,1' orderby='rand' flag='p'} <a class="img-txt pr " href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"/></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' orderby='rand' flag='p'} <a class="img-txt pr mt20" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"/></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist} </div>
+        <div class="warm-news fr">
+          <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+          <ul class="wn-list">
+            {dede:arclist row='1' limit='0,1' titlelen='50' infolen='160' typeid='4'}
+            <li class="wn-item first pr"> <i class="dot"></i> <a class="title-main"  href="[field:arcurl/]" target="_blank" title="[field:title/]">
+              <p class='topic'>[field:title/]</p>
+              <p class="desc">[field:info/]</p>
+              </a> </li>
+            {/dede:arclist}  
+            {dede:arclist row='5' limit='1,5' titlelen='50' infolen='160' typeid='4'}
+            <li class="wn-item pr"><i class="dot-sm"></i><a class="title-sub"  href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+            {/dede:arclist}
+          </ul>
+          <!-- 推广2 start -->
+          <div class="gg-index-2 mt20"> 
+            <!-- 广告位：嵩恒_头条_新站_首页_淘宝广告 --> 
+            <!-- <img src="{dede:global.cfg_basehost/}/images/ad/2016030303314751.png">--> 
+            <script src='/plus/ad_js.php?aid=22' language='javascript'></script> 
+          </div>
+          <!-- 推广2 end --> 
+        </div>
+      </div>
+      <!-- /大家在看 + 暖新闻 end --> 
+      
+      <!-- 热搜新闻词 + 阅读排行 start -->
+      <div class="clearfix mt30">
+        <div class="hot-search fl">
+          <h4 class="title pr"><i class="png24"></i> <span class="png24"></span> </h4>
+          <!-- 推广3 start -->
+          <div class="gg-index-3 mt20"> 
+            <!-- <img src="{dede:global.cfg_basehost/}/images/ad/201603030337063.gif">--> 
+            <script src='/plus/ad_js.php?aid=23' language='javascript'></script> 
+            <!-- 广告位：嵩恒_头条_新站_首页_热搜新闻词 -->
+            
+            <div id="_hc7wscy8nilr3sor"></div>
+            <div id="BAIDU_UNION__wrapper_u2487489_0"> </div>
+          </div>
+          <!-- 推广3 end --> 
+        </div>
+        <div class="read-rate pr fr">
+          <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+          <ul id="J_read_rate_tab" class="tab-list clearfix">
+            <li class="tab-item fr"><a class="yesterday" href="javascript:;" data-target="yesterday">社会</a></li>
+            <li class="tab-item fr"><a class="today active" href="javascript:;" data-target="today">国内</a></li>
+          </ul>
+          <div class="tab-ty-wrap">
+            <div id="J_tab_today" class="tab-today">
+              <ul class="rate-list">
+                {dede:arclist row='7' typeid='4' titlelen='50'}
+                <li><i class="png24 i[field:global name=autoindex runphp="yes"]@me=@me-1;[/field:global]"></i><a href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+                {/dede:arclist}
+              </ul>
+            </div>
+            <div id="J_tab_yesterday" class="tab-yesterday none">
+              <ul class="rate-list">
+                {dede:arclist row='7' typeid='1' titlelen='50'}
+                <li><i class="png24 i[field:global name=autoindex runphp="yes"]@me=@me-1;[/field:global]"></i><a href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+                {/dede:arclist}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /热搜新闻词 + 阅读排行 end --> 
+      
+    </div>
+  </div>
+</div>
+<!-- 第一屏 end --> 
+
+<!-- 国内 start -->
+<div class="container inland mt40"> {dede:type typeid='1'}
+  <div class="section-title png24 inland-hd">
+    <h3><a href="[field:typeurl/]" target="_blank">[field:typename/]<em>MAINLAND</em></a></h3>
+    <a class="more" href="[field:typeurl/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content inland-bd">
+    <div class="section-left">
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='0,1' typeid='1' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+        {dede:arclist row='5' limit='1,5' typeid='1' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='6,1' typeid='1' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+        {dede:arclist row='5' limit='7,5' typeid='1' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='1'}[field:typename/]{/dede:type}图片</span></h4>
+        <div class="mid-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='1' titlelen='40' flag='p'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='1' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}
+          {dede:arclist row='1' limit='2,1' typeid='1' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fr" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist} </div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        <div class="right-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='1' titlelen='40' flag='p' orderby='hot'} <a class="img1 fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="145" height="105"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist} 
+          {dede:arclist row='1' limit='1,1' typeid='1' titlelen='40' flag='p' orderby='hot'} <a class="img2 fr"  href='[field:arcurl/]' target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="145" height="105"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist} </div>
+        <ul class="sl-list">
+          {dede:arclist row='1' limit='0,1' typeid='1' titlelen='50'  orderby='hot'}
+          <li class="sl-item first pr"><i class="dot"></i><a class="title-main" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist} 
+          {dede:arclist row='4' limit='1,4' typeid='1' titlelen='50'  orderby='hot'}
+          <li class="sl-item  pr"><i class="dot-sm "></i><a class="title-sub" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- 推广4 -->
+  <div class="section-bottom gg-index-4 mt20"> 
+    <!-- 嵩恒_新闻站首页_横幅广告1 --> 
+    {dede:myad name='gg-index-02'/} 
+    <!-- 嵩恒_新闻站首页_横幅广告1 --> 
+  </div>
+</div>
+<!-- /国内 end --> 
+
+<!-- 国际 start -->
+<div class="container internatioinal mt40"> {dede:type typeid='2'}
+  <div class="section-title png24 internatioinal-hd pr">
+    <h3><a href="[field:typeurl/]" target="_blank">[field:typename/]<em>WORLD</em></a></h3>
+    <a class="more"  href="[field:typeurl/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content internatioinal-bd">
+    <div class="section-left">
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='0,1' typeid='2' titlelen='50' }
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='1,5' typeid='2' titlelen='50' }
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='6,1' typeid='2' titlelen='50' }
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='7,5' typeid='2' titlelen='50' }
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='2'}[field:typename/]{/dede:type}图片</span></h4>
+        <div class="mid-img clearfix"> {dede:arclist row='1' typeid='2' limit='0,1' flag='p' titlelen='40'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist} 
+          {dede:arclist row='1' typeid='2' limit='1,1' flag='p' titlelen='40'} <a class="img2 fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist} 
+          {dede:arclist row='1' typeid='2' limit='2,1' flag='p' titlelen='40'} <a class="img3 fr" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist} </div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        <ul class="order-list">
+          {dede:arclist row='5' typeid='2'  titlelen='40' orderby='hot'}
+          <li ><i class="png24 i[field:global name=autoindex runphp="yes"]@me=@me-1;[/field:global] "></i><a href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /国际 end --> 
+
+<!-- 社会 start -->
+<div class="container social mt40"> {dede:type typeid='4'}
+  <div class="section-title png24 social-hd pr">
+    <h3><a href="[field:typeurl/]" target="_blank">[field:typename/]<em>SOCIETY</em></a></h3>
+    <a class="more" href="[field:typeurl/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content social-bd">
+    <div class="section-left">
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='0,1' typeid='4' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='1,5' typeid='4' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='6,1' typeid='4' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='7,5' typeid='4' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='13,1' typeid='4' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='14,5' typeid='4' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='4'}[field:typename/]{/dede:type}图片</span></h4>
+        <div class="mid-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='4' titlelen='40' flag='p'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='4' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}
+          {dede:arclist row='1' limit='2,1' typeid='4' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fr" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist} </div>
+        <!-- 推广5 -->
+        <div class="gg-index-5 mt30"> 
+          <!-- 广告位：嵩恒_头条_新站_首页_社会图片下方 -->
+          
+          <div style="padding-top:30px"> {dede:myad name='ad4'/} 
+            <!-- 广告位：嵩恒_头条_新站_首页_社会图片下方 --> 
+          </div>
+        </div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        <div class="right-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='4' titlelen='40' flag='p' orderby='hot'} <a class="img1 fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="145" height="105"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='4' titlelen='40' flag='p' orderby='hot'} <a class="img2 fr"  href='[field:arcurl/]' target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="145" height="105"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}</div>
+        <ul class="sl-list mt25">
+          {dede:arclist row='1' limit='0,1' typeid='4' titlelen='40'  orderby='hot'}
+          <li class="sl-item first pr"><i class="dot"></i><a class="title-main" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+          {dede:arclist row='4' limit='1,4' typeid='4' titlelen='40'  orderby='hot'}
+          <li class="sl-item  pr"><i class="dot-sm "></i><a class="title-sub" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+        <ul class="sl-list mt25">
+          {dede:arclist row='1' limit='5,1' typeid='4' titlelen='40'  orderby='hot'}
+          <li class="sl-item first pr"><i class="dot"></i><a class="title-main" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+          {dede:arclist row='4' limit='6,4' typeid='4' titlelen='40'  orderby='hot'}
+          <li class="sl-item  pr"><i class="dot-sm "></i><a class="title-sub" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /社会 end --> 
+
+<!-- 娱乐 start -->
+<div class="container entertainment mt40"> {dede:type typeid='5'}
+  <div class="section-title png24 entertainment-hd pr">
+    <h3><a href="[field:typeurl/]" target="_blank">[field:typename/]<em>ENTERTAINMENT</em></a></h3>
+    <a class="more" href="[field:typeurl/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content entertainment-bd">
+    <div class="section-left">
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='0,1' typeid='5' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='1,5' typeid='5' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='6,1' typeid='5' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='7,5' typeid='5' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='5'}[field:typename/]{/dede:type}图片</span></h4>
+        <div class="mid-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='5' titlelen='40' flag='p'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='5' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}
+          {dede:arclist row='1' limit='2,1' typeid='5' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fr" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}</div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        <ul class="order-list">
+          {dede:arclist row='5' typeid='5'  titlelen='40' orderby='hot'}
+          <li ><i class="png24 i[field:global name=autoindex runphp="yes"]@me=@me-1;[/field:global] "></i><a href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- 推广6 -->
+  <div class="section-bottom gg-index-6 mt20"> 
+    <!-- 嵩恒_新闻站首页_横幅广告2 --> 
+    {dede:myad name='ad6'/} 
+    <!-- 嵩恒_新闻站首页_横幅广告2 --> 
+  </div>
+</div>
+<!-- /娱乐 end --> 
+<!-- 军事 start -->
+<div class="container military mt40"> {dede:type typeid='7'}
+  <div class="section-title png24 military-hd pr">
+    <h3><a href="[field:typeurl/]" target="_blank">[field:typename/]<em>MILITARY</em></a></h3>
+    <a class="more" href="[field:typeurl/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content military-bd">
+    <div class="section-left">
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='0,1' typeid='7' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='1,5' typeid='7' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='6,1' typeid='7' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='7,5' typeid='7' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='7'}[field:typename/]图片{/dede:type}</span></h4>
+        <div class="mid-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='7' titlelen='40' flag='p'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='7' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}
+          {dede:arclist row='1' limit='2,1' typeid='7' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fr" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}</div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        <div class="right-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='7' titlelen='40' flag='p' orderby='hot'} <a class="img1 fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="145" height="105"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='7' titlelen='40' flag='p' orderby='hot'} <a class="img2 fr"  href='[field:arcurl/]' target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="145" height="105"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}</div>
+        <ul class="sl-list mt25">
+          {dede:arclist row='1' limit='0,1' typeid='7' titlelen='40'  orderby='hot'}
+          <li class="sl-item first pr"><i class="dot"></i><a class="title-main" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+          {dede:arclist row='4' limit='1,4' typeid='7' titlelen='40'  orderby='hot'}
+          <li class="sl-item  pr"><i class="dot-sm "></i><a class="title-sub" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /军事 end --> 
+
+<!-- 科技 start -->
+<div class="container technology mt40"> {dede:type typeid='8'}
+  <div class="section-title png24 technology-hd pr">
+    <h3><a href="[field:typename/]" target="_blank">[field:typename/]<em>TECHNOLOGY</em></a></h3>
+    <a class="more" href="[field:typename/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content technology-bd">
+    <div class="section-left">
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='0,1' typeid='8' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='1,5' typeid='8' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='6,1' typeid='8' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='7,5' typeid='8' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='12,1' typeid='8' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='13,5' typeid='8' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='8'}[field:typename/]{/dede:type}图片</span></h4>
+        <div class="mid-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='8' titlelen='40' flag='p'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='8' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}
+          {dede:arclist row='1' limit='2,1' typeid='8' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fr" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist} 
+          <!-- 科技推广7 --> 
+          {dede:myad name='ad7'/} 
+          <!-- 科技推广7 --> 
+        </div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        <ul class="img-txt-list">
+          {dede:arclist row='5' typeid='8' titlelen='60' orderby='hot'}
+          <li class="img-txt-item clearfix"> <a class="img fl" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <img class="animation" src="[field:picname function='thumb(@me,112,84,true)'/]" alt="[field:title/]" width="112" height="84"> </a>
+            <div class="txt">
+              <p class="topic"><a href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></p>
+              <p class="from mt5">来源：[field:source/]</p>
+              <p class="time">[field:pubdate function=MyDate('m-d',@me)/]</p>
+            </div>
+          </li>
+          {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /科技 end --> 
+
+<!-- 时尚 start -->
+<div class="container fashion mt40"> {dede:type typeid='10'}
+  <div class="section-title png24 fashion-hd pr">
+    <h3><a href="[field:typeurl/]" target="_blank">[field:typename/]<em>FASHION</em></a></h3>
+    <a class="more" href="[field:typeurl/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content fashion-bd">
+    <div class="section-left">
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='0,1' typeid='10' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='1,5' typeid='10' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='6,1' typeid='10' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='7,5' typeid='10' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='10'}[field:typename/]{/dede:type}图片</span></h4>
+        <div class="mid-img clearfix">{dede:arclist row='1' limit='0,1' typeid='10' titlelen='40' flag='p'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='10' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}
+          {dede:arclist row='1' limit='2,1' typeid='10' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fr" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist} </div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        {dede:arclist row='2' typeid='10' flag='p' orderby='hot'} <a class="srr-img" href="[field:arcurl/]" target="_blank"><img class="animation" src="[field:picname function='thumb(@me,316,142,true)'/]" alt="" width="316" height="142"></a> {/dede:arclist} 
+        <!-- 推广8 --> 
+        
+      </div>
+    </div>
+  </div>
+  <!-- 推广11 -->
+  <div class="section-bottom gg-index-11 mt20"> 
+    <!-- 嵩恒_新闻站首页_横幅广告3 --> 
+    {dede:myad name='ad8'/} 
+    <!-- 嵩恒_新闻站首页_横幅广告3 --> 
+  </div>
+</div>
+<!-- /时尚 end --> 
+
+<!-- 汽车 start -->
+<div class="container car mt40"> {dede:type typeid='15'}
+  <div class="section-title png24 car-hd pr">
+    <h3><a href="[field:typeurl/]" target="_blank">[field:typename/]<em>AUTOMOBILE</em></a></h3>
+    <a class="more" href="[field:typeurl/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content car-bd">
+    <div class="section-left">
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='0,1' typeid='15' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='1,5' typeid='15' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='6,1' typeid='15' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='7,5' typeid='15' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='15'}[field:typename/]{/dede:type}图片</span></h4>
+        <div class="mid-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='15' titlelen='40' flag='p'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='15' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}
+          {dede:arclist row='1' limit='2,1' typeid='15' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fr" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist} </div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        <ul class="order-list">
+          {dede:arclist row='5' typeid='15'  titlelen='40' orderby='hot'}
+          <li ><i class="png24 i[field:global name=autoindex runphp="yes"]@me=@me-1;[/field:global] "></i><a href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /汽车 end --> 
+
+<!-- 财经 start -->
+<div class="container finance mt40"> {dede:type typeid='9'}
+  <div class="section-title png24 finance-hd pr">
+    <h3><a href="[field:typeurl/]" target="_blank">[field:typename/]<em>FINANCE</em></a></h3>
+    <a class="more" href="[field:typeurl/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content finance-bd">
+    <div class="section-left">
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='0,1' typeid='9' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='1,5' typeid='9' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+      <ul class="sl-list">
+        {dede:arclist row='1' limit='6,1' typeid='9' titlelen='50'}
+        <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist} 
+        {dede:arclist row='1' limit='7,5' typeid='9' titlelen='50'}
+        <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='9'}[field:typename/]{/dede:type}图片</span></h4>
+        <div class="mid-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='9' titlelen='40' flag='p'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist} 
+          <!-- 推广13 -->
+          <div class="gg-index-13 mt30"> 
+            <!-- 广告位：嵩恒_头条_新站_首页_财经图片下方 --> 
+            {dede:myad name='ad9'/} 
+            <!-- 广告位：嵩恒_头条_新站_首页_财经图片下方 --> 
+          </div>
+        </div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        <div class="right-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='9' titlelen='40' flag='p' orderby='hot'} <a class="img1 fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="145" height="105"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='9' titlelen='40' flag='p' orderby='hot'} <a class="img2 fr"  href='[field:arcurl/]' target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="145" height="105"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}</div>
+        <ul class="sl-list mt25">
+          {dede:arclist row='1' limit='0,1' typeid='9' titlelen='40'  orderby='hot'}
+          <li class="sl-item first pr"><i class="dot"></i><a class="title-main" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+          {dede:arclist row='4' limit='1,4' typeid='9' titlelen='40'  orderby='hot'}
+          <li class="sl-item  pr"><i class="dot-sm "></i><a class="title-sub" href='[field:arcurl/]' target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /财经 end --> 
+
+<!-- 体育 start -->
+<div class="container sports mt40"> {dede:type typeid='11'}
+  <div class="section-title png24 sports-hd pr">
+    <h3><a href="[field:typeurl/]" target="_blank">[field:typename/]<em>SPORTS</em></a></h3>
+    <a class="more" href="[field:typeurl/]" target="_blank">更多<i>+</i></a> </div>
+  {/dede:type}
+  <div class="section-content sports-bd">
+    <div class="section-left">
+      <div class="section-left">
+        <ul class="sl-list">
+          {dede:arclist row='1' limit='0,1' typeid='11' titlelen='50'}
+          <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist} 
+          {dede:arclist row='1' limit='1,5' typeid='11' titlelen='50'}
+          <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+        <ul class="sl-list">
+          {dede:arclist row='1' limit='6,1' typeid='11' titlelen='50'}
+          <li class="sl-item first pr"> <i class="dot"></i><a class="title-main"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist} 
+          {dede:arclist row='1' limit='7,5' typeid='11' titlelen='50'}
+          <li class="sl-item  pr"> <i class="dot-sm"></i><a class="title-sub"  href='[field:arcurl/]'  target='_blank' title="[field:title/]">[field:title/]</a></li>
+          {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+    <div class="section-right clearfix">
+      <div class="sr-l fl">
+        <h4 class="title pr"><i class="png24"></i><span>{dede:type typeid='11'}[field:typename/]{/dede:type}图片</span></h4>
+        <div class="mid-img clearfix"> {dede:arclist row='1' limit='0,1' typeid='11' titlelen='40' flag='p'} <a class="img1 block" href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="240" height="120"></span> <span class="txt">[field:title/]</span> </a> {/dede:arclist}
+          {dede:arclist row='1' limit='1,1' typeid='11' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fl" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist}
+          {dede:arclist row='1' limit='2,1' typeid='11' titlelen='40' flag='p'} <a class="img[field:global name=autoindex runphp="yes"]@me=@me+1;[/field:global]   fr" href='[field:arcurl/]' target="_blank" title="[field:title/]"><span class="img"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="112" height="84"></span><span class="txt">[field:title/]</span></a> {/dede:arclist} </div>
+      </div>
+      <div class="sr-r fr">
+        <h4 class="title pr"><i class="png24"></i><span class="png24"></span></h4>
+        <ul class="sl-list">
+          {dede:arclist row='1' limit='0,1' typeid='11' titlelen='55'}
+          <li class="sl-item first pr"> <i class="dot"></i> <a class="title-main" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/] </a> </li>
+          {/dede:arclist}
+          {dede:arclist row='1' limit='1,4' typeid='11' titlelen='55'}
+          <li class="sl-item  pr"> <i class="dot-sm"></i> <a class="title-sub" href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/] </a> </li>
+          {/dede:arclist}
+        </ul>
+        <!-- 推广9 --> 
+        <script src='/plus/ad_js.php?aid=30' language='javascript'></script> 
+        
+        <!-- <img src="{dede:global.cfg_basehost/}/images/ad/1.png" style="padding-top:40px;">--> 
+      </div>
+    </div>
+  </div>
+  <!-- 推广12 -->
+  <div class="section-bottom gg-index-12 mt20"> 
+    <!-- 嵩恒_新闻站首页_横幅广告4 --> 
+    <!-- <img src="{dede:global.cfg_basehost/}/images/ad/2.gif"  width="1020px">--> 
+    <script src='/plus/ad_js.php?aid=31' language='javascript'></script> 
+  </div>
+</div>
+<!-- /体育 end --> 
+
+<!-- 图片 start -->
+<div class="container picture mt40">
+  <div class="section-title png24 picture-hd pr"> {dede:type typeid='3'}
+    <h3><a href="[field:typeurl/]" target='_blank'>[field:typename/]<em>IMAGE</em></a></h3>
+    {/dede:type} 
+    <!--    <a class="more" href="javascript:;">更多<i>+</i></a>--> 
+  </div>
+  <div class="picture-bd clearfix"> {dede:arclist row='1' limit='0,1' flag='c,p' }
+    <div class="pic-l fl"> <a href="[field:arcurl/]" target="_blank"> <img class="animation" src="[field:litpic/]" alt="[field:title/]" width="390" height="292"> <span class="txt">[field:title/]</span> <span class="bg"></span> <span class="ctg"></span> </a> </div>
+    {/dede:arclist}
+    {dede:arclist row='1' limit='1,1' flag='c,p' }
+    <div class="pic-r fr"> <a href="[field:arcurl/]" target="_blank"> <img class="animation" src="[field:litpic/]" alt="[field:title/]" width="189" height="292"> <span class="ctg"></span> </a> </div>
+    {/dede:arclist}
+    <div class="pic-mid">
+      <p class="clearfix"> {dede:arclist row='1' limit='2,1' flag='c,p' } <a class="fl" href="[field:arcurl/]" target="_blank"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="188" height="138"></a> {/dede:arclist} 
+        
+        {dede:arclist row='1' limit='3,1' flag='c,p' } <a class="fr" href="[field:arcurl/]" target="_blank"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="188" height="138"></a> {/dede:arclist} </p>
+      <p class="mt16 clearfix"> {dede:arclist row='1' limit='4,1' flag='c,p' } <a class="fl" href="[field:arcurl/]" target="_blank"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="188" height="138"></a> {/dede:arclist}
+        
+        {dede:arclist row='1' limit='5,1' flag='c,p' } <a class="fr" href="[field:arcurl/]" target="_blank"><img class="animation" src="[field:litpic/]" alt="[field:title/]" width="188" height="138"></a> {/dede:arclist} </p>
+    </div>
+  </div>
+</div>
+<!-- /图片 end --> 
+
+<!-- 右侧固定导航菜单 start -->
+<div class="goto_top"> <a id='J_shoucang' class='shoucang' href="javascript:;"></a>
+  <div class="sc-txt"><span>Ctrl+D</span> 将本页面保存为书签，全面了解最新资讯，方便快捷。</div>
+  <a id='gotop_btn' class='show_go_0' href="javascript:;"></a> <a class='show_go_1' href="javascript:;"></a>
+  <div class="erwei_cnt"></div>
+</div>
+<!-- /右侧固定导航菜单 end --> 
+
+<!-- 底部 start --> 
+{dede:include filename="style_footer.htm"/} 
+<!-- /底部 end --> 
+
+<script src="{dede:global.cfg_templets_skin/}/assets/js/page_index.js"></script> 
+<script src="{dede:global.cfg_templets_skin/}/assets/js/globle_bottom.js"></script> 
+<!--[if IE 6]>
+<script src="{dede:global.cfg_templets_skin/}/assets/js/DDPngMin.js"></script>
+<script>
+    DD_belatedPNG.fix('.png24');
+    $('#gotop_btn').find('.erwei_cnt').append("<img src='{dede:global.cfg_templets_skin/}/assets/images/2codes.png'>");
+    $('a.show_go_1').on('mouseenter', function(){
+        $(this).siblings('.erwei_cnt').css({'display':'block','filter':'alpha(opacity=100)'});
+    });
+    $('a.show_go_1').on('mouseleave', function(){
+        $(this).siblings('.erwei_cnt').css({'display':'none','filter':'alpha(opacity=0)'});
+    });
+</script>
+<![endif]--> 
+<!--[if IE 7]>
+<script>
+    $('#gotop_btn').find('.erwei_cnt').append("<img src='{dede:global.cfg_templets_skin/}/assets/images/2codes.png'>");
+    $('a.show_go_1').on('mouseenter', function(){
+        $(this).siblings('.erwei_cnt').css({'display':'block','filter':'alpha(opacity=100)'});
+    });
+    $('a.show_go_1').on('mouseleave', function(){
+        $(this).siblings('.erwei_cnt').css({'display':'none','filter':'alpha(opacity=0)'});
+    });
+</script>
+<![endif]-->
+</body>
+</html>

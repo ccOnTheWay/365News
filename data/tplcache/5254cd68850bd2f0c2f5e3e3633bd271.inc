@@ -1,0 +1,1 @@
+<h3><a href="[field:typeurl/]" target='_blank'>[field:typename/]<em>IMAGE</em></a></h3>

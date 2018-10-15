@@ -1,0 +1,1 @@
+<img src="[field:imgsrc/]" width="100%" style="padding: 10px 10px 0 10px;width: calc(100% - (10px) * 2);">

@@ -1,0 +1,1 @@
+var JS_SEARCH_WORD = '裹被子连夜排队购房';

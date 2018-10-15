@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="keywords" content="{dede:field.keywords/}" />
+<meta name="description" content="{dede:field.description function='html2text(@me)'/}" />
+<link href="{dede:global.cfg_basehost/}/favicon.ico" type="image/x-icon" rel="icon" />
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/resources/stylesheets/global.css">
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/resources/stylesheets/news.css">
+<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/common.css" />
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/javascripts/jquery.js"></script>
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/cbjs.baidu.com/js/m.js"></script>
+ 
+	<style>
+.w1002 {
+	position: relative;
+	width: 1002px;
+	margin: 0 auto;
+}
+.img_bread {
+	float: left;
+	width: 50%;
+	height: 14px;
+	line-height: 14px;
+	font-size: 14px;
+	overflow: hidden;
+	color: #444444;
+}
+.img_bread a {
+	color: #444444;
+}
+.img_bread a:hover {
+	color: #ee4b4b;
+}
+.all_list {
+	width: 1002px;
+	margin: 0 auto;
+}
+.w14 {
+	width: 14px;
+	height: 14px;
+	float: left;
+}
+.all_list .list_bar {
+	width: 1000px;
+	float: left;
+}
+.img_block {
+	position: relative;
+	padding: 4px 0;
+	width: 238px;
+	margin-bottom: 14px;
+	border: 1px solid #dddddd;
+	text-align: center;
+	overflow: hidden;
+ -webkit-transition: border .5s, box-shadow .5s;
+ -moz-transition: border .5s, box-shadow .5s;
+ -ms-transition: border .5s, box-shadow .5s;
+ transition: border .5s, box-shadow .5s;
+ -webkit-animation: show_block .5s;
+ -moz-animation: show_block .5s;
+ -ms-animation: show_block .5s;
+ animation: show_block .5s;
+}
+.img_block div {
+	margin-left: 4px;
+	width: 230px;
+	overflow: hidden;
+}
+.img_block a img {
+	width: 230px;
+ -webkit-transition: -webkit-transform .5s;
+ -moz-transition: -webkit-transform .5s;
+ -ms-transition: -webkit-transform .5s;
+ transition: -webkit-transform .5s;
+}
+.img_block a img:hover {
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+}
+.img_block p a {
+	color: #333333;
+}
+.img_block p a:hover {
+	color: #0066aa;
+}
+.more_btn {
+	display: none;
+	height: 40px;
+	line-height: 40px;
+	border: 1px solid #e0e0e0;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 18px;
+	color: #666666;
+	cursor: pointer;
+	margin-bottom: 14px;
+}
+.more_btn:hover {
+	background-color: #ececec;
+	text-decoration: none;
+}
+.more_btn.loading {
+	background-color: #eaeaea;
+	color: #cccccc;
+}
+.img_block p.show_topic {
+	line-height: 28px;
+	font-size: 14px;
+	color: #333333;
+}
+.img_block p.show_topic {
+	line-height: 26px;
+	font-size: 12px;
+	color: #666666;
+}
+.num_span {
+	display: block;
+	position: absolute;
+	right: 4px;
+	top: 15px;
+	height: 26px;
+	line-height: 26px;
+	padding: 0 8px 0 12px;
+	background-color: #222222;
+	background-color: rgba(50, 50, 50, .8);
+	border-radius: 15px 0 0 15px;
+	color: #ffffff;
+}
+</style>
+</head>
+<body>
+{dede:include filename="images_header.htm"/}
+<div class="w1002">
+  <div class="line7"></div>
+  <div class="line7"></div>
+  <div class="img_bread">您的位置： {dede:field name='position'/}</div>
+  <div class="cf"></div>
+  <div class="line7"></div>
+  <div class="line7"></div>
+  <div class="all_list">
+    <div class="list_bar" style="float:left;"> {dede:list pagesize='20' titlelen='37'}
+      <div class="img_block" style="border: 1px solid rgb(221, 221, 221); box-shadow: none; float:left !important; margin:5px">
+        <div style="height: 155px"> <a href="[field:arcurl/]" target="_blank"> <img height="155" src="[field:litpic/]"> </a> </div>
+        <!-- <span class="num_span">29 张</span>-->
+        <p class="show_topic"><a target="_blank" href="[field:arcurl/]">[field:title/]</a></p>
+        <p class="show_date">[field:pubdate function="GetDateTimeMK(@me)"/]</p>
+      </div>
+      {/dede:list}
+      <div style="clear:both;"></div>
+    </div>
+    <div class="cf"></div>
+  </div>
+</div>
+<!--<a class="w1002 more_btn"> 点击查看更多 </a> <br />-->
+<div class="pagnation" id="pagnation" style="padding:20px 0;"> <ul>{dede:pagelist listitem="index,info,pre,next,pageno" listsize="2"/} </ul></div>
+{dede:include filename="style_footer.htm"/}
+</body>
+</html>

@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>{dede:global.cfg_webname/}</title>
+<meta charset="utf-8">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="{dede:global.cfg_description/}" />
+<meta name="keywords" content="{dede:global.cfg_keywords/}" />
+<link type="text/css" rel="stylesheet" href="assets/css/common-debug_50f4f76.css">
+<link rel="stylesheet" type="text/css" href="assets/css/pagelet_dfa255f.css">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/css/touch.css" />
+<link type="text/css" rel="stylesheet" href="{dede:global.cfg_templets_skin/}/css/toutiao16021901.css">
+</head>
+<body class="withHeader list-page">
+
+<!-- index header start -->
+<header id="pageletIndexHeader">
+<div class="top_bar">
+<div class="abs_m">
+<a href="/m/" class="refresh_title btn" action-type="fresh" ga_category="refresh" ga_label="" ga_event="click"></a>
+</div>
+<div class="abs_l">
+<a href="javascript:;" class="msg-box" ga_category="left_button" ga_label="" ga_event="click">
+<div class="circle"></div>
+</a>
+</div>
+<div class="abs_r">
+<a href="/m/search.php" class="btn search" ga_category="search" ga_label="" ga_event="enter"></a>
+</div>
+</div>
+<div class="top_menu_bar">
+  <div id="top_menu" class="top_menu">
+    <div class="top_menu_list">
+      <a href="/m/" class="btn cur" scroll-left="0">推荐</a>
+      {dede:channel type='top' row='17' currentstyle="<a href='/m/list.php?tid=~id~' class='btn'>~typename~</a>"}
+      <a href="/m/list.php?tid=[field:id/]" class="btn">[field:typename/]</a>
+      {/dede:channel}
+    </div>
+  </div>
+</div>
+</header>
+<!-- index header end -->
+
+<!-- channel widget start -->
+<div id="pageletChannelWidgets"></div>
+<!-- channel widget end -->
+<!-- list content start -->
+
+  <content id="pageletListContent" class="feed-list-container">
+  <ul class="ul-list focus-list" id="thelist" >
+<!--  {dede:arclist row='1' flag='h,p' titlelen='60'}
+  <li type="shehui" subtype="">
+  <div style="padding-top:3.5%; padding-left:3%; font-size:18px">[field:title/]</div>
+  <a href="javascript:void(0);" data-url=""><img src="[field:litpic/]" width="92%"  style="margin: 0 15px;padding: 16px 0;">
+  {/dede:arclist}
+ <div class="statu"><div class="lb-time"><span class="hot_label space">热门</span></div><div class="lb-resource">长江网-武汉晨报</div></div></a></li>-->
+ {dede:arclist row='1' flag='f,p' titlelen='60'}
+ <li type="guoji" subtype="" style="padding: 10px 10px 0 10px;"><a href="view.php?aid=[field:id/]" data-url="[field:arcurl/]"><div class="lb-text ">[field:title/]</div><div class="bigimg" style="background:url([field:litpic/]);background-position:center;background-size: 100%"></div>
+<!-- <div class="statu"><div class="lb-time">
+ <span class="hot_label space">热门</span>
+ </div>
+ <div class="lb-resource">中国新闻网</div></div>--></a></li>
+   {/dede:arclist}
+  </ul>
+      <div class="list_content" pull-fresh="">
+        {dede:arclist row='20' flag='p' noflag='h' titlelen='60'}
+         <section class="middle_mode has_action"><div class="one-px-border"></div><a href="view.php?aid=[field:id/]" class="article_link clearfix "><div class="desc"><h3 class="dotdot line3 image-margin-right">[field:title/]</h3><div class="item_info"><span class="time">[field:pubdate function="GetDateMK(@me)"/]</span></div></div><div class="list_img_holder" style="background: none;"><img src="[field:litpic/]"></div></a></section>
+         {/dede:arclist}
+      </div>
+  </content>
+<!-- list content end -->
+<!-- bottom banner start -->
+<!--<div id="pageletBottomBanner" class="banner-index-bottom"><a href="javascript:void(0)" class="close"></a><a href="javascript:void(0)" target="_self" class="download" rel="nofollow"><div class="logo"><div class="mask"></div></div><div class="banner-label"><p class="tb">今日头条</p><p>4亿用户的选择</p></div></a>
+</div>-->
+<!-- bottom banner end -->
+<!--<div class="nav">
+    <ul>
+        <li><a href="{dede:type}[field:typeurl/]{/dede:type}" style="margin:0 ; padding:0;text-align:center;">返回列表页</a></li>
+    </ul>
+</div>-->
+
+
+<div class="footer">
+   {dede:global.cfg_shoujidibu/}
+    <p><a href="{dede:global.cfg_indexurl/}">电脑版</a></p>
+</div>
+<!--<div class="fudong">
+  <div class="fudongcon"><span><a href="" target="_blank">立即下载</a></span>{dede:global.cfg_webname/}<br />最好用的咨询手机APP</div>
+</div>-->
+<div class="mask"></div>
+</body>
+</html>

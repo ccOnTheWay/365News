@@ -1,0 +1,304 @@
+@charset "utf-8";
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dialog,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0;}h1,h2,h3,h4,h5,h6{font-size:100%;}address,cite,em,var{font-style:normal;}code,kbd,pre,samp{font-family:courier new,courier,monospace;}ul,ol{list-style:none;}a{text-decoration:none;}a:hover{text-decoration:underline;}legend{color:#333;}fieldset,img{border:0 none;vertical-align:top;}button,input,select,textarea{font-size:100%;overflow:visible;}table{border-collapse:collapse;border-spacing:0;}article,aside,details,figcaption,figure,footer,header,menu,nav,section,time,audio,video{display:block;margin:0;padding:0;}
+body{
+	position:relative;
+	font-family: \5FAE\8F6F\96C5\9ED1,arial,tahoma,simsun,sans-serif;
+	background-color:#fff;
+}
+* html, * html body{
+    background-image:url('about:blank');
+    background-attachment:fixed;
+}
+.cf{
+	clear: both;
+	height: 0;
+	font-size: 0;
+	overflow: hidden;
+}
+.logo_area{
+	position: relative;
+	margin: 0 auto;
+	width: 1002px;
+}
+.logo_area iframe{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.header_line{
+	height: 64px;
+	border-bottom: 2px solid #0066CC;
+}
+.header{
+	position: relative;
+	margin: 0 auto;
+	width: 1002px;
+	height: 64px;
+}
+.menu ul li.logo{
+	display: block;
+	width: 298px;
+	height: 37px;
+	background: url(../images/logo.png) no-repeat left top;
+	border-left: 0;
+}
+.menu ul li.logo a{
+	display: block;
+	width: 298px;
+	height: 37px;
+}
+.top_gg{
+	position: absolute;
+	width: 470px;
+	height: 45px;
+	right: 0;
+	bottom: 10px;
+	overflow: hidden;
+}
+.menu_line{
+	height: 40px;
+	background-color: #EE4B4B;
+}
+.menu{
+	position: relative;
+	margin: 0 auto;
+	width: 1002px;
+	height: 40px;
+}
+.menu ul{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 1002px;
+	height: 40px;
+	/*overflow: hidden;*/
+	z-index: 999;
+}
+.menu ul li{
+	display: block;
+	position: relative;
+	float: left;
+	width: 7.142857142857143%;
+	height: 40px;
+}
+.menu ul li a{
+	position: relative;
+	display: block;
+	color: #ffffff;
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	text-decoration: none;
+	font-size: 18px;
+	-webkit-transition: background-color .5s;
+	-moz-transition: background-color .5s;
+	-ms-transition: background-color .5s;
+	-o-transition: background-color .5s;
+	transition: background-color .5s;
+}
+.menu ul li a.nav-more{
+	background-image: url(../../../mini.eastday.com/assets/images/down-1x_bdb6ffa3.pngg");
+    background-repeat: no-repeat;
+    background-position: 55px center;
+}
+.menu ul li .more-links{
+	display: none;
+    position: absolute;
+    width: 100%;
+    height: auto;
+    line-height: 40px;
+    background-color: #EE4B4B;
+    left: 0px;
+    top: 40px;
+    z-index: 9999;
+}
+.menu ul li a span.red_position{
+	position: absolute;
+	left: 58px;
+	top: 10px;
+	width: 6px;
+	height: 6px;
+	background: red;
+	font-size: 0;
+	overflow: hidden;
+	border-radius: 100%;
+}
+.menu ul li a.active,
+.menu ul li a:hover{
+	color: #ffffff;
+	background-color: #D73C3C;
+}
+.main{
+	margin: 14px auto;
+	width: 1002px;
+}
+.main_up{
+	margin-bottom: 14px;
+	width: 1002px;
+	overflow: hidden;
+}
+.main_up.hide{
+	display: none;
+}
+.main_center{
+	position: relative;
+}
+.main_left{
+	width: 668px;
+	overflow: hidden;
+}
+.main_right{
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 300px;
+	overflow: hidden;
+}
+.main_down{
+	margin-top: 14px;
+	width: 1002px;
+	overflow: hidden;
+}
+.main_down.hide{
+	display: none;
+}
+.foot_line{
+	padding-bottom: 14px;
+}
+.foot{
+	margin: 0 auto;
+	width: 1002px;
+	text-align: center;
+	color: #333333;
+}
+.foot a{
+	color: #333333;
+	text-decoration: none;
+}
+h2{
+	position: relative;
+	height: 16px;
+	line-height: 16px;
+	overflow: hidden;
+	text-align: left;
+	font-weight: normal;
+}
+h2 a{
+	font-size: 16px;
+	color: #0066CC;
+}
+h2 a:hover{
+	color: #FF9500;
+}
+h3{
+	position: relative;
+	height: 16px;
+	line-height: 16px;
+	overflow: hidden;
+	text-align: left;
+	font-weight: normal;
+}
+h3 a{
+	font-size: 16px;
+	color: #0066CC;
+}
+h3 a:hover{
+	color: #FF9500;
+}
+h3 span.ico{
+	position: absolute;
+	left: 5px;
+	top: 6px;
+	width: 4px;
+	height: 4px;
+	font-size: 0;
+	overflow: hidden;
+	background-color: #545454;
+}
+h4{
+	position: relative;
+	height: 28px;
+	line-height: 28px;
+	overflow: hidden;
+	text-align: left;
+	font-weight: normal;
+}
+h4 a{
+	color: #444444;
+	font-size: 14px;
+}
+h4 a:hover{
+	color: #FF9500;
+}
+h4 span.ico{
+	position: absolute;
+	left: 5px;
+	top: 11px;
+	width: 4px;
+	height: 4px;
+	font-size: 0;
+	overflow: hidden;
+	background-color: #545454;
+}
+h5{
+	position: relative;
+	height: 28px;
+	line-height: 28px;
+	overflow: hidden;
+	text-align: left;
+	font-weight: normal;
+}
+h5 a{
+	color: #444444;
+	font-size: 14px;
+}
+h5 a:hover{
+	color: #FF9500;
+}
+.bread{
+	height: 22px;
+	font-size: 14px;
+	color: #444444;
+}
+.bread div.need_left_bar{
+	width: 116px;
+	height: 22px;
+	line-height: 22px;
+	padding-left: 10px;
+	border-left: 4px solid #0066CC;
+	color: #0066CC;
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+}
+.bread a{
+	color: #444444;
+}
+.bread a:hover{
+	color: #0066CC;
+}
+.goto_top{
+	position: fixed;
+	left: 50%;
+	width: 54px;
+	margin-left: 515px;
+	bottom: 70px;
+	z-index: 99999;
+}
+* html .goto_top{
+    position:absolute;
+    top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,70)||0)-(parseInt(this.currentStyle.marginBottom,70)||0)));
+}
+.goto_top_in_1{
+	cursor: pointer;
+	width: 54px;
+	height: 54px;
+	background: url(../images/to_top.png) no-repeat 0 0;
+}
+.goto_top_in_2{
+	cursor: pointer;
+	margin-top: 10px;
+	width: 54px;
+	height: 54px;
+	background: url(../images/to_top.png) no-repeat 0 -54px;
+}

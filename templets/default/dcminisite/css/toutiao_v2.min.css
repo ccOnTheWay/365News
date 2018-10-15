@@ -1,0 +1,182 @@
+.box-title {
+	top:0;
+	z-index:10;
+	margin:0 10px;
+}
+.box-title h2 {
+	font-size:16px;
+	padding-left:3px;
+	font-weight:700;
+	border-left:5px solid #C00;
+	display:inline-block;
+	margin-top:25px;
+	margin-bottom:3px;
+	line-height:1.4;
+}
+div.bd_adv {
+	padding:0 10px 0 10px;
+}
+.unfold-field {
+	border-left:0;
+	border-right:0;
+	border-bottom:0;
+	text-align:center;
+	margin-bottom:0;
+	display:none;
+	position:relative;
+	margin-top:-25px;
+	color:#54a0dc;
+}
+.unfold-field .text-link {
+	cursor:pointer;
+	font-size:16px;
+	background-size:contain;
+	display:inline-block;
+	width:58px;
+	height:58px;
+	background:rgba(255, 255, 255, 1);
+	border-radius:29px;
+	font-size:14px;
+	box-shadow:0 -1px 4px 0 #e2e1e1;
+	text-decoration:none;
+}
+.text-link {
+	color:#c00;
+}
+.unfold-field {
+	text-align:center;
+	display:none!important;
+}
+.unfold-field .text-link i:first-child {
+	margin-top:15px;
+}
+.unfold-field .text-link i {
+	display:block;
+	line-height:14px;
+	font-style:normal;
+	text-align:center;
+	color:#c00;
+	text-decoration:none;
+}
+.unfold-field .text-link {
+	cursor:pointer;
+	font-size:14px;
+}
+.banner-bg {
+	display:none;
+	background:url(../../../s0.pstatp.com/resource/toutiao_wap/static/image/shadow_f90b6bd.png);
+	height:25px;
+	background-size:cover;
+	margin-top:-45px;
+	margin-bottom:15px;
+	position:relative;
+}
+.main div {
+	overflow:hidden;
+}
+.article-content {
+	margin-bottom:20px;
+	position:relative;
+	overflow:hidden;
+	clear:both;
+	height:auto!important;
+}
+.unfold-field_1 {
+	border-left:0;
+	border-right:0;
+	border-bottom:0;
+	text-align:center;
+	margin-bottom:0;
+	position:relative;
+	margin-top:4px;
+	color:#54a0dc;
+}
+.unfold-field_1>a {
+	margin-top:-5px;
+}
+.unfold-field_1 .text-link_1 {
+	background:#EEE;
+	cursor:pointer;
+	font-size:16px;
+	background-size:contain;
+	display:inline-block;
+	width:99%;
+	height:40px;
+	font-size:14px;
+	box-shadow:0 -1px 4px 0 #e2e1e1;
+	text-decoration:none;
+	border:1px solid #e2e1e1;
+	text-align:center;
+}
+.unfold-field_1 .text-link_1:hover {
+	background:#E3E3E3;
+}
+.unfold-field_1 .text-link_1 i {
+	margin-top:14px;
+	font-size:18px;
+	font-family:Microsoft YaHei;
+}
+.text-link_1 {
+	color:#c00;
+}
+.unfold-field_1 {
+	text-align:center;
+}
+.unfold-field_1 .text-link_1 i {
+	display:block;
+	line-height:14px;
+	font-style:normal;
+	text-align:center;
+	color:#c00;
+	text-decoration:none;
+}
+.unfold-field_1 .text-link_1 {
+	cursor:pointer;
+	font-size:14px;
+}
+.banner-bg_1 {
+	height:25px;
+	background-size:cover;
+	margin-top:-45px;
+	margin-bottom:15px;
+	position:relative;
+}
+#overburden {
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0;
+	z-index:99;
+	background:#000;
+}
+#adv01 {
+	height:0;
+}
+#adv02 {
+	z-index:99999;
+	position:fixed;
+	bottom:0;
+}
+.item_cnt li .demo img {
+	width:30%;
+	height:auto;
+}
+span.time {
+}/*float:left;*/
+span.source {
+	float:right;
+}
+.jk_adv {
+	padding:6px 0 0 0;
+}
+#jk_ifr {
+	width:100%;
+	height:78px;
+}
+li.jk_adv {
+	padding-bottom:6px;
+}
+.pagination{height:45px;line-height:35px;margin:0 auto; text-align:center}
+.pagination ul{ display:inline-block; margin:0 auto}
+.pagination li{padding:0 12px; line-height:36px; display:inline-block; font-size:14px; border:1px solid #ddd; margin-left:-1px; float:left; background-color:#FFF; cursor:pointer;}
+.pagination li.thisclass, .pagination li.thisclass a, .pagination ul li.thisclass a:hover{color:#fff!important; background-color: #E53E40;}

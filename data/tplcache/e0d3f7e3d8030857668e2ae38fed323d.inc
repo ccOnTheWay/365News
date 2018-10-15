@@ -1,0 +1,1 @@
+<div class="banner_txt"> <a target="_blank" href="[field:arcurl/]">[field:title/]</a> </div>

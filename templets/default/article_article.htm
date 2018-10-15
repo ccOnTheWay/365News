@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="zh-cmn-Hans-CN">
+	<head>
+	<meta charset="utf-8" />
+	<meta name="renderer" content="webkit" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	<meta http-equiv="Cache-Control" content="no-siteapp" />
+	<META name="filetype" content="1">
+	<META name="publishedtype" content="1">
+	<META name="pagetype" content="2">
+	<META name="catalogs" content="toutiao_PC">
+	<meta name="applicable-device" content="pc">
+	<link href="{dede:global.cfg_basehost/}/favicon.ico" type="image/x-icon" rel="icon" />
+	<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="keywords" content="{dede:field.keywords/}" />
+<meta name="description" content="{dede:field.description function='html2text(@me)'/}" />
+	<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/device.js"></script>
+	<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/reset.css" />
+	<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/detail_v2/common.css" />
+	<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/detail_v2/detail.css" />
+	<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/jquery.min.js"></script>
+	<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/minicookie.js"></script>
+	<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/globle.js"></script>
+	<!--<script src="{dede:global.cfg_templets_skin/}/dup.baidustatic.com/js/ds.js"></script>-->
+	<!--<script type="text/javascript">
+		var img_domain = 'http://imgmini.eastday.com/';
+		var newstype =  'guonei';
+	</script>-->
+	{dede:autohtml author='dedejs'/}
+</head>
+<body>
+
+{dede:include filename="list_header.htm"/} 
+
+  </div>
+    </div>
+<div class='section'>
+      <div class="detail_cnt clear-fix">
+    <div class='article'>
+          <div class="detail_left  clear-fix">
+        <div class="detail_left_cnt">
+              <div class="J-title_detail title_detail">
+            <h1><span>{dede:field.title/}</span></h1>
+            <div class='share_cnt_p'> <i>{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</i>来源： <i>{dede:field.source/}</i>
+                 <!-- <div class="J-bdsharebuttonbox-wrap bdshare-special">
+                <div class="J-bdsharebuttonbox bdsharebuttonbox clearfix"> <span class="fl">分享：</span> <a class="J-bdshare bds-tsina fl" data-cmd="tsina" href="javascript:;"></a> <a class="J-bdshare bds-qzone fl" data-cmd="qzone" href="javascript:;"></a> <a class="J-bdshare bds-tqq fl" data-cmd="tqq" href="javascript:;"></a> <a class="J-bdshare bds-weixin fl" data-cmd="weixin" href="javascript:;"></a> </div>
+              </div>-->
+              <div style="width:150px; float:right; padding-right:60px">
+              <div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+             </div>
+
+                  <a href="#pinglun" class="discuss-wrap"><span class='discuss_a fl'>评论</span></a> </div>
+          </div>
+              <div class="gg_detail_cnt"> 
+            <!-- 广告位：测试_嵩恒_头条_新闻页面_标题下方 --> 
+           <!-- <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/detail/left_1.js"></script> -->
+          <!-- <img src="../images/ad/15.gif">-->
+          <script src='/plus/ad_js.php?aid=34' language='javascript'></script>
+          </div>
+          <div class="J-contain_detail_cnt contain_detail_cnt">
+          
+            {dede:field.body/}
+
+  
+  <div class="pagination">
+      {dede:pagebreak/}
+	   <div id="cyReward" role="cylabs" data-use="reward"></div>  
+
+			</div>
+  
+          </div>
+            </div>
+      </div>
+        </div>
+  
+    <div class='aside'>
+          <div class="detail_right_cnt clear-fix">
+        <div class="gg_channel_r_b gg_channel_r_b_t" style='height:250px;'> 
+              <!-- 广告位：测试_嵩恒_头条_新闻页面_右1 --> 
+           {dede:myad name='ad20'/}
+            <!-- 广告位：测试_嵩恒_头条_新闻页面_右1 --> 
+            </div>
+        <div class="xfcnt_lft clear-fix">
+              <div class="main_r_title">
+            <h4><span><em></em>今日热点</span></h4>
+          </div>
+              <div class="main_item_cnt">
+            <ul id='hot_daily' class="main_item_news">
+                 {dede:arclist row='6' titlelen='50' flag='p'}
+                  <li> <a title="[field:title/]" href="[field:arcurl/]" target="_blank" class="news_pic"> <img class="animation" src="[field:litpic/]" alt="[field:title/]" width="145" height="105"> </a> <a href="[field:arcurl/]" target="_blank" class="title_news" title="[field:title/]">[field:title/]</a> </li>
+                 {/dede:arclist}
+                
+                </ul>
+          </div>
+              <div class="gg_channel_r_b gg_detail_baidu clear-fix"  style='height:100px;'> 
+            <!-- 广告位：测试_嵩恒_头条_新闻页面_右2 --> 
+            {dede:myad name='ad18'/}
+            <!-- 广告位：测试_嵩恒_头条_新闻页面_右2 --> 
+          </div>
+              <div class="gg_channel_r_b "  style='height:250px;'> 
+            <!-- 广告位：测试_嵩恒_头条_新闻页面_右3 --> 
+            {dede:myad name='ad19'/}
+           <!-- 广告位：测试_嵩恒_头条_新闻页面_右3 --> 
+          </div>
+           
+              <div class="main_r_title">
+            <h4><span><em></em>特别推荐</span></h4>
+          </div>
+              <div class="main_item_cnt">
+            <ul id='special_more_item' class="special-list">
+           
+														 {dede:arclist flag='c,p' titlelen='50' limi='0,1' row='1'}
+                  <li class="special-item"> <a class="clearfix active" href="[field:arcurl/]" title="[field:title/]" target="_blank"> <span class="index i0"></span>
+                    <p class="fl img"><img src="[field:litpic/]" width="100" height="75" alt="[field:title/]"></p>
+                    <p class="txt">[field:title/]</p>
+                    </a> </li>
+                    {/dede:arclist}
+                     {dede:arclist flag='c,p' titlelen='50' limi='1,9' row='9'}
+                  <li class="special-item"> <a class="clearfix " href="[field:arcurl/]" title="[field:title/]" target="_blank"> <span class="index i[field:global name=autoindex runphp="yes"]@me=@me;[/field:global] "></span>
+                    <p class="fl img"><img src="[field:litpic/]" width="100" height="75" alt="[field:title/]"></p>
+                    <p class="txt">[field:title/]</p>
+                    </a> </li>
+                     {/dede:arclist}
+												
+               
+                </ul>
+               <!-- <img src="{dede:global.cfg_basehost/}/images/ad/5.gif" style="padding-left:10px;">-->
+               <script src='/plus/ad_js.php?aid=37' language='javascript'></script>
+          </div>
+        
+             
+           
+           
+       
+              <div class="main_r_title">
+            <h4><span><em></em>小编精选</span></h4>
+          </div>
+              <div id='editselect' class="main_item_cnt" style='height:255px;'>
+            <ul id='sift_item_cnt' class="sift_item">
+            {dede:arclist row='6' titlelen='50' orderby='rand'}
+                  <li> <a href="[field:arcurl/]" target="_blank" title="[field:title/]"> <span><img src="[field:litpic/]" alt="[field:title/]"></span>
+                    <p>[field:title/]</p>
+                    </a> </li>
+                  {/dede:arclist}
+                </ul>
+          </div>
+              
+            <!-- 广告位：嵩恒_头条_新闻页面_右6 --> 
+            {dede:myad name='ad15'/}
+             <!-- 广告位：嵩恒_头条_新闻页面_右6 -->  
+            <!-- 广告位：嵩恒_头条_新闻页面_右7 --> 
+            {dede:myad name='ad16'/}
+          <!-- 广告位：嵩恒_头条_新闻页面_右7 --> 
+            
+            </div>
+      </div>
+        </div>
+    <div class="bottom_over_cnt">
+          <div class="gg_item_bomttom_cnt"> 
+        <!-- 广告位：嵩恒_头条_新闻页面_正文下方 --> 
+        <!-- <iframe frameborder="0" scrolling="no" src="/frames/sy/left_2.html" width="620" height="110"></iframe> --> 
+        <!--<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/detail/left_2.js"></script> -->
+      </div>
+          <!-- <div class="dark-line"></div> -->
+          <div class="pagination"> </div>
+          <div class="gg_item_bomttom_cnt" id="gg_item_bomttom_cnt-bk"> 
+        <!-- 广告位：嵩恒_头条_新闻页面_正文下方 --> 
+        <!-- <iframe frameborder="0" scrolling="no" src="/frames/sy/left_2.html" width="620" height="110"></iframe> --> 
+        <!--<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/detail/left_2_bk.js"></script>--> 
+      </div>
+          <div class="ggPic_item_bomttom_cnt"> 
+        <!-- 广告位：测试_嵩恒_头条_新闻页面_详细湘桂推荐上方 --> 
+       <!-- <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/detail/left_3.js"></script> -->
+      </div>
+          <div class="guess_like  clear-fix">
+        <div class="guess_title rel-recmmend"><span>相关推荐<i></i></span></div>
+        <div class="guess_contain"> 
+              <!-- 相关推荐广告 --> 
+              {dede:myad name='ad21'/}
+              <!-- 相关推荐广告 --> 
+            </div>
+      </div>
+          <div class="guess_like  clear-fix">
+        <div class="guess_title news-focus"><span>新闻聚焦<i></i></span></div>
+        <style type="text/css">body{margin:0;padding:0;}a{ -webkit-tap-highlight-color:rgba(0,0,0,0);}#temp_3034_immobilization{display: none;}#temp_attempt3034{margin:auto;border:0;width:650px;overflow:hidden;font-family:"宋体";height:110px;background:#ffffff;padding-left:10px;padding-bottom:25px;padding-top:5px;padding-right:10px;}#temp_attempt3034 img{border:0;vertical-align:middle;-ms-interpolation-mode:bicubic;}#temp_attempt3034 a{text-decoration:none;}#temp_attempt3034 a:hover{text-decoration:none;}.temp_at_main3034{padding-left:10px;padding-bottom:25px;padding-top:5px;padding-right:10px;width:650px;height:110px;overflow:hidden;}.temp_at_maimgdwtian{display:block;height:140px;width:155px;overflow:hidden;color:#000000;float:left;;}.temp_at_maimgdwtian:hover{color:#ff0000;}.temp_at_maimgdwtian img{display:block;width:155px;height:115px;overflow:hidden;}.temp_at_maimgdwtian .temp_at_maimgdwtiat{display:block;height:25px;line-height:25px;overflow:hidden;text-align:center;font-size:12px;font-family:"微软雅黑";}.margin_wdiv_vluh{width:100%;height:-Infinitypx;overflow:hidden;line-height:0;font-size:0}.margin_wdiv_vlus{width:10px;height:10px;overflow:hidden;line-height:0;font-size:0;float:left;}</style>
+        <div class="guess_contain"> 
+         
+        <div id="temp_attempt3034">
+       {dede:arclist row='1' limit='0,1' titlelen='30' typeid='3'}
+        <a class="temp_3034_convalnum temp_at_maimgdwtian" href="[field:arcurl/]" target="_blank"><img class="temp_3034_convalnimg" src="[field:litpic/]" title="[field:title/]" alt="[field:title/]"><span class="temp_3034_convalnspan temp_at_maimgdwtiat" title="[field:title/]">[field:title/]</span></a>
+        <div class="margin_wdiv_vlus"></div>
+        {/dede:arclist}
+         {dede:arclist row='3' limit='1,3' titlelen='30' typeid='3'}
+        <a class="temp_3034_convalnum temp_at_maimgdwtian" href="[field:arcurl/]" target="_blank"><img class="temp_3034_convalnimg" src="[field:litpic/]" title="[field:title/]" alt="[field:title/]"><span class="temp_3034_convalnspan temp_at_maimgdwtiat" title="[field:title/]">[field:title/]</span></a>
+        <div class="margin_wdiv_vlus"></div>
+         {/dede:arclist}
+         <!-- {dede:arclist row='3' limit='0,1' titlelen='30'}
+        <a class="temp_3034_convalnum temp_at_maimgdwtian" href="http://miniimg.eastday.com/detail/9223351876547694088_050000_00_3cb950688167b89145611a824727f659.html?xinwenjujiao" target="_blank"><img class="temp_3034_convalnimg" src="http://imgmini.eastday.com/pushimg/20160307/1457316096719788.jpg" title="胡须比赛争奇斗艳" alt="胡须比赛争奇斗艳"><span class="temp_3034_convalnspan temp_at_maimgdwtiat" title="胡须比赛争奇斗艳">胡须比赛争奇斗艳</span></a>
+        <div class="margin_wdiv_vlus"></div>
+          {/dede:arclist}
+           {dede:arclist row='3' limit='0,1' titlelen='30'}
+        <a class="temp_3034_convalnum temp_at_maimgdwtian" href="http://miniimg.eastday.com/detail/9223351876547691064_050000_00_9fbd49276b228a1daf0b3b8b9bd4c0d6.html?xinwenjujiao" target="_blank"><img class="temp_3034_convalnimg" src="http://imgmini.eastday.com/pushimg/20160307/1457316096786895.jpg" title="厄瓜多尔火山震撼喷发" alt="厄瓜多尔火山震撼喷发"><span class="temp_3034_convalnspan temp_at_maimgdwtiat" title="厄瓜多尔火山震撼喷发">厄瓜多尔火山震撼喷发</span></a>
+         {/dede:arclist}-->
+        </div>
+              <!-- 广告位：测试_嵩恒_头条_新闻页面_新闻聚焦 --> 
+         {dede:myad name='ad22'/}
+           <!-- 广告位：测试_嵩恒_头条_新闻页面_新闻聚焦 --> 
+            </div>
+      </div>
+          <div class="guess_like  clear-fix">
+        <div class="guess_title guess-yl"><span>猜你喜欢<i></i></span></div>
+        <div class="guess_contain"> 
+              <!-- 广告位：测试_嵩恒_头条_新闻页面_猜你喜欢 --> 
+              {dede:myad name='ad23'/}
+               <!-- 广告位：测试_嵩恒_头条_新闻页面_猜你喜欢 -->  
+            </div>
+      </div>
+          <div class="guess_like  clear-fix">
+        <div id='rmtj_title' class="guess_title hot-recommend"><span>热门推荐<i></i></span></div>
+        <div class="guess_contain">
+              <div class="hot_recommend_cnt">
+            <ul id='hot_recommend' class="hot_recommend">
+            {dede:arclist row='10' titlelen='50' infolen='160' orderby='hot'}
+                  <li class="J-has-share listNews-item-s1 clearfix">
+                <div class="img fl"><a href="[field:arcurl/]" target="_blank"> <img class="animation" src="[field:litpic/]"   alt="[field:title/]" width="180" height="135"></a> </div>
+                <div class="info">
+                      <h3> <a class="J-share-a" href="[field:arcurl/]" target="_blank">[field:title/]</a> </h3>
+                      <p class="desc" style="height: 60px; overflow: hidden;">　　[field:info/]......</p>
+                      <p class="from">[field:pubdate function=MyDate('m-d',@me)/]    来源：[field:source/]</p>
+                      <div class="J-bdsharebuttonbox-wrap">
+                    <div class="J-bdsharebuttonbox bdsharebuttonbox clearfix bdshare-button-style0-16" data-bd-bind="1453858492231"> <span class="fl">分享</span><a class="J-bdshare bds-tsina fl" data-cmd="tsina" href="javascript:;" title="分享到新浪微博"></a> <a class="J-bdshare bds-qzone fl" data-cmd="qzone"  href="javascript:;" title="分享到QQ空间"></a> <a  class="J-bdshare bds-tqq fl" data-cmd="tqq" href="javascript:;" title="分享到腾讯微博"></a> <a class="J-bdshare bds-weixin fl" data-cmd="weixin"  href="javascript:;" title="分享到微信"></a> </div>
+                  </div>
+                    </div>
+              </li>
+                 
+                {/dede:arclist} 
+  
+                 
+                </ul>
+          </div>
+              <a href="{dede:type}[field:typeurl/]{/dede:type}"  class="change_btn_bot">返回列表<i></i></a> </div>
+      </div>
+<!-- 代码1：放在页面需要展示的位置  -->
+<!-- 如果您配置过sourceid，建议在div标签中配置sourceid、cid(分类id)，没有请忽略  -->
+
+ <!--打分版，用户可以对当前新闻、游戏或者应用等进行1-5级的评分-->
+<div id="SOHUCS"></div>
+
+<script charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/changyan.js" ></script>
+
+<script type="text/javascript">
+    window._config = { showScore: true };
+    window.changyan.api.config({
+        appid: 'cysiCxufx',
+        conf: 'prod_650291c53476c63610f2a55f1cc6f56d'
+    });
+</script> 
+
+        <!-- 评论 end --> 
+
+          <div class="guess_like  clear-fix"> 
+        <!-- 广告位：测试_嵩恒_头条_新闻页面_热门推荐下方 --> 
+     <!--  <img src="{dede:global.cfg_basehost/}/images/ad/11.gif"  width="673px;">-->
+     <script src='/plus/ad_js.php?aid=44' language='javascript'></script>
+      </div>
+          <div class="discuss_cnt"> 
+
+      </div>
+        </div>
+  </div>
+</div>
+<div class="goto_top"><a id='J_shoucang' class='shoucang' href="javascript:;"></a>
+      <div class="sc-txt"><span>Ctrl+D</span> 将本页面保存为书签，全面了解最新资讯，方便快捷。</div>
+      <a id='gotop_btn' class='show_go_0' href="javascript:;"></a><a class='show_go_1' href="javascript:;"></a>
+      <div class="erwei_cnt"></div>
+</div>
+<div>
+      <div class="footer_cnt">
+	  <p>
+    <a target="_blank" href="/">网站首页</a>&nbsp;-&nbsp;
+<a target="_blank" href="/guanyuwomen/">关于我们</a>&nbsp;-&nbsp;
+<a target="_blank" href="/lianxiwomen/">联系我们</a>&nbsp;-&nbsp;
+<a target="_blank" href="/mianzeshengming/">免责声明</a>&nbsp;-&nbsp;
+<a target="_blank" href="/yinsizhengce/">隐私政策</a>&nbsp;-&nbsp;
+<a target="_blank" href="/">百度论坛</a>
+</p>
+    <p>注：凡本网注明来源非优站头条的作品，均转载自其它媒体，并不代表本网赞同其观点和对其真实性负责。</p>
+    <p>如因作品内容、版权和其它问题需要同本网联系的。联系方式：<a href="mailto:kefu@dzmhw.cn">kefu@dzmhw.cn</a></p>
+    <p>mini.cquz.com.cn All Right Reserve 版权所有</p>
+  <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d2fe8dc39f0fe4d1f35678287127239a";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+  </div>
+      <div style="display:none;"> 
+   
+  </div>
+</div>
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/detail_v2/detail.js"></script> 
+<script src="{dede:global.cfg_templets_skin/}/assets/js/globle_bottom.js"></script> 
+<script type="text/javascript">
+	// 分享的标题
+	var J_bdshare_topic = '{dede:field.title/}';
+</script> 
+<!-- 额外广告 --> 
+<!--嵩恒_新闻内页_搜索推荐--> 
+<!--<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/detail/sou_suo_tui_jian.js"></script> -->
+<!-- 右下悬浮 --> 
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/detail/you_xia_xuan_fu.js"></script> 
+<!-- 左右折叠 --> 
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/detail/zuo_you_zhe_die.js"></script> 
+<!-- 对联 --> 
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/detail/zuo_you_dui_lian.js"></script> 
+<!-- 图加 --> 
+<!--<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/detail/tujia.js"></script> -->
+<!--[if lte IE 6]>
+<script>
+	<script src="{dede:global.cfg_templets_skin/}/assets/js/DDPngMin.js"></script>
+	<script>DD_belatedPNG.fix('.png24');</script>
+</script>
+<![endif]--> 
+<!--[if lte IE 7]>
+<script>
+	$('#gotop_btn').find('.erwei_cnt').append("<img src='{dede:global.cfg_templets_skin/}/assets/images/2codes.png'>");
+	$('a.show_go_1').on('mouseenter', function(){
+		$(this).siblings('.erwei_cnt').css({'display':'block','filter':'alpha(opacity=100)'});
+	});
+	$('a.show_go_1').on('mouseleave', function(){
+		$(this).siblings('.erwei_cnt').css({'display':'none','filter':'alpha(opacity=0)'});
+	});
+</script>
+<![endif]-->
+</body>
+</html>

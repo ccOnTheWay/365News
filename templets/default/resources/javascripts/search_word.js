@@ -1,0 +1,1 @@
+var JS_SEARCH_WORD = '朝鲜核实验科学家出游';

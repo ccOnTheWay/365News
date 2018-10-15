@@ -1,0 +1,1 @@
+<a href="list.php?tid=[field:id/]" style="margin:0 ; padding:0;text-align:center;">返回列表页</a>

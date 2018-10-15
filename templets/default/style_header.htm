@@ -1,0 +1,152 @@
+<div class="header">
+  <div class="header_cnt">
+    <div class="header_cnt_l"><a href=""><img src="{dede:global.cfg_templets_skin/}/assets/images/logo.png" alt="{dede:global.cfg_webname/}" title='{dede:global.cfg_webname/}'></a><a class="rss" href="{dede:global.cfg_indexurl/}/data/rss/1.xml" target="_blank"><img src="{dede:global.cfg_templets_skin/}/assets/images/rss.png" alt="订阅" width="39" height="12"></a></div>
+    <div class="header_cnt_2"> 
+      <!-- 广告位：新版新闻首页 顶部右侧640*60-百度 --> 
+      <!--<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/assets/js/resources/index/index_640_60_gg.js"></script>-->
+      <div class="header_cnt_2_t">
+        <form action="{dede:global.cfg_cmsurl/}/plus/search.php" target='_blank'>
+         <input type="hidden" name="kwtype" value="0" />
+          <input type="text" value=""  name="q" class="search_head" id='search_head' />
+         <!-- <a href="http://s.eastday.com/" target='_blank'>搜索</a>-->
+          <!-- <button type="submit" style="    display: block;
+    width: 96px;
+    height: 36px;
+    line-height: 36px;
+    background-color: #ee4c4c;
+    font-size: 18px;
+    color: #FFF;
+    text-align: center;
+    position: absolute;
+    right: 0;
+    top: 0;">搜索</button>-->
+   <button type="submit"><a target="_blank">搜索</a></button>
+        </form>
+      </div>
+    <!--  <div id='hotword_header' class="header_cnt_2_b"></div>-->
+   <!-- <div id="hotword_header" class="header_cnt_2_b">
+  
+    {dede:hotwords num='5'/}
+    </div>-->
+    <div id="hotword_header" class="header_cnt_2_b">
+    {dede:arclist row='1' limit='0,1'  titlelen='18'}
+    <a href="[field:arcurl/]" target="_blank" style="    overflow: hidden;
+    font-size: 12px;
+    display: block;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    line-height: 30px;
+    position: relative;
+    background-color: #fff;
+    color: #999;
+    float: left;"><em></em>[field:title/]</a>
+    {/dede:arclist}
+   {dede:arclist row='1' limit='1,1' titlelen='18'}
+    <a href="[field:arcurl/]" target="_blank" style="    overflow: hidden;
+    font-size: 12px;
+    display: block;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    line-height: 30px;
+    position: relative;
+    background-color: #fff;
+    color: #999;
+    float: left;">[field:title/]</a>
+    {/dede:arclist}
+     {dede:arclist row='1' limit='2,1'  titlelen='18'}
+    <a href="[field:arcurl/]" target="_blank" style="    overflow: hidden;
+    font-size: 12px;
+    display: block;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    line-height: 30px;
+    position: relative;
+    background-color: #fff;
+    color: #999;
+    float: left;"><em></em>[field:title/]</a>
+    {/dede:arclist}
+   {dede:arclist row='1' limit='3,1'  titlelen='18'}
+    <a href="[field:arcurl/]" target="_blank" style="    overflow: hidden;
+    font-size: 12px;
+    display: block;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    line-height: 30px;
+    position: relative;
+    background-color: #fff;
+    color: #999;
+    float: left;">[field:title/]</a>
+    {/dede:arclist}
+    </div>
+    </div>
+  </div>
+</div>
+<!-- /头部 end --> 
+
+<!-- 导航 start -->
+<div id='nav_cnt' class="nav_cnt">
+  <ul class="nav">
+  
+    <li><a href="{dede:global.cfg_indexurl/}/" target="_blank" class='active'>头条</a></li>
+    {dede:type typeid='1'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+    {dede:type typeid='2'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+    {dede:type typeid='3'}
+    <li><a class="pr" href="[field:typeurl/]" >[field:typename/]<img class="hot" src="[field:global.cfg_templets_skin/]/assets/images/hot_1.gif" alt="" width="21" height="13"></a></li>
+    {/dede:type}
+   {dede:type typeid='4'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+    {dede:type typeid='5'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+   {dede:type typeid='6'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+    {dede:type typeid='7'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+    {dede:type typeid='8'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+    {dede:type typeid='9'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+  {dede:type typeid='10'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+  {dede:type typeid='11'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+  {dede:type typeid='12'}
+    <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+    {/dede:type}
+    <li> <a class='more'>更多</a>
+      <div class="more-links"> 
+      <!--  {dede:type typeid='10'}
+      <a href="[field:typeurl/]">[field:typename/]</a>
+       {/dede:type} 
+        {dede:type typeid='11'}
+      <a href="[field:typeurl/]">[field:typename/]</a>
+       {/dede:type} 
+        {dede:type typeid='12'}
+      <a href="[field:typeurl/]">[field:typename/]</a>
+       {/dede:type} -->
+        {dede:type typeid='13'}
+      <a href="[field:typeurl/]">[field:typename/]</a>
+       {/dede:type} 
+        {dede:type typeid='14'}
+      <a href="[field:typeurl/]">[field:typename/]</a>
+       {/dede:type} 
+  
+      </div>
+    </li>
+  </ul>
+</div>

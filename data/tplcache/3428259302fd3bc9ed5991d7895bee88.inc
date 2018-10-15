@@ -1,0 +1,1 @@
+<a class="srr-img" href="[field:arcurl/]" target="_blank"><img class="animation" src="[field:picname function='thumb(@me,316,142,true)'/]" alt="" width="316" height="142"></a>

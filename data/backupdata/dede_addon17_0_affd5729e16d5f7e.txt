@@ -1,0 +1,1 @@
+INSERT INTO `dede_addon17` VALUES('54','30','','','61.190.28.118','贺霄','今天晚上工程学院北面工地一直有工程车辆的噪音，到现在晚上11：30还在吵，严重影响睡眠','<span style=\"color: rgb(255, 0, 0); font-family: 宋体, Arial, Verdana, sans-serif; font-size: 14px; line-height: 25px; text-align: justify; \">网友您好，根据武进区政府相关文件精神，您反映的建筑施工噪声污染问题由城管部门负责处理，您可向城管部门反映该情况。</span>');

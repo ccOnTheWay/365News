@@ -1,0 +1,1 @@
+<a href="list.php?tid=[field:id/]" class="text-link_1 unfold-btn_1" ga_category="article" ga_label="" ga_event="open"><i>更多新闻</i></a>

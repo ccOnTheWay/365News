@@ -1,0 +1,1 @@
+<div class="pic-l fl"> <a href="[field:arcurl/]" target="_blank"> <img class="animation" src="[field:litpic/]" alt="[field:title/]" width="390" height="292"> <span class="txt">[field:title/]</span> <span class="bg"></span> <span class="ctg"></span> </a> </div>

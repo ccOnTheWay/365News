@@ -1,0 +1,63 @@
+<div class="header_cnt_detail clear-fix">
+      <div class="header_cnt_l_detail clear-fix">
+        <ul class="nav_detail">
+          <li class='first'><a href="{dede:global.cfg_indexurl/}" target="_blank">头条</a></li>
+          {dede:channel type='top' }
+          <li><a href="[field:typeurl/]" target="_blank">[field:typename/]</a></li>       {/dede:channel}
+
+        </ul>
+          <div class="icon_cnt_dtl clear-fix">
+              <a class='weixin_ew' href="javascript:;">微信<span></span></a>
+              <a class='phone_ew' href="javascript:;">手机版<span></span></a>
+          </div>                        
+      </div>
+      <div style="width:1020px; margin:0 auto !important;">
+      <script src='/plus/ad_js.php?aid=32' language='javascript'></script>
+     <!-- <img src="{dede:global.cfg_indexurl/}/images/ad/3.gif" width="1020px;" style=" margin:0 auto !important;">-->
+      </div>
+ <!-- <div class="header_cnt_2_detail" id="channel_top_1">
+  <img src="{dede:global.cfg_indexurl/}/images/ad/3.gif" width="1020px;">
+
+  </div>-->
+  
+      <!-- 广告位：嵩恒_头条_新闻页面_顶部通栏 -->
+<!--    <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/channel/top_1.js"></script>-->
+</div>
+<div class="head_search_cnt positionSearch">
+    <div class="head_search_cnt_contain positionSearchCnt">
+        <div class="head_search_cnt_left">
+              <div class="detail_position">
+                  <a href='javascript:;' class='detail_logo'><img src="{dede:global.cfg_templets_skin/}/assets/images/logo_detail.png" alt="{dede:global.cfg_webname/}"><span>{dede:field.typename/}</span></a>
+                  <a href="{dede:global.cfg_indexurl/}">{dede:global.cfg_webname/}</a>  >  <a href="javascript:;">{dede:field.typename/}频道</a>
+              </div>
+        </div>
+        <div class="head_search_cnt_right">
+        <form  name="formsearch" action="{dede:global.cfg_cmsurl/}/plus/search.php">
+        <input type="hidden" name="kwtype" value="0" />
+            <!--<form action="http://s.eastday.com/" target='_blank'>-->
+                <input id='bdcsMain' class='search_text' placeholder='请输入' type="text" name="q"/>
+                 <button type="submit" id='search_btn' class='search_btn png-fixIe6'><a id='search_btn' class='search_btn png-fixIe6' target="_blank" ></a></button>
+                
+               <!-- <script type="text/javascript">
+                      (function(){
+                          var $input = $('#bdcsMain');
+                          var $btn_a = $('#search_btn');
+                          $input.val(JS_SEARCH_WORD);
+                          $btn_a.attr('href','http://s.eastday.com/?kw='+encodeURI(JS_SEARCH_WORD));
+                          $input.focus(function(){
+                            if($.trim($(this).val()) == JS_SEARCH_WORD){
+                              $(this).val('');
+                            }
+                          });
+                          $input.blur(function(){
+                            if($.trim($(this).val()) == ''){
+                              $(this).val(JS_SEARCH_WORD);
+                            }
+                            $btn_a.attr('href','http://s.eastday.com/?kw='+encodeURI($input.val()));
+                          });                         
+                      })();
+                  </script>-->
+            </form>
+        </div>
+    </div>
+</div>

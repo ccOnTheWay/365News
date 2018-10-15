@@ -1,0 +1,1074 @@
+﻿<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="keywords" content="{dede:field.keywords/}" />
+<meta name="description" content="{dede:field.description function='html2text(@me)'/}" />
+<link href="{dede:global.cfg_basehost/}/favicon.ico" type="image/x-icon" rel="icon" />
+<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/reset.css" />
+    <link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/common.css" />
+    <link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/assets/css/channel.css" />
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/resources/stylesheets/global.css">
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/resources/stylesheets/news.css">
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/javascripts/jquery.js"></script>
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/javascripts/minicookie.js�"></script>
+<!-- 百度自动推 -->
+<!--<script>
+	(function(){
+	    var bp = document.createElement('script');
+	    bp.src = '//push.zhanzhang.baidu.com/push.js';
+	    var s = document.getElementsByTagName("script")[0];
+	    s.parentNode.insertBefore(bp, s);
+	})();
+	</script>--><!-- end 百度自动推 -->
+<style>
+* html, * html body {
+	background-image: url('about:blank');
+	background-attachment: fixed;
+}
+body {
+	position: relative;
+	background-color: #F2F2F2;
+}
+.cf {
+	width: 100%;
+	height: 0;
+	overflow: hidden;
+	clear: both;
+}
+.w1002 {
+	margin: 0 auto;
+	width: 1002px;
+	background-color: #F2F2F2;
+}
+.w960 {
+	margin: 0 auto;
+	width: 960px;
+}
+.w1000 {
+	margin: 0 auto;
+	width: 1000px;
+}
+.h10 {
+	height: 10px;
+	font-size: 0;
+	overflow: hidden;
+}
+.img_bread {
+	font-size: 14px;
+	color: #666666;
+	height: 42px;
+	line-height: 42px;
+}
+.img_bread a {
+	color: #666666;
+}
+.img_bread a:hover {
+	color: #ee4b4b;
+}
+.line2_top_border {
+	height: 0;
+	font-size: 0;
+	overflow: hidden;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #ffffff;
+}
+.img_b_title {
+	float: left;
+}
+.img_b_title {
+	font-size: 20px;
+	height: 48px;
+	line-height: 48px;
+	overflow: hidden;
+	color: #333333;
+}
+.img_s_title {
+	float: left;
+	height: 48px;
+	line-height: 48px;
+	color: #333333;
+	font-size: 14px;
+	vertical-align: top;
+}
+.img_s_title span {
+	color: #333333;
+}
+.img_area {
+	margin: 0 auto;
+	width: 1000px;
+	border-top: 1px solid #E8E8E8;
+	border-left: 1px solid #E8E8E8;
+	border-right: 1px solid #E8E8E8;
+	background-color: #FFFFFF;
+	position: relative;
+}
+.click_to_prev {
+	display: block;
+	width: 480px;
+	cursor: url({dede:global.cfg_templets_skin/}/resources/images/arr_l.cur), auto;
+	position: absolute;
+	left: 21px;
+	top: 0;
+	z-index: 99999;
+	background-color: #000000;
+	filter: alpha(opacity="0");
+	background: rgba(0, 0, 0, 0);
+}
+.click_to_next {
+	display: block;
+	width: 480px;
+	cursor: url({dede:global.cfg_templets_skin/}/resources/images/arr_r.cur), auto;
+	position: absolute;
+	right: 21px;
+	top: 0;
+	z-index: 99999;
+	background-color: #000000;
+	filter: alpha(opacity="0");
+	background: rgba(0, 0, 0, 0);
+}
+.img_area {
+	text-align: center;
+}
+.img_area img {
+	display: none;
+	max-width: 960px;
+}
+.img_area img.show {
+	display: inline;
+}
+.img_bottom_info {
+	height: 40px;
+}
+.ctrl_info {
+	height: 40px;
+	line-height: 40px;
+	font-size: 12px;
+	color: #666666;
+	text-align: left;
+}
+.ctrl_info span {
+	color: #666666;
+}
+.ctrl_info .s_left {
+	display: block;
+	float: left;
+}
+.ctrl_info .s_center {
+	margin-left: 307px;
+	display: block;
+	float: left;
+	cursor: pointer;
+}
+.ctrl_info .s_right {
+	display: block;
+	float: right;
+}
+.img_slide_bar {
+	position: relative;
+	height: 110px;
+}
+.go_to_prev {
+	cursor: pointer;
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 112px;
+	height: 87px;
+}
+.go_to_next {
+	cursor: pointer;
+	float: right;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 112px;
+	height: 87px;
+}
+.pn_bg1 {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 104px;
+	height: 79px;
+	border: 1px solid #d6d6d6;
+	background-color: #ffffff;
+	z-index: 100;
+	-webkit-transition: color 1s, border-color 1s;
+	-moz-transition: color 1s, border-color 1s;
+	-ms-transition: color 1s, border-color 1s;
+	transition: color 1s, border-color 1s;
+}
+.pn_bg2 {
+	position: absolute;
+	left: 3px;
+	top: 3px;
+	width: 104px;
+	height: 79px;
+	border: 1px solid #d6d6d6;
+	background-color: #ffffff;
+	z-index: 200;
+	-webkit-transition: color 1s, border-color 1s;
+	-moz-transition: color 1s, border-color 1s;
+	-ms-transition: color 1s, border-color 1s;
+	transition: color 1s, border-color 1s;
+}
+.pn_bg3 {
+	position: absolute;
+	left: 6px;
+	top: 6px;
+	width: 104px;
+	height: 79px;
+	line-height: 77px;
+	text-align: center;
+	border: 1px solid #d6d6d6;
+	background-color: #ffffff;
+	color: #777777;
+	font-size: 14px;
+	z-index: 300;
+	-webkit-transition: color 1s, border-color 1s;
+	-moz-transition: color 1s, border-color 1s;
+	-ms-transition: color 1s, border-color 1s;
+	transition: color 1s, border-color 1s;
+}
+.img_slide_bar a:hover {
+	color: #333333;
+}
+.img_slide_bar a:hover .pn_bg3 {
+	color: #F48E8E;
+	border-color: #F48E8E;
+}
+.img_slide_bar a:hover .pn_bg1, .img_slide_bar a:hover .pn_bg2 {
+	border-color: #F48E8E;
+}
+.img_temp_all {
+	position: relative;
+	margin: 0 auto;
+	width: 634px;
+	height: 110px;
+}
+.slide_left {
+	position: absolute;
+	left: 0;
+	top: 5px;
+	width: 20px;
+	height: 77px;
+	background: url({dede:global.cfg_templets_skin/}/resources/images/slide_btn2.png) no-repeat 0 0;
+	cursor: pointer;
+}
+.slide_right {
+	position: absolute;
+	right: 0;
+	top: 5px;
+	width: 20px;
+	height: 77px;
+	background: url({dede:global.cfg_templets_skin/}/resources/images/slide_btn2.png) no-repeat -20px 0;
+	cursor: pointer;
+}
+.slide_fix_frame {
+	overflow: hidden;
+	position: absolute;
+	left: 34px;
+	top: 0;
+	width: 580px;
+	height: 105px;
+}
+.slide_move_bar {
+	position: absolute;
+	left: 0;
+	top: 5px;
+	width: 580px;/*必须被js修改*/
+	height: 105px;
+}
+.img_temp_s_block {
+	position: relative;
+	width: 116px;
+	height: 105px;
+	float: left;
+}
+.img_temp_s_block_img_border {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100px;
+	height: 73px;
+	border: 2px solid #ffffff;
+	cursor: pointer;
+	-webkit-transition: border-color 1s;
+	-moz-transition: border-color 1s;
+	-ms-transition: border-color 1s;
+	transition: border-color 1s;
+}
+.img_temp_s_block_img_border img {
+	width: 100px;
+	height: 73px;
+	border: 0;
+}
+.img_temp_s_block_img_border.now {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100px;
+	height: 73px;
+	border: 2px solid #ee4b4b;
+}
+.img_temp_s_block_img_border .arrow {
+	display: none;
+}
+.img_temp_s_block_img_border.now .arrow {
+	position: absolute;
+	left: 47px;
+	top: -7px;
+	width: 10px;
+	height: 5px;
+	background: url({dede:global.cfg_templets_skin/}/resources/images/arrow.png) no-repeat center center;
+	display: block;
+	font-size: 0;
+}
+.img_num {
+	position: absolute;
+	left: 0;
+	top: 77px;
+	width: 102px;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+	font-size: 12px;
+	color: #666666;
+}
+.ggs {
+	color: #fff;
+	padding: 14px 0;
+}
+.fix_left_gg {
+	display: none;
+	position: fixed;
+	left: 50%;
+	top: 45px;
+	margin-left: -661px;
+	width: 160px;
+	height: 600px;
+}
+* html .fix_left_gg {
+	position: absolute;
+	margin-left: 50%;
+ left:expression(eval(document.documentElement.scrollLeft - 661));
+ top:expression(eval(document.documentElement.scrollTop + 45));
+}
+.fix_right_gg {
+	display: none;
+	position: fixed;
+	left: 50%;
+	top: 45px;
+	margin-left: 501px;
+	width: 120px;
+	height: 600px;
+}
+* html .fix_right_gg {
+	position: absolute;
+	margin-left: 50%;
+ left:expression(eval(document.documentElement.scrollLeft + 501));
+ top:expression(eval(document.documentElement.scrollTop + 45));
+}
+.gg_close_btn {
+	position: absolute;
+	right: 0;
+	top: -18px;
+	width: 20px;
+	height: 18px;
+	line-height: 18px;
+	color: #ffffff;
+	background-color: #999999;
+	font-size: 18px;
+	text-align: center;
+	cursor: pointer;
+	display: none;
+}
+.last_gg {
+	width: 958px;
+	height: 500px;
+	position: absolute;
+	left: 21px;
+	top: 21px;
+	display: none;
+	z-index: 99999;
+}
+.last_gg_left {
+	position: relative;
+	width: 388px;
+	height: 500px;
+	float: left;
+	z-index: 9;
+}
+.last_gg_left .opabg {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 30px;
+	opacity: 0.6;
+	filter: alpha(opacity="60");
+	background: #000000;
+}
+.last_gg_left .txt {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	overflow: hidden;
+	text-align: center;
+}
+.last_gg_left .txt a {
+	font-size: 14px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.last_gg_left .txt a:hover {
+	color: #ee4b4b;
+	text-decoration: underline;
+}
+.last_gg_left .b_img1 {
+	position: absolute;
+	width: 374px;
+	height: 216px;
+	left: 0;
+	top: 0;
+}
+.last_gg_left .b_img1 img {
+	width: 374px;
+	height: 216px;
+}
+.last_gg_left .b_img2 {
+	position: absolute;
+	width: 374px;
+	height: 125px;
+	left: 0;
+	top: 227px;
+}
+.last_gg_left .b_img2 img {
+	width: 374px;
+	height: 125px;
+}
+.last_gg_left .b_img3 {
+	position: absolute;
+	width: 180px;
+	height: 130px;
+	left: 0;
+	top: 363px;
+}
+.last_gg_left .b_img3 img {
+	width: 180px;
+	height: 130px;
+}
+.last_gg_left .b_img4 {
+	position: absolute;
+	width: 180px;
+	height: 130px;
+	left: 194px;
+	top: 363px;
+}
+.last_gg_left .b_img4 img {
+	width: 180px;
+	height: 130px;
+}
+.last_gg_right {
+	overflow: hidden;
+	padding-top: 40px;
+	position: relative;
+	width: 570px;
+	float: right;
+}
+.last_gg .btn1 {
+	cursor: pointer;
+	display: block;
+	position: absolute;
+	left: 710px;
+	top: 0;
+	width: 104px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	background-image: url({dede:global.cfg_templets_skin/}/resources/images/last_gg.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	z-index: 999999;
+}
+.last_gg .btn1:hover {
+	background-position: left bottom;
+}
+.last_gg .btn2 {
+	text-decoration: none;
+	cursor: pointer;
+	display: block;
+	position: absolute;
+	left: 834px;
+	top: 0;
+	width: 104px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	background-image: url({dede:global.cfg_templets_skin/}/resources/images/last_gg.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	z-index: 999999;
+}
+.last_gg .btn2:hover {
+	background-position: right bottom;
+}
+.last_gg label {
+	position: absolute;
+	left: 374px;
+	top: 0;
+	width: 330px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: #555555;
+	font-size: 14px;
+}
+.last_340 {
+	min-height: 340px;
+}
+.close_last_gg {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 24px;
+	height: 24px;
+	background: url({dede:global.cfg_templets_skin/}/resources/images/close_last_gg_btn_bg.png) no-repeat;
+	z-index: 190000;
+	cursor: pointer;
+}
+.ac_bg {
+	margin: 0 auto;
+	width: 1000px;
+	border-left: 1px solid #E8E8E8;
+	border-right: 1px solid #E8E8E8;
+	border-bottom: 1px solid #E8E8E8;
+	background-color: #ffffff;
+}
+.all_gg {
+	margin: 0 auto;
+	width: 1000px;
+	border: 1px solid #E8E8E8;
+	background-color: #ffffff;
+}
+.footer {
+	clear: both;
+	padding: 20px;
+	text-align: center;
+	font-size: 12px;
+	font-family: "\5b8b\4f53";
+}
+.footer p {
+	height: 30px;
+	line-height: 30px;
+}
+.footer a {
+	color: #333333;
+	text-decoration: none;
+}
+.footer a:hover {
+	color: #EE4B4B;
+	text-decoration: underline;
+}
+.img_title {
+	position: relative;
+	height: 48px;
+}
+.small_fenxiang {
+	position: absolute;
+	left: 820px;
+	top: 12px;
+	width: 210px;
+	height: 24px;
+	margin: 0 auto;
+}
+.small_fenxiang .bdsharebuttonbox {
+	height: 24px;
+}
+.small_fenxiang .bdsharebuttonbox a {
+	margin: 0 8px 0 0;
+}
+.small_fenxiang .bdsharebuttonbox a.bds_tsina {
+	width: 24px;
+	height: 24px;
+	background: url({dede:global.cfg_templets_skin/}/resources/images/1m.jpg) no-repeat;
+	padding: 0;
+	background-position: 0 0 !important;
+}
+.small_fenxiang .bdsharebuttonbox a.bds_sqq {
+	width: 24px;
+	height: 24px;
+	background: url({dede:global.cfg_templets_skin/}/resources/images/2m.jpg) no-repeat;
+	padding: 0;
+	background-position: 0 0 !important;
+}
+.small_fenxiang .bdsharebuttonbox a.bds_qzone {
+	width: 24px;
+	height: 24px;
+	background: url({dede:global.cfg_templets_skin/}/resources/images/3m.jpg) no-repeat;
+	padding: 0;
+	background-position: 0 0 !important;
+}
+.small_fenxiang .bdsharebuttonbox a.bds_more {
+	width: 24px;
+	height: 24px;
+	background: url({dede:global.cfg_templets_skin/}/resources/images/4m.jpg) no-repeat !important;
+	padding: 0;
+	background-position: 0 0 !important;
+}
+.small_fenxiang_span {
+	display: block;
+	float: left;
+	font-size: 14px;
+	color: #333;
+	line-height: 24px;
+}
+</style>
+</head>
+<body>
+{dede:include filename="list_header.htm"/}
+<div class="h10"></div>
+<div style="width: 1020px; margin: 0 auto;"> 
+  <!-- 广告位：嵩恒_头条_图片新闻_顶部通栏 --> 
+  <!-- <img src="{dede:global.cfg_basehost/}/images/ad/12.gif" width="1000px" style="padding-left:10px;">--> 
+  <script src='/plus/ad_js.php?aid=45' language='javascript'></script> 
+</div>
+<div class="h10"></div>
+<div class="fix_left_gg">
+  <div class="gg_close_btn">X</div>
+</div>
+<div class="fix_right_gg">
+  <div class="gg_close_btn">X</div>
+</div>
+<div class="w1002">
+  <div class="w940 img_bread"> 您的当前位置： {dede:field name='position'/}</div>
+  <div class="w940 line2_top_border"></div>
+  <div class="line7"></div>
+  <div class="w940 img_title">
+    <div class="img_b_title"> {dede:field.title/}</div>
+    <div class="img_s_title"><!--(<span>1</span>/28)--></div>
+    <!-- 分享 --> 
+    <!-- <div class="small_fenxiang"> <span class="small_fenxiang_span">分享到：</span>
+      <div class="bdsharebuttonbox" data-tag="share_1"> <a class="bds_tsina" data-cmd="tsina"></a> <a class="bds_sqq" data-cmd="sqq"></a> <a class="bds_qzone" data-cmd="qzone" href="#"></a> 
+        <a class="bds_more" data-cmd="more"></a>
+      </div>
+    </div>-->
+    <div style="width:150px; float:right;">
+      <div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+      
+    </div>
+    <script type="text/javascript" id="bdshare_js" data="type=tools" ></script> 
+    <script type="text/javascript" id="bdshell_js"></script> 
+    <script type="text/javascript">
+		        window._bd_share_config = {
+					common : {
+						bdText : '{dede:field name="title"/}',
+						bdDesc : '{dede:field name="title"/}'
+					},
+					share : [{
+						"bdSize" : 16
+					}]
+				}
+				with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+		    </script><!-- end 分享 --> 
+  </div>
+  <div class="line7"></div>
+  <div class="w940 img_area">
+    <div class="h10"></div>
+    <div class="h10"></div>
+    <div class="last_340"> {dede:productimagelist} <img [field:show/] src="[field:imgsrc/]" /> {/dede:productimagelist} <span class="click_to_prev" title="点击浏览上一张"></span> <span class="click_to_next" title="点击浏览下一张"></span>
+      <div class="h10"></div>
+      <div class="h10"></div>
+      <div class="last_gg">
+        <div class="last_gg_left">
+          <div class="last_gg_lgnlc">
+            <label>到最后一页了，下一集更精彩</label>
+            <span class="btn1"></span> <a onfocus="this.blur()" class="btn2" href=" "> </a> </div>
+          {dede:productimagelist}
+          <div class="b_img[field:photoid/]"> <a href="[field:imgsrc/]"><img src="[field:imgsrc/]" /></a>
+            <div class="opabg"></div>
+            <div class="txt"> <a href="[field:imgsrc/]">[field:title/]</a> </div>
+          </div>
+          {/dede:productimagelist} </div>
+        <!-- <div class="last_gg_right"> 
+   
+      
+        <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/grgzjs/2.js"></script>
+        <div style="padding-left: 24px; overflow: hidden;"> 
+          <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/grgzjs/3.js"></script> 
+        </div>--> 
+      </div>
+    </div>
+  </div>
+  <div class="ac_bg">
+    <div class="line7"></div>
+    <div class="line7"></div>
+    <div style="width: 900px; margin: 0 auto; margin-bottom:30px;">
+      <p>{dede:field.body/}</p>
+    </div>
+    <div style="width: 960px; margin: 0 auto;"> 
+      <!-- /*嵩恒_图片新闻_图片正下方960*60 创建于 2015-05-05*/ --> 
+      <img src="{dede:global.cfg_basehost/}/images/ad/13.gif"> </div>
+    <div class="line7"></div>
+    <div class="w960 img_bottom_info">
+      <div class="w960 ctrl_info"> <span class="s_left">{dede:field name='pubdate' function='GetDateMk(@me)'/}   来源 : baidu.com</span> <span class="s_center">查看原图</span> <span class="s_right">键盘<span>← →</span>翻页、<span>Ctrl+← →</span>翻相册、<span>Shift+← →</span>滑动</span> </div>
+    </div>
+    <div class="line7"></div>
+    <div class="w960 img_slide_bar"> <a href="{dede:prenext get='preurl'/}" title="{dede:field name="title"/}" alt="{dede:field name="title"/}" class="go_to_prev">
+      <div class="pn_bg1"></div>
+      <div class="pn_bg2"></div>
+      <div class="pn_bg3">上一图集</div>
+      </a>
+      <div class="img_temp_all">
+        <div class="slide_left"></div>
+        <div class="slide_fix_frame">
+          <div class="slide_move_bar"> {dede:productimagelist}
+            <div class="img_temp_s_block">
+              <div class="img_temp_s_block_img_border [field:now/]"> <img src="[field:imgsrc/]"> <span class="arrow"></span> </div>
+            </div>
+            {/dede:productimagelist} </div>
+        </div>
+        <div class="slide_right"></div>
+      </div>
+      <a href="{dede:prenext get='nexturl'/}" title="" alt="" class="go_to_next">
+      <div class="pn_bg1"></div>
+      <div class="pn_bg2"></div>
+      <div class="pn_bg3">下一图集</div>
+      </a> </div>
+  </div>
+  <div class="line7"></div>
+  <div class="line7"></div>
+  <div class="line7"></div>
+  <!-- 广告 -->
+  <div class="all_gg">
+    <div class="h10"></div>
+    <div> 
+      <!-- 广告位：嵩恒_头条_图片新闻_图集下方 --> 
+      <!-- <img src="{dede:global.cfg_basehost/}/images/ad/14.gif" width="960px"  style="padding-left:20px">--> 
+      <script src='/plus/ad_js.php?aid=46' language='javascript'></script> 
+    </div>
+    <div style="width:960px !important; margin:0 auto !important; padding-top:20px;"> 
+      <!-- UY BEGIN -->
+      <div id="uyan_frame"></div>
+      <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=907827"></script> 
+      <!-- UY END --> 
+    </div>
+    <div class="h10"></div>
+    <div style="width: 996px; margin: 0 auto;"> 
+      <!-- 百度推荐-东方头条图片频道 996*317 --> 
+      <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/grgzjs/6.js"></script> 
+    </div>
+    <div style="width: 1000px; margin: 0 auto;"> 
+      <!-- 广告位：嵩恒_头条_图片新闻_猜你喜欢下方 --> 
+      <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/grgzjs/7.js"></script> 
+    </div>
+    <div class="h10"></div>
+    <div>
+      <div style="float: left; width: 630px; padding-left: 20px;">
+        <div id="SOHUCS"></div>
+        <script charset="utf-8" type="text/javascript" src="{dede:global.cfg_templets_skin/}/changyan.sohu.com/upload/changyan.js" ></script> 
+        <script type="text/javascript">
+					    window.changyan.api.config({
+					        appid: 'cyrKt3VoB',
+					        conf: 'prod_ae809818f1932199b5881e4f64d7cee5'
+					    });
+					</script> 
+      </div>
+      <div style="float: right; width: 340px;">
+        <div class="h10"></div>
+        <div class="h10"></div>
+        <div class="h10"></div>
+        <div class="h10"></div>
+        <div class="h10"></div>
+        <!-- 广告位：嵩恒_头条_图片新闻_右下原生340*390 --> 
+        <script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/grgzjs/8.js"></script> 
+      </div>
+      <div class="cf"></div>
+    </div>
+  </div>
+  <!-- end 广告 --> 
+</div>
+<script type="text/javascript">
+$(function(){
+	fix_img();
+	function fix_img(){
+		if($('.img_area img.show').width() < 1){
+			setTimeout(function(){
+				fix_img();	
+			}, 500);
+			return;
+		}
+		if($('.img_area img.show').width() > 940){
+			$('.img_area img.show').width(940);
+		}
+		fix_big_btn();
+	}
+	function fix_big_btn(){
+		$('.click_to_prev, .click_to_next').css({
+			height: $('.img_area').height()
+		})
+	}
+	//调整滑动条到真实宽度
+	$('.slide_move_bar').width(28*116);
+	//左右滑动
+
+
+	$('.slide_left').on('mouseenter', function(){
+		$(this).css({
+			backgroundPosition: '0 -77px'
+		});
+	});
+	$('.slide_left').on('mouseleave', function(){
+		$(this).css({
+			backgroundPosition: '0 0'
+		});
+	});
+	$('.slide_right').on('mouseenter', function(){
+		$(this).css({
+			backgroundPosition: '-20px -77px'
+		});
+	});
+	$('.slide_right').on('mouseleave', function(){
+		$(this).css({
+			backgroundPosition: '-20px 0'
+		});
+	});
+	$('.slide_left').on('click', function(){
+		var _left = $('.slide_move_bar').position().left;
+		//左侧越界修正
+		if(_left >= 0){
+			$('.slide_move_bar').css({
+				left: 0
+			});
+			return;
+		}
+		$('.slide_move_bar').filter(':not(":animated")').animate({
+			left: _left+116
+		}, 200);
+	});
+	$('.slide_right').on('click', function(){
+		var _left = $('.slide_move_bar').position().left;
+		//数量过少不做滚动
+		if(28 <= 5){
+			return;
+		}
+		//右侧越界修正
+		if(_left <= -(28*116-5*116)){
+			$('.slide_move_bar').css({
+				left: -(28*116-5*116)
+			});
+			return;
+		}
+		$('.slide_move_bar').filter(':not(":animated")').animate({
+			left: _left-116
+		}, 200);
+		
+	});
+	//点击换图
+	$('.img_temp_s_block_img_border').on('click', function(){
+		var _this = $(this);
+		var _idx = _this.parent().index();
+		var _idx_now = $('.img_s_title span').text();
+		_idx_now = _idx_now - 1;
+		//判断点击位置
+		if(_idx == _idx_now){
+			$('.img_area img:eq('+_idx+')').stop();
+			$('.img_area img:eq('+_idx+')').animate({
+				opacity: 1
+			}, 0);
+			$('.last_gg').hide();
+			$('.img_area').css({
+				height: 'auto'
+			});
+			return false;
+		}else{
+			if(_idx > _idx_now){
+				//左滑出 右滑入
+				$('.img_area img.show').stop();
+				$('.img_area img.show').animate({
+					opacity: 0
+				}, 0, function(){
+					$('.img_area img.show').stop();
+					$('.img_area img.show').animate({
+						opacity: 1
+					}, 0);
+				});
+			}else{
+				//右滑出 左滑入
+				$('.img_area img.show').stop();
+				$('.img_area img.show').animate({
+					opacity: 0
+				}, 0, function(){
+					$('.img_area img.show').stop();
+					$('.img_area img.show').animate({
+						opacity: 1
+					}, 0);
+				});
+			}
+		}
+		$('.last_gg').hide();
+		$('.img_area').css({
+			height: 'auto'
+		});
+		
+		$('.img_temp_s_block_img_border.now').removeClass('now');
+		$('.img_area img.show').removeClass('show');
+		$('.img_area img:eq(' + _idx + ')').addClass('show');
+		if(_idx > _idx_now){
+			$('.img_area img:eq(' + _idx + ')').animate({
+				opacity: 0
+			}, 0, function(){
+				$('.img_area img:eq(' + _idx + ')').animate({
+					opacity: 1
+				}, 0);
+			});
+		}else{
+			$('.img_area img:eq(' + _idx + ')').animate({
+				opacity: 0
+			}, 0, function(){
+				$('.img_area img:eq(' + _idx + ')').animate({
+					opacity: 1
+				}, 0);
+			});
+		}
+		
+		$('.img_temp_s_block_img_border').css({
+			borderColor: '#ffffff'
+		});
+		_this.addClass('now');
+		_this.css({
+			borderColor: '#ee4b4b'
+		});
+		$('.img_s_title span').text(_idx+1);
+		fix_big_btn();
+		
+		//焦点图居中
+		if(28 <= 5){
+			return;
+		}
+		if(_idx <= 2){
+			$('.slide_move_bar').css({
+				left: 0
+			});
+		}else if(_idx >= 28 - 3){
+			$('.slide_move_bar').css({
+				left: -(28*116-5*116)
+			});
+		}else{
+			$('.slide_move_bar').css({
+				left: -((_idx-2)*116)
+			});
+		}
+	});
+	$('.img_temp_s_block').on('mouseenter', '.img_temp_s_block_img_border:not(".now")', function(){
+		$(this).css({
+			borderColor: '#ee4b4b'
+		});
+	});
+	$('.img_temp_s_block').on('mouseleave', '.img_temp_s_block_img_border:not(".now")', function(){
+		$(this).css({
+			borderColor: '#ffffff'
+		});
+	});
+	//左右翻页
+	$('.click_to_prev').on('click', function(){
+		if($('.img_area img.show').index() == 0){
+			location.href = $('.go_to_prev').attr('href');
+		}else{
+			$('.img_temp_s_block_img_border:eq(' + ($('.img_area img.show').index()-1) + ')').trigger('click');
+		}
+	});
+	$('.click_to_next').on('click', function(){
+		if($('.img_area img.show').index() == 28 - 1){
+			//location.href = $('.go_to_next').attr('href');
+			//显示最后一个广告页
+			$('.img_area img').stop();
+			$('.img_area img').animate({
+				opacity: 0
+			}, 0);
+			$('.img_area').height(542);
+			fix_big_btn();
+			$('.last_gg').show();
+			$('.last_gg_left img').animate({
+				opacity: 1
+			}, 0);
+			$('.last_gg_left img').show();
+		}else{
+			$('.img_temp_s_block_img_border:eq(' + ($('.img_area img.show').index()+1) + ')').trigger('click');
+		}
+	});
+	//键盘操作
+	$('body').keyup(function(event){
+		if(event.ctrlKey){
+			//翻相册
+			if(event.keyCode == 37){
+				location.href = $('.go_to_prev').attr('href');
+			}else if(event.keyCode == 39){
+				location.href = $('.go_to_next').attr('href');
+			}
+		}else if(event.shiftKey){
+			//滚动
+			if(event.keyCode == 37){
+				$('.slide_left').trigger('click');
+			}else if(event.keyCode == 39){
+				$('.slide_right').trigger('click');
+			}
+		}else{
+			//翻页
+			if(event.keyCode == 37){
+				$('.click_to_prev').trigger('click');
+			}else if(event.keyCode == 39){
+				$('.click_to_next').trigger('click');
+			}
+		}
+	});
+	//广告
+	$('.fix_left_gg, .fix_right_gg').on('mouseenter', function(){
+		$(this).find('.gg_close_btn').stop();
+		$(this).find('.gg_close_btn').show(250);
+	});
+	$('.fix_left_gg, .fix_right_gg').on('mouseleave', function(){
+		$(this).find('.gg_close_btn').stop();
+		$(this).find('.gg_close_btn').hide(250);
+	});
+	$('.gg_close_btn').on('click', function(){
+		$(this).parent().slideUp();
+	});
+	//原图
+	$('span.s_center').on('mouseenter', function(){
+		$(this).css({
+			color: '#ee4b4b'
+		});
+	});
+	$('span.s_center').on('mouseleave', function(){
+		$(this).css({
+			color: '#999999'
+		});
+	});
+	$('span.s_center').on('click', function(){
+		window.open($('.img_area img.show').attr('src'));
+	});
+	//last_gg按钮点击效果
+	$('.btn1').on('click', function(){
+		$('.img_temp_s_block_img_border:eq(0)').trigger('click');
+	});
+});
+</script> 
+<!-- 嵩恒_图片新闻120*300 --> 
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/grgzjs/9.js"></script> 
+<!-- 嵩恒_图片新闻300*250 --> 
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/grgzjs/10.js"></script> 
+<!-- 图加 --> 
+<script type="text/javascript" src="{dede:global.cfg_templets_skin/}/resources/grgzjs/11.js"></script> 
+<!--统计--> 
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script> 
+</body>
+</html>

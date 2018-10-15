@@ -1,0 +1,2333 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+<webSite>我的网站 </webSite>
+<webMaster>desdev@vip.qq.com </webMaster>
+<updatePeri>15 </updatePeri>
+<item>
+<title>{dede:招聘启事 标题='织梦大家庭新年招募第一波'} </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0408/106.html </link>
+<description>2010年，新一年，新征程……
+织梦大家庭招募能够共同创业的新伙伴。
+首要特点：织梦需要的是创业伙伴，而非普通员工。织梦是一个大家共同的创业平台！繁华浮躁的时代，我们需要的是『不浮躁』的人。 </description>
+<text>2010年，新一年，新征程……
+织梦大家庭招募能够共同创业的新伙伴。
+首要特点：织梦需要的是创业伙伴，而非普通员工。织梦是一个大家共同的创业平台！繁华浮躁的时代，我们需要的是『不浮躁』的人。
+我们特制作了这份具有织梦特色的招聘模板页面给熟悉DedeCMS的GGJJDDMM，你如果条件符合并有意加入，请立即联系我们：
+P.S. 如果目前你还是个新手，但你非常喜爱DedeCMS并且有足够的自信和学习力，我们同样的给予机会让你加入到织梦大家庭一起参与创业！
+我们为加入织梦团队的伙伴，提供住宿，让大家在上海吃住无忧。
+
+&amp;nbsp;---------------------------------------------------- 
+|&amp;nbsp;&amp;nbsp;&amp;nbsp; E-mail:hr#dedecms.com(#@)&amp;nbsp;&amp;nbsp;&amp;nbsp; | 
+&amp;nbsp;---------------------------------------------------- 
+&amp;nbsp; 
+{dede:招聘启事 标题='织梦大家庭新年招募第一波' 工作地点='上海' 版本='1.0.1' 时间='2010+'} 
+&amp;nbsp; 声明 织梦人 
+&amp;nbsp; { 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥性别 = '不限'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥年龄 = '不限'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥性格 = '开朗'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥学历 = '英雄不问出处';
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥团队意识 = '强'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥学习能力 = '非常强'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥人品 = '好'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥烟酒 = '没瘾';
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥薪资 = '人有多大胆,地有多大产'; 
+&amp;nbsp; } 
+&amp;nbsp; 
+&amp;nbsp; /*****我们需要这样的策划人员*****/ 
+&amp;nbsp; 文案策划 继承 织梦人 
+&amp;nbsp; { 
+&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥招聘人数 = '2+'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥描述 = ' 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.基本的要求可以查看&quot;声明 织梦人{}&quot;,如果您还符合以上的要求则可以继续阅读下面部分的内容; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2.有基本的市场营销观念,能够了解用户并且能够主动挖掘用户潜在商业价值; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3.有较强的文字组织能力,能够通过文字有条理的表达、沟通； 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.对网站建设方面比较了解，能够知道网站建设中一些基本的流程，并且能够准确地形成文档同用户或技术团队沟通； 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5.熟悉各种文案编辑工具的使用，例如：Axure、Dreamweaver、Visio等，能够制作线框图，流程图者优先考虑； 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 6.有制定规范的能力，善于发现问题，分析问题，能够解决问题者最佳； 
+&amp;nbsp;&amp;nbsp;&amp;nbsp; '; 
+&amp;nbsp; } 
+&amp;nbsp; 
+&amp;nbsp; /*****这样的是织梦喜欢的网站制作人员*****/ 
+&amp;nbsp; 网站制作 继承 织梦人 
+&amp;nbsp; { 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3+ 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 是 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 会 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 必须 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 必须 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 必须 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 必须 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 最佳 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 最佳 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 有经验 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 有经验 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 很好 
+&amp;nbsp; } 
+&amp;nbsp; 
+&amp;nbsp; /*****我们需要怎样一个程序员*****/ 
+&amp;nbsp; 程序员 继承 织梦人 
+&amp;nbsp; { 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥人数 = 5+; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥编程经验 &gt; 3年; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥技术 in ('PHP', 'MySQL', 'Linux', 'C/C++', '其它'); 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥优先 = (￥熟悉 == 'DedeCMS')? '是' : 'Out'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥自主开发产品 = '可以'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥程序员-&gt;编码() 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; { 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥代码习惯 = '良好'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥结构 = '清晰'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥命名 = '规范'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥逻辑 = '强'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥代码冗余率 = '低'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥程序员-&gt;学习() 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; { 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥同类产品 = '熟悉'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥UI/UE = '经常研究'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥用户习惯 = '了解'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥新技术 = '非常关注'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥程序员-&gt;开发() 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; { 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥MySQL索引优化 = '具有'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥查询优化和存储优化 = '有经验'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥PHP缓存技术 = '有经验'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ￥静态化设计 = '有经验'; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } 
+&amp;nbsp; } 
+&amp;nbsp; 
+{/dede:招聘启事 CopyRight='2007-2010 DesDev INC.'} 
+&amp;nbsp; </text>
+<image> </image>
+<keywords>新年,招募,第一,波,大家庭,织梦,招聘,启事,标题,ded </keywords>
+<category>Dreamweaver </category>
+<author>织梦官方 </author>
+<source>织梦官方 </source>
+<pubDate>2010-04-08 14:26 </pubDate>
+</item>
+<item>
+<title>DedeCMS V5.6 开发日志及新建议提交贴 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/92.html </link>
+<description>说明： ■为已经升级或修正的功能 □表示需多处同时处理的复杂功能或待验证功能 [新增] ■ 1.搜索关键词批量管理功能; □ 2.会员中心更换全新UI界面,让用户中心更亲切方便; ■ 2.1 会员中心增加好友动态功能; ■ 2.2 添加会员心情功能(用户可以在会员中心设 </description>
+<text>说明： ■为已经升级或修正的功能 □表示需多处同时处理的复杂功能或待验证功能
+[新增] 
+■ 1.搜索关键词批量管理功能; 
+□ 2.会员中心更换全新UI界面,让用户中心更亲切方便; 
+■ 2.1 会员中心增加好友动态功能; 
+■ 2.2 添加会员心情功能(用户可以在会员中心设置自己的状态); 
+■ 2.3 结构调整,确立会员中心『内容中心』,『我的织梦』结构,今后会员中心会在这两点进行深入挖掘; 
+■ 2.4 重新设计默认头像,织梦版的大眼更Q; 
+■ 2.5 会员注册进行调整,网站管理员可以启用会员注册步骤; 
+■3.单个会员发送短消息功能; 
+■4.新增V56默认模板,并且同期整理规范模板目录让更多技术爱好者能够参与模板制作中来; 
+■ 4.1 默认模板添加多种颜色切换功能,让页面展示更具有人性化; 
+■ 4.2 调整各个功能部分的管理目录,对所有素材文件进行整理; 
+■5.DedeCMS_V56模板标签手册(CHM)版本; 
+■6.采用全新Unicode编码词典的php分词器; 
+■7.使用新的验证码类,并且加入验证安全问题设置,系统验证更加方便管理; 
+■8.系统管理后台界面调整; 
+■ 8.1.后台增加快捷搜索功能,可以更方便找到某个操作项 
+■9.会员留言管理功能,会员可以自行删除留言,管理员可以从后台删除留言; 
+■10.搜索关键词批量管理功能; 
+■11.调整系统管理后台,对一些体验进行修改; 
+■12.增加提升管理员的操作,管理员可在后台提升系统用户为管理员; 
+□13.创建&quot;织梦维基&quot;平台,打造织梦DedeCMS产品知识库,让学习织梦更简单; 
+■14.增加一些日志文件的过滤; 
+■15.增加图集幻灯的显示方式,使其更人性化; 
+□16.arclist标签支持分页,使其内容调用更加方便快捷; 
+■17.增加会员模型管理功能,使得会员字段更方便修改; 
+■18.增加初始化数据安装,用户可以在安装的时候选择初始化数据,数据中含有部分功能的操作样例; 
+■19.文章内容增加权重功能,可以对文章进行顺序调整; 
+□20.远程站点部署功能,可以将站点内容生成部署到其他(服务器)站点目录; 
+□21.模块部分功能进行调整,规范程序目录结构,同时需要调整整体模块风格; 
+□22.增加邮件订阅功能,网站管理员可以制作订阅专题进行邮件批量发送;
+[修复] 
+■1.单表模型内容不同栏目无法移动的bug; 
+■2.栏目设置中如果外部链接地址为ftp无法正确解析的问题; 
+■3.修正积分转换过滤的问题; 
+■4.短消息弹出框出错提示; 
+■5.修复数据库类的一个小错误; 
+■6.修复单表模型点击数统计问题; 
+■7.修复XSS引起站点安全问题的bug; 
+■8.修复模板引擎一个全局变量自定义函数不显示的错误; 
+■9.修复时间选择组件无法选择2010后的问题; 
+■10.tag标签按照出现文档最多排序 
+■11.修复后台会员工作统计中没有对单表模型进行统计的错误; 
+■12.调整页面部分文件目录结构使得程序更完整; 
+■13.修复checkbox不选,但显示值全选的bug; 
+&amp;nbsp; </text>
+<image> </image>
+<keywords>建议,提交,贴,新,日志,V5.6,开发,DedeCMS, </keywords>
+<category>HTML </category>
+<author>织梦官方 </author>
+<source>织梦官方 </source>
+<pubDate>2010-04-07 14:49 </pubDate>
+</item>
+<item>
+<title>使用Dreamweaver来详细了解CSS的多样性 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/68.html </link>
+<description>说明：√属性继承 ×不继承 [ ]为适应元素类型 无[ ]标出为所有元素字体√Font-family√Font-size 9 10 12 14 16 18 24 36 xx-small x-small small medium large x-large xx-large smaller larger√Color√Font-style normal italic obliqu </description>
+<text>说明：√属性继承　×不继承　　　　[　]为适应元素类型　无[　]标出为所有元素字体√Font-family√Font-size 9 10 12 14 16 18 24 36 xx-small x-small small medium large x-large xx-large smaller larger√Color√Font-style normal italic oblique√Line-height nomal√Font-weight normal bold bolder lighter 100 200 300 400 500 600 700 800 900√Text-transform capitalize uppercase lowercase none√Font-variant normal small-caps×Text-decoration none underline overline line-through blink√Font背景×Background-color×Background×Background-image×Background-attachment fixed scroll×Background-repeat no-repeat repeat repeat-x repeat-y×Background-position[块、替换]区块√Word-spacing normal[块]√Letter-spacing normal×Vertical-align baseline sub super top text-top middle bottom text-bottom[内]√Text-align left right center justify[块]×Text-indent[块]×White-space normal pre nowrap[块]×Display inline block list-item run-in compact marker table inline-table table-row-group table-header-ground table-footer-ground table-row table-column-ground table-column table-cell table-caption none边框×Border×Border-top-color×Border-top-style none solid dashed dotted double groove ridge inset outset×Border-top-width thin medium thick×Border-top-Right×Border-top-Bottom×Border-top-Left×Border-top×Border-right×Border-bottom×Border-left×Border-color×Border-style×Border-width方框×Width auto px pt in cm mm pc em ex %[块、替]×Height auto[块、替]×Float left right none×Clear left right both none×Margin×Margin-top×Margin-right×Margin-bottom×Margin-left×Padding×Padding-top×Padding-right×Padding-bottom×Padding-left列表×List-style-type disc circle square decimal lower-roman upper-roman lower-alpha upper-alpha onne[显示值为list-item的元素]×List-style-Image[显示值为list-item的元素]×List-style-position inside outside[显示值为list-item的元素]定位×Position absolute relative static×Visiblility visible hidden inherit×Height auto×Left auto×Top auto×Right auto×Bottom auto×z-index auto[定位元素]×overflow visible hidden scroll auto[块、替]×clip auto
+              </text>
+<image> </image>
+<keywords>使用Dreamweaver来详细了解CSS的 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>用Dreamweaver合理为为网页进行优化 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/69.html </link>
+<description>我们为了优化网页、加快网页下载速度，除了对图片进行优化之外，还需对网页其他各个元素进行优化。在网页编织过程中如能充分利用编辑工具，也可以在网页制作中达到优化目的。 下面是Dreamweaver中的一些优化技法: 合理调用CSS 进行网页设计时，运用 </description>
+<text>　我们为了优化网页、加快网页下载速度，除了对图片进行优化之外，还需对网页其他各个元素进行优化。在网页编织过程中如能充分利用编辑工具，也可以在中达到优化目的。　　下面是Dreamweaver中的一些优化技法:　　合理调用CSS　　进行网页设计时，运用样式表单CSS来对页面元素进行布置，可以大大地减少HTML代码，这点我们已经很清楚。　　方法:　　(1)是选定对象，从右键菜单中选择定义好的样式加入; (2)是从样式面板中为对象选择样式;　　(3)是在标签选择器上的某标签上单击右键选择样式。　　这三种方法虽然获得的页面效果一样，但由于第一种方法会在HTML代码中产生一个“span”标签，如果过多地使用必定会使网页源文件大大增肥，影响下载速度。因此调用CSS时，应采用第二、第三种方法。　　为服务器减负　　在交互网页中，用户常用表单向服务器提交数据，等待服务器的数据处理、返回浏览器……等待的过程是很令人心烦的。为此，我们在进行网页编辑时，也有必要为服务器作个考虑。Dreamweaver中制作网页，能为服务器减负的工作有一项做得较出色，就是对用户所提交的表单的合法性进行验证，只需在浏览器端进行，不必返回到服务器验证，既减轻了服务器的负担，又让浏览者少一份伤心的等待。 　　方法:选中表单，打开“行为”面板，点击“+”号选“验证表单”，然后进行设置即可。顺便提醒，这个验证过程实际上是使用JavaScript在浏览器端作验证。在Dreamweaver里进行上述操作时，它会把这段JavaScript代码放在网页头部与之中，这样必定会使页面的完全显示时间变长，因为浏览器要先下载这段代码才下载其他页面元素。因此，最好在Dreamweaver中打开代码编辑器，把这段脚本程序剪贴到源代码的最后边，让其在最后下载。另外，我们在为网页加入JavaScript脚本特效时，你如果不希望页面出现时马上生效，也不妨这样设置。　　自我“减肥”　　目前网页“减肥茶”很多，我们随处都可找到，而在Dreamweaver中，我们不必四处找“减肥茶”，利用其自身的“减肥”功能足可以使网页“苗条怡人”。　　方法:在“命令”菜单下选择“清除多余的HTML”，即可进行设置对网页冗余代码进行清除。　　合理应用表格　　我们不但要为服务器减负，对使用的浏览器我们更需要减负，也就是要尽可能地缩短浏览器对页面的解析时间，上面提及的JavaScript脚本加入就是一个例子。影响浏览器对页面解析的还有表格，因为浏览器对表格的解析时间与表格的大小、复杂程度成正比，而我们在Dreamweaver中为了版式的安排，都是通过加入大量的表格来进行定位的，有些人甚至在大表格中套入多重的小表格，这实质上也是在加大浏览器的负担，使页面呈现时间大大加长。为此在使用表格时，应尽量将表格打散，并要尽可能地避免表格的层层相套。
+              </text>
+<image> </image>
+<keywords>用Dreamweaver合理为为网页进行 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>Dreamweaver方便快捷编辑网页标签 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/70.html </link>
+<description>不知各位是否有手写代码的习惯。例如：要在一个单元格插入一段CSS代码，或者一段Javascript代码，怎么做才比较快捷方便呢？ 虽然Dreamweaver已经为我们提供了代码视图，可是必竟还要手工去查找，还要来回地切换。虽然也可以用代码视图与编辑视图并存的 </description>
+<text>　不知各位是否有手写代码的习惯。例如：要在一个单元格插入一段CSS代码，或者一段Javascript代码，怎么做才比较快捷方便呢？　　　虽然Dreamweaver已经为我们提供了代码视图，可是必竟还要手工去查找，还要来回地切换。虽然也可以用代码视图与编辑视图并存的方式，但还要占用一半的屏幕空间，使本来便不大的编辑区域更显得拥挤。有没有更好的办法呢？答案是肯定的。　　下面我们以Dreamweaver 8为例，假设大家Dreamweaver面板布局都为默认的布局方式。查看一下属性面板的上方是否有一行小标签。（如果您用的不是MX，标签在状态栏中）例如：你新建一个空白的HTML文档，上面的小标签应该为＜body＞。请看下图：　　图上画红框的地方，就是我们今天的主角了。我们先看一下“环绕标签”。在页面上随便打入几个字，选中它们，在右键菜单中选择“环绕标签”，在弹出的环绕标签对话框中输入“＜strong＞”（不包括引号），然后回车。之前被选中的文字是不是已经变成粗体了，到源代码看一下，我们所选中的文字是不是已经被＜strong＞标签包围了？大家可以试着再加入其它的一些标签，如：＜a＞，＜p＞。这里也可以直接输入属性。如：＜p style=&quot;color:#CC0000&quot;＞。这里仅大概说明一下，如有疑问，请查看Dreamweaver的帮助。　　下面说一下标签选择器的应用方法。　　我们将光标移动到刚才加粗的文字里，会发现在＜body＞的后面多了个＜strong＞。这就是说光标所在处的这些文字的外面有＜strong＞的标签，在＜strong＞标签外有＜body＞标签。下面大家再添加一个表格，把光标移动到表格内，看看标签的结构。相信对HTML有些基础的朋友都应该很容易理解的。　　假设我们现在要插入一个表格，并将这个表格用CSS来将它下移10个象素。先插入一个表格，然后交光标移动到表格内。这时在标签选择器上应该可以看到这样的字样＜body＞＜table＞＜tr＞＜td＞。然后在table标签上点鼠标右键，会看到有四个选项。删除标签、编辑标签、设置类、设置ID。　　删除标签：即是将标签删除。（有一些特殊的标签是不能删除的。例如：＜table＞、＜tr＞、＜td＞、＜body＞...) 　　编辑标签：给标签附加属性、修改属性等。 　　设置类：给这个标签附予一个类。（即CSS的类别） 　　设置ID：给这个标签附予一个ID。（即CSS的ID）　　在这里，我们选择编辑标签，然后在后面加上属性style=&quot;margin-top:10px&quot;和正常书写源代码的方式是一样的。然后按下回车。就完成了编辑。如果在Dreamweaver里看不到效果，请用浏览器预览。　　还有另外一种方法，也许你会喜欢。选择窗口→标签检查器当你选择某一个标签后，这里会显示出当前选择标签的所有属性。也可以很快地在这里进行编辑。在这里输入的属性不用包括引号，编辑后按回车确定。　　这里我们只将方法告诉大家，希望大家能够从中受益。
+              </text>
+<image> </image>
+<keywords>Dreamweaver方便快捷编辑网页标 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>Dreamweaver8创建自定义代码片段的方法 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/71.html </link>
+<description>一个好的“偷懒”方法，就好比充满困难的路途中出现一盏明灯，简化了好多繁杂的工作，让你有更多精力做其他事情，做的更顺手。 </description>
+<text>一个好的“偷懒”方法，就好比充满困难的路途中出现一盏明灯，简化了好多繁杂的工作，让你有更多精力做其他事情，做的更顺手。 DW作为的辅助工具之一，已经被人们逐渐掌握并灵活使用，它本身集成了好多实用的东西，给我们的工作带来了很多便利，每当有朋友问我“如何开始学做网页，要看什么书，从哪里入手？”我都会推荐他看DW“帮助”中的“Dreamweaver 入门”，这是最实用的，同时也是离你最近的教程（假设你已经打开DW）。 其实很简单，在右栏中找到“代码片段”（Shift+F9），空白处右键“新建代码片段”（或先“新建文件夹”）  接下来把你常用的代码片段输入进去。  输入好后确定，有几个生成几个，显示如下图：  以后要做的就是，当你用到这些代码片段的时候，打开“代码片段”，双击你命名的那“片”就好了……这里我只举了一个简单的例子，举一反三就靠你自己了。 同样我们也可以利用系统中已经存在的代码片段，比如添加注释。  当然如果你有其他需要那么你就来这里定义你自己的代码片段吧！ 
+              </text>
+<image> </image>
+<keywords>Dreamweaver8创建自定义代码片段 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>在Dreamweaver中为插入的Flash添加透明 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/72.html </link>
+<description>Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Flash添加透明等参数有两种方法。 </description>
+<text>Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Flash添加透明等参数有两种方法。 用Dreamweaver的属性面板为插入的Flash添加透明属性，此方法简单实用。 使插入的Flash处于选择状态，点击属性面板中的“参数”，在随即弹出的参数表中添加一行，参数名为“wmode”，值为“transparent”。使用此方法时注意，若页面中有人工输入的Flash ID，此ID将被删除，请在添加完参数后重新输入ID。 &amp;nbsp;在html代码中为插入的Flash添加透明属性。 同样是添加值为“transparent”的“wmode”参数。 
+              </text>
+<image> </image>
+<keywords>在Dreamweaver中为插入的Flash添 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>使用Dreamweaver批量做web网页 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/54.html </link>
+<description>做网站，麻烦在更新，特别是大规模更新，工作量非常大。真不知那些创意不断而又勤奋的“站长”，隔三岔五将网站来个“大换血”，是怎么忙过来的。 </description>
+<text>，麻烦在更新，特别是大规模更新，工作量非常大。真不知那些创意不断而又勤奋的“站长”，隔三岔五将网站来个“大换血”，是怎么忙过来的。告诉你这个秘密吧，他们很多是在“批发”网页，并且你的机器中也有这样的“批发站”呢!这个好东东就是——模板。常见的工具：FrontPage、DreamWeaver中都有这项功能。如用DreamWeaver 3.0 制作网站时，使用模板就能减少大量的重复劳动。一、建立模板1、创建模板页面最简单的办法是将一个网页另存为模板文件，通过执行命令：File→Save as Template，DreamWeaver会在网站根目录中建立一个模板文件夹——Templates来保存该模板。当然，也可以新建一个模板：Window→Templates，会出现的Templates面板，单击右下角的New Template按钮，输入文件名，就建立了一个空模板;再单击Open Template按钮打开该模板，保存后自动存放于网站模板文件夹Templates中。新建、打开的模板页面和普通的网页没什么两样，同样可以加入表格、层、图片、动画、脚本，设置页面属性等。举例：这里以制作一个模板为例来说明。在该页面中，我们希望左侧的网站标识图和底部的导航图出现在每个页面中。其中标识图由两幅图片叠加而成，导航图上的文字“最近更新”、“在线阅读”、“打包下载”等划分成几个热区分别链接到不同的文件，它们在每个页面中都不变。右上部的主页面区和左下角弹出式选单按钮下面的页面说明则各不相同。为了保持页面整洁，我们用表格来布置这些元素。准确地说它只是一个没有可编辑区域的“准模板”，下面再设定可编辑区域。2、设定可编辑区域设定模板可编辑区域，一般来说有两种方法。新建可编辑区域：选择命令：Modify→Template→New Editable Region。在某一空白区域中单击后执行该命令即可将该区域变为可编辑区域。标记某一区域为可编辑区域：选择命令：Modify→Template→Mark Selectin as Editable Region。如果某区域已经有一些文字，并且希望在以后新建的超文本文件中部分保留其内容，先选中该区域再执行标记命令即可。取消可编辑状态：选择命令：Modify→Template→Unmark Editable Region。执行该命令后会弹出一个对话框，其中有当前已有的可编辑区域列表，选中要取消的区域名称，确认即可。举例：在大片空白区中随便单击一下，执行Modify→Template→New Editable Region命令，在弹出对话框中输入名称：Main;选中左下角本页说明下面的文字，执行Modify→Template→Mark Selectin as Editable Region命令，输入名称：exp。可以看到可编辑区显示为浅蓝色，保存即完成模板制作。二、使用模板1、根据模板新建页面命令：File→New From Template。弹出对话框，从模板列表中选取模板，出现的新页面中除可编辑区外均有淡黄色背景，是不能进行修改的部分。空白的Main编辑区可直接进行插入表格、文字、图片等操作，Exp编辑区保留有原来的文字，修改或重新编辑均可。2、对一个已经有内容的页面应用模板命令：Modify→Template→Apply Template to Page。选择模板后还会弹出一个对话框，让您选择现有的孤立内容保存到哪个可编辑区域(Choose Editable Region for Orphaned Content)。要是不想保留则可以选择“(none)”。举例：我们先新建一个普通页面，输入：“CIW电脑工作室”，执行Modify→Template→Apply Template to Page命令，选择模板test，现有内容保存区域选择Main，确认后可看到页面自动变成了模板页的形式，而“CIW电脑工作室”这一行字就出现在主编辑窗口中。3、更新模板以全面更新站点基于某一模板建立了一些页面后，对模板进行修改后保存时，就会自动弹出一个对话框，列出所有使用了该模板的页面，询问是否要更新。另外一种方法是执行Modify→Template→Update Pages命令。从Update Pages对话框中选择一个站点或站点的某一种模板(同一站点中可以使用多个模板)，单击右侧的Start按钮，软件会自动搜索与模板相关联的网页并进行更新。非常方便!举例：Test模板左侧图形中的“读书破万站”图片是用一个图层叠加在另一幅图片之上的，现在不想要它，同时还想将所有页面中的该图片均删除。就可以打开模板test.dwt，删除该图层，保存模板，单击右侧的“Update”按钮即可。注意：新建和使用模板前需定义站点。方法是，执行命令：Site→Define Sites;指定站点名称和本地根目录(Local Root)。模板使用的是相对路径，如果没有指定网站在本地的位置，软件就不能准确找到并保存模板文件;并且应用模板新建和更新页面时，页面中的超链接也不能随页面文件保存位置的不同而相应变化。
+              </text>
+<image> </image>
+<keywords>使用Dreamweaver批量做web网页 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>用 Dreamweaver 8 搞定web标准 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/55.html </link>
+<description>如果您正在读这篇文章，您很可能是已经对 Web 标准有了一定的兴趣，并且对用 DW ( Dreamweaver 的简称)来构建的站点中标准的应用非常好奇。 </description>
+<text>&amp;nbsp;　　译者序:这个系列原文一共8篇文章，从普及 Web Standards 入手，讲述如何用 Dreamweaver 8 来构建符合标准的 Web ，由于原作者的此篇文章是对《Build Your Own Standards Compliant Website Using Dreamweaver 8 》(这篇文章是收费的)的摘录，所以我对内容进行了适当的删改，顺序与原文是一致的，但篇幅会有调整，特此告知。翻译水平有限，敬请谅解。 　　如果您正在读这篇文章，您很可能是已经对 Web 标准有了一定的兴趣，并且对用 DW ( Dreamweaver 的简称)来构建的站点中标准的应用非常好奇。 　　或许您已经对 WS (Web Standards的简称)有了一定的了解，但是您并不知道如何用 DW 来编写可兼容的代码。或者您是一个 DW 用户，您很想遵从 WS ，更广泛的使用 CSS ，并且可以制作出更有亲和力的文档。无论您是哪一种类型，这篇文章都会给您想要的答案:告诉您如何用 DW 来搞定 WS。 　　Web 标准的定义 　　就我们在整篇文章所关心的 WS 来说，让我们首先花一点时间来明确一下我们究竟在谈论些什么: 　　WS 是一些指导 Web 开发语言的规范，是由 W3C 所制定的。这些规范包含了多种语言，例如，HTML、XHTML 和 CSS 还有一些其他的相关语言，例如 MathML，用来表示数学中的方程，当你有这种特殊的需要的时候，或许会用得上。W3C 也颁布了“Web 内容亲和力指南”(Web Content Accessibility Guidelines —— WCAG)——推广网页的可访问性(通过 WAI ) 　　提示:直接获取这些规范 　　你可以在 W3C 的网站上阅读这些规范，尽管他们有时读起来还是有些困难的: 　　HTML 4.01 　　XHTML 1.0 　　CSS 1 　　CSS 2.1 　　WCAG 1.0 　　在本文中，我们将会用到 XHTML1.0、CSS1 和 2.1、WCAG 1.0 等规范和建议，但是你一定很高兴知道我们其实不必过多的阅读 W3C 文档。 　　谁需要 WS ? 　　您可能只有一个含糊的概念:WS 是个好东西，但是许多网站——包括许多知名的站点——并不遵从 WS ，并且他们看起来的确管理得很好。所以，为什么我们要尽力去遵从 WS 呢?这么做会有什么真正的收益吗?谁需要 WS ?谁需要去关注 W3C 的规范与建议? 　　Web 开发者与设计者 　　需要关注 WS 的首类人群就是我们:网站建设的开发者与设计者。花费时间去学习如何用 WS 开发对于我们来说值得吗? 　　整洁的标记使 BUG 的修复速度加快。 　　如果您通过 W3C 校验您的页面，至少您会了解到不规范的标记并不是引起您曾经遇到过的错误的原因。有时，校验一个页面和修复已发现错误的过程，可以清除显示中遇到一些问题，这些问题是由标记(element)没有结束或标签(tag)拼写错误引起的。 　　即使校验您的文档并没有修正这些问题，至少你会知道这些问题存在于规范的文档中。既然你已经知道这个问题不是一个错误，那么你可以开始关注其他的问题了，例如在不同的浏览器中 CSS 处理差异问题。 　　遵从可访问性的需求很容易 　　如果你编写一个规范的 XHTML 标记，那么你就可以保证文档在语义上是无误的，并且您可以把文档中的内容与表现相分离，您将可以把大量的工作放在许多 WCAG1.0 中所列的可访问性的问题上。认识到可访问性并不是仅仅为残疾人设计的这一点也很重要。一个亲和力好的站点是可以被许多不同的设备访问的，例如移动电话和 PDA ，他们是不具备强大的处理能力去对付那些散乱而非标准的标记的。 
+              </text>
+<image> </image>
+<keywords>用,Dreamweaver,8,搞定web标准 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>Dreamweaver cs3 彩蛋 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/56.html </link>
+<description>随着ADOBE CS3系列产品的亮相，我们最关注的Dreamweaver CS3也获得了最新的消息。首先先来看看传统的Dreamweaver彩蛋是否还在。内容来自中国站长资讯网(www.chinahtml.com)第一个Dreamweaver彩蛋就是：1，在网页中插入一张图像；2，打开属性面板，在图像的缩 </description>
+<text>随着ADOBE CS3系列产品的亮相，我们最关注的Dreamweaver CS3也获得了最新的消息。首先先来看看传统的Dreamweaver彩蛋是否还在。第一个Dreamweaver彩蛋就是：1，在网页中插入一张图像；2，打开属性面板，在图像的缩略图上双击鼠标+Ctrl键这里看到的头像即为开发Dreamweaver的相关人员。第二个Dreamweaver彩蛋就是：1，打开属性面板，在颜色文本框中输入文本“”，回车确认2，在Dreamweaver窗口的左侧出现绿色小块，可使用鼠标上下移动作为弹球的垫板3，而最为弹球的就是Dreamweaver的LOGO（原先都是圆的，Dreamweaver cs3成方的了），该弹球在Dreamweaver的窗口范围内碰壁，回弹至最左侧时需要移动垫板靠上，否则游戏结束。很不错的消遣游戏吧：）做网页累了玩下吧，呵呵。 
+              </text>
+<image> </image>
+<keywords>Dreamweaver,cs3,彩蛋 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>插入的Flash添加透明或其他参数 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/57.html </link>
+<description>Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Flash添加透明等参数有两种方法。内容来自中国站长资讯网(www.chinahtml.com)● 用Dreamweaver的属性面板为插入的Flash添加透明属 </description>
+<text>Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Flash添加透明等参数有两种方法。● 用Dreamweaver的属性面板为插入的Flash添加透明属性，此方法简单实用。使插入的Flash处于选择状态，点击属性面板中的“参数”，在随即弹出的参数表中添加一行，参数名为“wmode”，值为“transparent”。使用此方法时注意，若页面中有人工输入的Flash ID，此ID将被删除，请在添加完参数后重新输入ID。● 在html代码中为插入的Flash添加透明属性。同样是添加值为“transparent”的“wmode”参数。AC_FL_RunContent( 'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'width', '300', 'height', '200', 'src', 'images/killIEBorder', 'quality', 'high', 'pluginspage', 'http://www.macromedia.com/go/getflashplayer', 'wmode', 'transparent', 'movie', 'images/killIEBorder' ); //end AC code
+              </text>
+<image> </image>
+<keywords>插入的Flash添加透明或其他参数 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>Dreamweaver8轻松实现文本的段落缩进 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/58.html </link>
+<description>如何在Drwamweaver中实现文本的段落缩进，也就成了网页制作中的一大难题。针对这一问题，本文为大家提供以下几种解决办法。 </description>
+<text>　我们在用Drwamweaver书写英文文本时，段落一般不缩进（不支持半角空格）；但我们大多的时候都是用中文书写格式，必须在每段开头空两个汉字的位置。但浏览器对于文本中的空格，不管多少只认一个空格。如何在Drwamweaver中实现文本的段落缩进，也就成了中的一大难题。针对这一问题，本文为大家提供以下几种解决办法。 一、用自Dreaweave身所带的功能1、在Dreamweaver中执行下面操作4次就可以插入两个汉字大小的空格。 2、用同背景色相同颜色的字符来完成插入空格，这种方法操作比较繁琐、不易修改，而且在浏览内容被选取时，隐藏的字符就曝光了。二、用HTML语言用HTML语言方实现中文段落缩进。对于不懂HTML的初学者来说就有些困难了。1、预格式(PRE)用预格式编写的源文件，在显示时照源文件中的排版字样显示，空行和空格都能很清楚地区别开来。如源文件为： 　　〈pre〉　　－－预格式显示……　　〈/pre〉网页就会按照你预先设置好的显示方式显示，即在“预格式显示”的前面就会空两个汉字的位置。2、插入特殊的空格字符“ ”&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; “ ”代表非显示空格字符。插入若干个“ ”字符，中间用分号(；)或者空格隔开，也可以实现中文段落缩进。不过在Netscape 3.01中只能写小写字母，而在IE中大小写都可以。（此方法易产生乱码，不建议采用）三、用输入法的全角&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 如果你用的是智能ABC的拼音输入的话，那请按SHIFT+空格，这时输入法的属性栏上的半月形就变成了圆形了，然后再敲空格键，空格就出来了。另外智能陈桥五笔的全角方式也可以直接输入空格。这种方法相对比较简单，缺点是英文字符集下，全角空格会变成乱码。四、另类方法1、插入点图或图形：点图是指图片中只有一个或几个像素点，用肉眼看不出来。当我们在段落开头插入这样一个点图，并用HSPACE和VSPACE属性来调整点图的左右和上下的空格，以达到段落缩进。2、插入没有边框和内容的表格：这种方式与上述的插入图形方式类似，该表格没有边框和内容而是空表格。用TABLE的WIDTH和HEIGHT属性调整表格大小适合缩进的需要。利用表格来定位一般来说比较可靠，这种方法容易使页面的源文件变大。因此也不见得是格式控制的首选。&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;最后告诉你一个最原始的办法：在一些文字编辑软件中（比如记事本）复制空格，然后在Dreamweaver中进行粘贴。五、CSS方法&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 把标记加上一些属性就可以实现，就可以了！本站推荐使用此方法，以后网页教学网也要改版符合WEB标准的网站的。介绍了这么多种，用哪种好呢？各位可以按自己的喜好而定。
+              </text>
+<image> </image>
+<keywords>Dreamweaver8轻松实现文本的段落 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>Dreamweaver基础教程：层及其应用 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/59.html </link>
+<description>层(Layer)是一种 HTML 页面元素，您可以将它定位在页面上的任意位置。层可以包含文本、图像或其它 HTML 文档。层的出现使网页 </description>
+<text>　　层(Layer)是一种 HTML 页面元素，您可以将它定位在页面上的任意位置。层可以包含文本、图像或其它 HTML 文档。层的出现使网页从二维平面拓展到三维。可以使页面上元素进行重叠和复杂的布局。首先，请看下图：　　我们首先来做一个层　　1、 在「窗口」菜单&gt;选“层”，或点「插入」菜单&gt;布局对象&gt;选“层”。　　2、 在页面中显示一个层。　　3、 通过周围的黑色调整柄拖动控制层的大小　　4、 拖动层左上角的选择柄可以移动层的位置。　　5、 单击层标记可以选中一个层。　　6、 在层中可以插入其他任何元素包括文字链接表格等。　　一个页面中可以画出很多的层，这些层都会列在层面板中。层之间也可以相互重叠。层面板可以通过菜单「窗口」菜单&gt;选“层”打开。
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F60433360W0-19232_lit.jpg </image>
+<keywords>Dreamweaver基础教程：层及其应 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>Dreamweaver中加入竖直线的问题 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/60.html </link>
+<description>网页制作时经常用到1个像素高或宽的细线条来修饰，可以使网页的布局更加清晰，整体更加美观。由于一直习惯使用Dreamweaver编 </description>
+<text>　　时经常用到1个像素高或宽的细线条来修饰，可以使网页的布局更加清晰，整体更加美观。由于一直习惯使用Dreamweaver编辑网页，所以在阅读《巧妙地在Frontpage中给网页加入一条竖直线》一文后，笔者利用文中的方法二，在Dreamweaver中给网页加入一条竖直线。
+　　依葫芦画瓢，按照《巧妙》一文的所述的方法二，笔者在Dreamweaver中插入表格，设置单元格边距和间距均为0，表格的宽度为1个像素，并设置背景色为蓝色。确认设置无误后，按F12预览，可是网页上并没有如愿出现竖直细线条(如图1)。明明进行了正确的设置却不能实现竖直细线条，真是郁闷！
+
+图1
+　　这是什么原因呢？于是笔者打开Dreamweaver的源代码窗口，经过仔细观察，发现设置为1像素宽的单元格中有个“ ”的标记(如图2)，这个标记是HTML中的转义符，在浏览器输出为一个空格。发现这个标记，笔者终于恍然大悟，原来就是这个标记在作祟！于是删除这个标记后，再次打开网页，竖直细线条终于成功的设置了！
+
+图2
+　　在Dreamweaver中插入表格都会自动在每个单元格中加上“ ”的标记，正是因为这个标记，使得设置为1像素宽的单元格在浏览器中显示时多了个空格，把单元格撑大。
+　　另外，《巧妙》一文的方法一使用＜hr＞语句来插入竖直线，笔者觉得有不妥之处，因为＜hr＞语句插入的竖直线上下都会留有空白，并不能在任何时候都满足自己的需要，所以笔者建议尽量使用插入表格的方法来实现。
+&amp;nbsp; </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F60433540F-32J3_lit.jpg </image>
+<keywords>Dreamweaver中加入竖直线的问题 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>Dreamweaver CS3新功能 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/61.html </link>
+<description>随着Adobe Dreamweaver CS3的预销我们开始了新一轮的Dreamweavr学习，那么让我们先了解下Dreamweaver CS3都有哪些新功能： </description>
+<text>随着Adobe Dreamweaver CS3的预销&amp;nbsp;我们开始了新一轮的Dreamweavr学习，那么让我们先了解下Dreamweaver CS3都有哪些新功能：适合于 Ajax 的 Spry 框架使用适合于 Ajax 的 Spry 框架, 以可视方式设计、开发和部署动态用户界面。 在减少页面刷新的同时, 增加交互性、速度和可用性。Spry 数据使用 XML 从 RSS 服务或数据库将数据集成到 Web 页中。集成的数据很容易进行排序和过滤。Spry 窗口组件借助来自适合于 Ajax 的 Spry 框架的窗口组件, 轻松地将常见界面组件 (如列表、表格、选项卡、表单验证和可重复区域) 添加到 Web 页中。Spry 效果借助适合于 Ajax 的 Spry 效果, 轻松地向页面元素添加视觉过渡, 以使它们扩大选取、收缩、渐隐、高光等等。Adobe Photoshop 和 Fireworks 集成直接从 Adobe Photoshop CS3 或 Fireworks CS3 复制和粘贴到 Dreamweaver CS3 中以利用来自您的已完成项目中的原型的资源。浏览器兼容性检查借助全新的浏览器兼容性检查, 节省时间并确保跨浏览器和操作系统的更加一致的体验。生成识别各种浏览器中与 CSS 相关的问题的报告, 而不需要启动浏览器。CSS Advisor 网站借助全新的 CSS Advisor 网站 (具有丰富的用户提供的解决方案和见解的一个在线社区), 查找浏览器特定 CSS 问题的快速解决方案。CSS 布局借助全新的 CSS 布局, 将 CSS 轻松合并到您的项目中。在每个模板中都有大量的注释解释布局, 这样初级和中级设计人员可以快速学会。可以为您的项目自定义每个模板。 CSS 管理轻松移动 CSS 代码: 从行中到标题, 从标题到外部表, 从文档到文档, 或在外部表之间。清除较旧页面中的现有 CSS 从未像现在这样容易。Adobe Device Central CS3使用 Adobe Device Central (现在已集成到整个 Adobe Creative Suite&amp;reg; 3 中), 设计、预览和测试移动设备内容。
+              </text>
+<image> </image>
+<keywords>Dreamweaver,CS3新功能 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>在Dreamweaver8.0.2中为插入的Flash添加透明或其他参数 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/62.html </link>
+<description>Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Fl </description>
+<text>Dreamweaver升级到8.0.2后，插入Flash时的代码会有所改变，这是Macromedia为解决IE中的Flash会出现控件激活框而作的更新。要为Flash添加透明等参数有两种方法。● 用Dreamweaver的属性面板为插入的Flash添加透明属性，此方法简单实用。使插入的Flash处于选择状态，点击属性面板中的“参数”，在随即弹出的参数表中添加一行，参数名为“wmode”，值为“transparent”。使用此方法时注意，若页面中有人工输入的Flash ID，此ID将被删除，请在添加完参数后重新输入ID。&amp;nbsp;● 在html代码中为插入的Flash添加透明属性。同样是添加值为“transparent”的“wmode”参数。AC_FL_RunContent( 'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'width', '300', 'height', '200', 'src', 'images/killIEBorder', 'quality', 'high', 'pluginspage', 'http://www.macromedia.com/go/getflashplayer', 'wmode', 'transparent', 'movie', 'images/killIEBorder' ); //end AC code参考文章：IE中的Flash出现“单击以激活并使用此控件”的解决方法【原创·源文件】
+              </text>
+<image> </image>
+<keywords>在Dreamweaver8.0.2中为插入的Fl </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>通过Dreamweaver设计网页时组织CSS的建议 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/63.html </link>
+<description>一般地讲，样式表（style sheet）就是控制网页内容外观的格式化的规则的集合。可以以三种不同的方式在你的页面中使用CSS： </description>
+<text>一般地讲，样式表（style sheet）就是控制网页内容外观的格式化的规则的集合。可以以三种不同的方式在你的页面中使用CSS：代码式（Inline）：写入到代码中的一次性的样式。内嵌式（Embedded）：可控制一个页面中所有元素的样式表外联式（External）：可控制许多页面中的元素的样式表事实上，许多站点都根据需要把这三种方式结合起来使用。在使用CSS时一个需要重点考虑的事实是不同的浏览器以及同一浏览器的不同版本以不同的方式来解析CSS。除了网络浏览器的差异之外，你还要意识到还有很多其他的浏览器，比如听力浏览器，基于电视的浏览器以及Palm pilot和TTY（teletypewriter，远程打字机）一类的手持设备。最佳习惯是指什么？大多数技术都有自己约定俗成的标准。CSS也不例外。虽然并非网络上存在的所有CSS都很规范，但按照现有标准来使用CSS却还是不无裨益的。一般来说，开发人员应尽可能将内容与报告分离开来。这样做的好处在于：1：增加站点的寿命不规范的样式表可能在当时觉得很方便，但新版本的浏览器出来以后，很可能就会出现兼容性问题。到时逐页修改站点就是一项非常费时的工作同时也使使用CSS失去了意义。2：让你的站点对所有的用户以及浏览器都适用。有些地方的政府已经立法要求网站必须让残障人士也同样可以浏览。为残障认识设计的浏览设备，比如听力浏览器，对CSS规范性要求极其严格。3：让站点更新和维护更加轻松。使用方式得当的话，CSS可让你在一个页面中的调整快速应用到所有页面中去。你首先要做的选择是使用哪一种样式表。当涉及到最佳习惯时，对不同样式表的分析如下：Inline CSS；简单地说，你应该尽量避免使用。除了一些其他的缺点之外，使用Inline CSS意味着你并没有利用到CSS的真正优点，即你并没有将内容与格式分离开。DW使用Inline CSS主要是为了定位页面元素（这些元素在DW的用户界面中称为“层（layer）”），或者为了使用某个DHTML特效，它需要使用Inline 样式的Javascript来改变一个对象的属性。Embedded CSS：它也不是最理想的，因为它只能对当前页面施加影响。在更新的过程中，如果某一个页面丢失，将会使站点的风格不一致；另外，当用户浏览你的站点时，每一页都要下载一次样式表信息。External CSS：这是你的第一选择。External CSS可以让所有连接到它的页面保持一致的外观风格；提纲挈领，更改一次，轻松更新所有相关页面；让你的页面体积更小，浏览速度更快。其他的一些最佳习惯将在下文分析具体的CSS特性时提及。在DW中创建CSS样式表在DW中创建CSS样式表时（Text 》CSS Style 》New style sheet），在弹出的对话框中，你有两个选择：新样式表文档（New Style Sheet File） 和只用于当前页（This Document Only）。选中“New Style Sheet File ”你就开始了创建External CSS的过程。这个选项要求你在真正的创建过程之前先命名样式表并为它选定一个保存位置；另外一个选项，This Document Only，则会直接把相关代码写入到页面的部分。你也可以在“新样式（New style）”对话框中选择一个现存的样式表来编辑或添加新的定义。应该连接到External CSS还是导入？创建外部样式表以后，你需要把它附加在每个页面上（或是模板）。要这样做，可以在CSS面板上淡季“附加样式表（Attach Style Sheet）”按纽，此时会弹出连接外部样式表 （Link External Style Sheet）对话框，在上面可以浏览到你的目标样式表的名字，找到以后，你可以选择连接（link） 或者导入（import ）此外部样式表。连接是最常用的方式，选择“link”即可把样式表连接到页面。它会在你的页面中加入下面的标记：所有支持CSS的浏览器都支持连接选项。如果你想一些比较旧的浏览器（比如Netscape 4.x）也能“看到”这个样式表的话，就要采用下面的方法。如果你选择“导入”选项，所用的标记为：NetSscape4会完全忽略导入的CSS，而按照连接的CSS来解释页面。这样我们就可以放心使用CSS中的新功能，不必担心浏览器的兼容性问题了。CSS属性检查器在DW的属性检查器中可以轻易切换到CSS模式。缺省情况下，属性检查器会显示原始的HTML模式下字体标签。点击字体下拉菜单旁边的小“A”，你就可以看到目前可用的CSS样式表，而不是字体标签列表。同时，你也可以轻松切回到HTML模式。现成的CSS样式表DW中一个令人激动的CSS特性就是它包含了已制作好的CSS样式表。CSS的新用户可以先体验一下。选择File &gt; New，在弹出的新文档对话框中选择选中CSS style sheets，在右边的方框中会出现所有可用的CSS列表。为了实践我们所说的最佳习惯，选择一个标记为“Accessible”的。将文档保存在站点文件夹内，然后就可以用上述的方法来把CSS附加在你的文档中了。设计时间样式表（Design Time style sheets）DW的这一特性可以让你在设计视图下工作时将样式表应用到页面，让你对站点的外观有一个更直观的认识。设计时间样式表将不会出现在站点内。从我们的最佳习惯的观点来讲，这一特性是非常有用的。如果你使用同时导入和连接两种方式（如上所述），附加设计时间样式表可以让你使用其中的任何一个来开发站点。当你想看在另一个样式表下页面外观如何时，你可以轻松更改为另一个样式表。对于要将CSS应用于服务器端（比如ASP, PHP, or ColdFusion）或是要在客户端通过Javascript来存取的开发者来说，设计时间样式表同样有用。服务器端样式表也是处理客户端浏览器对CSS支持不好的又一种方式。但在以前版本的DW中，这种方式却不能让你在设计阶段查看CSS的实际效果。设计时间样式表让你实时查看样式表效果，所以你可在DW中以可视界面工作。另外一个好处就是当你上传站点文件时，你不必再检查整个站点寻找冗余的样式表了。验证无论你是自己创建样式表还是编辑现有的样式表，验证可以确保你不会误用不标准的标签或错误的代码。DW本身不包含CSS验证程序，你可以使用W3C站点提供的验证服务。在DW内你可以验证HTML 或DHTML标签（ File &gt; Check Page &gt; Validate Markup (for HTML) 或 File &gt; Check Page &gt; Validate as XML for XHTML.）。在开发基于CSS的站点时，DW提供了很多辅助工具。有了MW MX的帮助，再加上对CSS良好的理解，你就可以开发出能经受时间考验的站点了。( 负责编辑：kaso )
+              </text>
+<image> </image>
+<keywords>通过Dreamweaver设计网页时组织C </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>Dreamweaver cs3新功能Spry效果试用 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/64.html </link>
+<description>Dreamweaver CS3集成了AJAX框架Spry，使得我最近对Spry感上了兴趣。 再次说明下Spry是Adobe公司推出的AJAX框架，所谓AJAX框架，就先谈目前流行的Web2.0. 1，这些Web2.0站点从页面形式上来看，页面与浏览者的交互很时尚、也很人性化。比如注册信息时输 </description>
+<text>　Dreamweaver CS3集成了AJAX框架Spry，使得我最近对Spry感上了兴趣。　　　再次说明下Spry是Adobe公司推出的AJAX框架，所谓AJAX框架，就先谈目前流行的Web2.0. 1，这些Web2.0站点从页面形式上来看，页面与浏览者的交互很时尚、也很人性化。比如注册信息时输入邮箱不规则，页面立即提示……当然这在Web2.0之前已有应用，但是从来没有哪个时候像现在如此推崇此类即时检测等很符合用户体验的技术，这些脱离不了Javascript脚本的编写，其已属于AJAX的定义范畴。　　　2，当然AJAX不仅仅是这些，比如要做个“TabPane 选项卡”很炫酷的页面展示功能，我们手写Javascript脚本就比较的费事，当然还有很多的在Web2.0站点看到的比如“显示和隐藏”、“淡入淡出”等特效，这些都离不开Javascript，而现在我们也称为AJAX技术。　　　3，AJAX最核心的技术就是数据处理的能力，并能进行远程异步处理的能力，主要集中在对XML数据的数据交互上。　　　所有这些，Javascript占最大比重，XHTML、CSS作为表现形式而存在、因XML涉及的XSLT、XPATH等技术融入其中，还有相关的DOM操作，这些所有有需要功能文件的组合体就构成了AJAX框架（如果可以，你也可以自己写一个AJAX框架给大家使用）。　　　Adobe Spry 介绍页有这样一句话：With Spry， you can use HTML code， CSS code， and a minimal amount of JavaScript to incorporate XML data into your HTML documents， create widgets such as accordions and menu bars， and add different kinds of effects to various page elements.使用Spry框架，用HTML、CSS、JavaScript就可以在HTML文章中展现XML数据、建立诸如炫酷菜单的一些界面，还有其他的一些页面特效（大体上分了三类内容，这也是Spry AJAX框架所具备的）。　　　由此，学习Spry就可以从如下三点开始：Working with Spry widgets Working with Spry Effects Working with Spry XML Data Sets今天介绍的表单检测还属其中内容。　　　在页面中插入“Spry”-“Spry validation text field”文本框之后，在选中该表单元素之后除了显示其元素属性以外，在选择该表单元素之上的蓝色文本“Spry TextField”，属性面板中显示了表单验证相关的选项内容。　　　比如下图就是选择“Type”是“Email Address”的邮件输入检测，触发的动作默认是“Submit”，当然自己也可以选择“Blur”或“Change”，对于这些操作，则要求使用者具备简单的Javascript知识。还可以设置默认文本提示，是否必须填写等。&amp;nbsp; 这些操作，对于有Dreamweaver经验的用户来说，曾经是在DW的脚本行为中的操作，不过那些显示的是弹出警告框，而现在是紧随表单元素之后的即时显示的文字信息，相比较一下哪个更让用户觉得亲切呢？——这就是Web2.0在表现形式上质的飞跃。&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 利用Spry框架提供这些操作不仅生成基于标准的XHTML+CSS代码，还能完成完善用户体验的页面功能，这是在Dreamweaver cs3初试Spry的体会。
+              </text>
+<image> </image>
+<keywords>Dreamweaver,cs3新功能Spry效果 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>新手入门：利用DW8掌握网页代码基本格式 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/65.html </link>
+<description>说到代码，有人会问：不懂代码能不能制作网页？答案是肯定的。有些人不懂代码同样能制作出非常好的网页。 在Dreamweaver的设计窗口中你每增加或改变一项内容，会自动生成相应代码。那又产生另一个问题：为什么要了解或者熟悉代码呢？可以说熟悉代码将会使你 </description>
+<text>说到代码，有人会问：不懂代码能不能制作网页？答案是肯定的。有些人不懂代码同样能制作出非常好的网页。　　在Dreamweaver的设计窗口中你每增加或改变一项内容，会自动生成相应代码。那又产生另一个问题：为什么要了解或者熟悉代码呢？可以说熟悉代码将会使你如虎添翼，能使你的网页锦上添花。超文本标识语言（HTML）为满足更多的需要，增加了许多扩展功能。主页制作者经常使用Java Applet（小程序）、内嵌脚本、插件和其它扩展的HTML功能，充分发挥自己的想像力，就能设计出充满魅力的主页来。　　而有些效果的制作只能通过编辑代码来完成，或者通过编辑代码相对容易一些。有好多网友在论坛里提问说本站提供的网页特效代码放到自己的网页中不行，或者出现这样那样的问题。所以了解或者熟悉代码是必要的。　　基本格式　　　站长资讯Dreamweaver教程（这是你的站点标题，也是浏览网页时标题栏将要显示的内容）　　　这里是源代码的主体部分！ 　　 　　HTML语言使用标志对的方法编写文件，既简单又方便，它通常使用来表示标志的开始和结束(例如  标志对)，因此在HTML文档中这样的标志对都必须是成对使用的。　　1.　　标志用于HTML文档的最前边，用来标识HTML文档的开始。而标志恰恰相反，它放在HTML文档的最后边，用来标识HTMLl文档的结束，它们并没有实际意义，只是告诉浏览器，它正在处理HTML文件。两个标志必须一块使用。　　2.　　HTML文件分为首部和主体两个部分。和构成HTML文档的首部，在此标志对之间可以使用　、等等标志对，这些标志对都是描述HTML文档相关信息的标志对。两个标志必须一块使用。　　3.　　浏览过网页的人可能都会注意到浏览器窗口最上边蓝色部分显示的文本信息，那些信息一般是网页的主题信息，要将您的网页的主题信息显示到浏览器的顶部，也就是标题栏的方法很简单，就是在标志对之间加入您要显示的文本即可。　　 注意：　标志对只能放在标志对之间。　　4.　　是HTML文档的主体部分，在此标志对之间可包含、、、、、等等众多的标志，它们所定义的文本、图像等将会在浏览器的框内显示出来。两个标志必须一块使用。标志中还可以加一些其它属性，如：　　Dreamweaver有三种“文档”视图窗口：　　1、“代码”视图窗口。这是编辑代码的窗口。　　2、“设计”视图窗口。这是我们进行编辑文字、添加图片等操作常用的的窗口。　　3、“拆分”视图窗口。当我们需要上面两个窗口配合进行编辑时选用这个窗口，我们将要进行的添加代码主要在这个窗口进行。　　在使用Dreamweaver制作网页的时候大家要多注意查看代码视图！(负责编辑：blank)
+              </text>
+<image> </image>
+<keywords>新手入门：利用DW8掌握网页代码 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>Dreamweaver网页制作教程：层及其应用 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/66.html </link>
+<description>层（Layer）是一种 HTML 页面元素，您可以将它定位在页面上的任意位置。层可以包含文本、图像或其它 HTML 文档。层的出现使网页从二维平面拓展到三维。可以使页面上元素进行重叠和复杂的布局。首先，请看下图： 我们首先来做一个层 1、 在「窗口」菜单 </description>
+<text>层（Layer）是一种 HTML 页面元素，您可以将它定位在页面上的任意位置。层可以包含文本、图像或其它 HTML 文档。层的出现使网页从二维平面拓展到三维。可以使页面上元素进行重叠和复杂的布局。首先，请看下图： 　　我们首先来做一个层　　1、&amp;nbsp;在「窗口」菜单＞选“层”，或点「插入」菜单＞布局对象＞选“层”。　　2、&amp;nbsp;在页面中显示一个层。　　3、&amp;nbsp;通过周围的黑色调整柄拖动控制层的大小　　4、&amp;nbsp;拖动层左上角的选择柄可以移动层的位置。　　5、&amp;nbsp;单击层标记可以选中一个层。　　6、&amp;nbsp;在层中可以插入其他任何元素包括图片文字链接表格等。　　一个页面中可以画出很多的层，这些层都会列在层面板中。层之间也可以相互重叠。层面板可以通过菜单「窗口」菜单＞选“层”打开。　　这里我们需要对几个概念进行解释。层有隐藏和显示的属性。这是层的一个重要属性和以后说到的行为相结合就变成了重要的参数。单击层面板列表的左边，可以打开关闭眼睛。眼睛挣开和关闭表示层的显示和隐藏。　　层还有一个概念就是层数，层数决定了重叠时哪个层在上面哪个层在下面。　比如层数为２的层在层数为１的层的上面。改变层数就可以改变层的重叠顺序。　　层面板上面还有一个参数就是防止层重叠。一旦选中，页面中层就无法重叠了。　　　层还有一种父子关系也就是隶属关系。在层面板中是这样表示的。　　图中Layer2挂在Layer1的下面。Layer1为父层，Layer2为子层。在页面中拖动Layer1，Layer2也跟着动起来。因为他们已经链在一起了，并且Layer2隶属于Layer1。父层移动会影响到子层。移动layer2层，Layer1层不动。也就是子层不会影响到父层。　　要建立这样的一种隶属关系方法很简单。在层面板中按Ctrl键将子层拖拽到父层即可。　　［层和表格之间转换］　　由于层在网页布局上非常方便，所以，一些人可能不喜欢使用表格或“布局”模式来创建自己的页面，而是喜欢通过层来进行设计。Dreamweaver MX 2004可以使用层来创建自己的布局，然后将它们转换为表格。　　 在转换为表格之前，请确保层没有重叠。请执行以下操作：选择“修改”＞“转换”＞“层到表格”。即可显示“转换层为表格”对话框。选择所需的选项。单击“确定”。 话框。 　　选择所需的选项。单击“确定”。　　层及应用我们就简单介绍到这里。
+              </text>
+<image> </image>
+<keywords>Dreamweaver网页制作教程：层及 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>网页禁止右键菜单及禁止全选代码 </title>
+<link>http://365news.com/a/webbase/dreamweaver/2010/0407/67.html </link>
+<description>script language=JavaScriptdocument.oncontextmenu=new Function(event.returnValue=false;);document.onselectstart=new Function(event.returnValue=false;);/script 很好用! </description>
+<text>document.oncontextmenu=new&amp;nbsp;Function(&quot;event.returnValue=false;&quot;);document.onselectstart=new&amp;nbsp;Function(&quot;event.returnValue=false;&quot;);&amp;nbsp;很好用!
+              </text>
+<image> </image>
+<keywords>网页禁止右键菜单及禁止全选代码 </keywords>
+<category>Dreamweaver </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:39 </pubDate>
+</item>
+<item>
+<title>JavaScript风格要素 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/34.html </link>
+<description>关于英文的写作有一本十分著名的书，The Elements of Style（风格要素），编写程序也有一本The Elements of Programming Style（编程风格要素）。证明了在某种程度上，编写程序其实就是语文写作，清晰的风格对程序的质量有着重要的影响。草率含混的风格会隐蔽 </description>
+<text>关于英文的写作有一本十分著名的书，（风格要素），编写程序也有一本（编程风格要素）。证明了在某种程度上，编写程序其实就是语文写作，清晰的风格对程序的质量有着重要的影响。草率含混的风格会隐蔽程序真性。作为JavaScript Guru, 提出了自己对JavaScript风格的创见（，）。第一部分主要讨论JavaScript语言本身，包括：淘汰过时的构建。 讨论了在HTML页面引入JavaScript的方式。经典的写法是：language并不是W3C所认同的标准，建议使用的是type, 但作为type值的MIME type并没有标准化（有时是text/javascript, 有时是application/ecmascript），但目前所有的浏览器都是使用JavaScript作为默认的脚本语言，因此仅仅些就是安全的。随着NetScape 3的淘汰，也不是必要的了。（注：这个东西Web标准社区也有自己的看法，并认为应该写type=&quot;text/javascript&quot;，我也赞成。） 在结构中始终使用区块。 莫偷懒，省略区块（即{ }）会引发不经意的错误和麻烦。即使只有一句，也老老实实写上：if (expression) { ... }避免在表达式中进行赋值。虽然可以使代码紧凑，但会让控制流程难于理解。 使用对象扩充。在不需要构造函数的对象中，不如先创建一个空对象，然后扩充它。 使用通用库。注意提高代码的重用。 第二部分主要讲的是一些使程序更清晰和简洁的习惯用法：使用==得当心强类型。1 == true是真，但1 === true却为假。 使用?:运算符选择两值之一。在这种操作中，三元运算符为此而生。 永远不要使用隐含的全局变量。请记得声明变量时加上var. 不要使用?:来选择两种行为的其一。写作p.style.backgroundColor = z ? '#fff' : '#989898';而不是(z == 0) ? p.style.backgroundColor = '#fff' : p.style.backgroundColor = '#989898';。 使用||来指定一个默认值。最典型的莫过于处理事件参数了：var e = e || event;。 全局变量是邪恶的。 使用内部函数来避免全局变量。 这些风格是Crock在2005年提出的，现在有些已经深入人心（如不要使用全局变量），因而也没有必要多做解释了。如果你有所疑惑，不如详细看看这两篇风格文章，里面有大量的代码来举证这些风格的重要性。更新：也不错。 
+              </text>
+<image> </image>
+<keywords>JavaScript风格要素 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>用JavaScript的日期对象操控时间和日期值 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/35.html </link>
+<description>软件开发中一个比较棘手的内容是使用时间和日期值；似乎每种语言或者每种平台都有自己的格式。在Web开发过程中，你可以使用服务器端的代码来操控日期，你也可以使用JavaScript的日期（Date）对象来实现同样的目的。在今天的专栏里，我们将仔细看看这个对象。 </description>
+<text>软件开发中一个比较棘手的内容是使用时间和日期值；似乎每种语言或者每种平台都有自己的格式。在Web开发过程中，你可以使用服务器端的代码来操控日期，你也可以使用JavaScript的日期（Date）对象来实现同样的目的。在今天的专栏里，我们将仔细看看这个对象。使用日期在JavaScript里使用时间和日期值非常简单。这要从创建日期对象的一个实例开始：var d = new Date(); 这会使用当前的日期和时间在变量d里返回一个日期对象的实例。这个日期对象包括多个用于访问和操控其值的方法和属性。下面的列表列出了用于访问日期值的方法：getDate()：返回月份里的日期。 getDay()：返回星期几。每周从星期六开始（0－6）。 getFullYear()：返回四位数的年份。 getMonth()：返回月份。 getYear()：返回两位数的年份。 getUTCDate()：根据协调世界时（UTC）返回月份里的日期。 getUTCMonth()：根据协调世界时（0－11）返回月份。 getUTCFullYear()：根据协调世界时返回四位数的年份。 注：维基百科全书（Wikipedia）将协调世界时定义为一种高精度的原子时间标准，它大约相当于世界时（UT）。关于JavaScript和日期需要注意的一点是，它使用从1970年1月1日午夜起的毫秒数来保存日期。这叫做历元（epoch），任何在这个日期之前的日期和时间都是不被允许的。正如Listing A里说明的，使用前面一个列表里的方法是很简单明了的。你需要注意的是日期和星期中的天的值是从零开始的，所以需要向它们添加一个值以显示它们真正的值。你可以很容易就使用一个数组来显示星期几。列表B里是JavaScript代码。你没有被限制只使用当前的日期。日期对象可以用传递给它的值初始化，就像下面这样：var d = new Date(&quot;date value&quot;);利用这种方式，我们可以修改前面的例子来使用特定的日期。列表C代表了一种发现给定值的周日期的简单方法。代码会生成下面的结果：Today is: Wednesday 4/15/1979UTC is: Wednesday 4/15/1979 事实上，创建日期对象实例的方式有四种：var d = new Date();var d = new Date('July 4, 1976');var d = new Date(7, 4, 1976);var d = new Date(7, 4, 1976, 12,00,00); 我们已经讲了前两个（要注意的是可能会用到单引号或者圆括号）。最后两个按照下面的格式使用了单独的整数参数（时间是可选的）：var d = new Date(month, day, year, hour, minutes, seconds); 填充日期对象的另外一种方式是利用setDate方法。它提供了一种重置日期对象的值或者初始化它的方式，但是这要求有一个真正的JavaScript日期对象：Var d1 = new Date();var d2 = new Date(&quot;7/4/1976&quot;);d1.setDate(d2.getDate()); 填充日期对象的各种属性的固定方法还有很多，但是在讨论它们之前我们先来看看时间吧。除了日期组件，日期对象也保存了时间信息。下面的方法能够访问到日期对象的时间信息：getHours()：返回时间的小时部分。 getMinutes()：返回时间的分钟部分。 getSeconds()：返回时间的秒部分。 getMilliseconds()：返回时间的毫秒部分。 getTime()：返回自从1970年1月1日午夜以来的毫秒数。 getTimezoneOffset()：返回本地时间与格里尼治标准时间（GMT）之间的分钟差。 getUTCHours()：根据协调世界时返回时间的小时部分。 getUTCMinutes()：根据协调世界时返回时间的分钟部分。 getUTCSeconds()：根据协调世界时返回时间的秒部分。 getUTCMilliseconds()：根据协调世界时返回时间的毫秒部分。 
+              </text>
+<image> </image>
+<keywords>用JavaScript的日期对象操控时间 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>减轻JavaScript测试和调试负担 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/36.html </link>
+<description>像JSP、ASP.NET、ColdFusion这样的Web开发平台提供了大量强大服务器端开发选项。但是，它们并没有否定用JavaScript进行客户端的Web开发。 </description>
+<text>像JSP、ASP.NET、ColdFusion这样的Web开发平台提供了大量强大服务器端开发选项。但是，它们并没有否定用JavaScript进行客户端的Web开发。JavaScript同时提供了逻辑和用户接口功能，减轻了服务器端处理的负载。尽管我们已经使用它有多年了，但是它的开发工具还是有点落后。现在就让我们仔细看看JavaScript的开发和调试选项。开发工具如果你习惯使用诸如Visual Studio或者NetBeans这样的集成开发环境（IDE），那么你就一定很熟悉各种调试选项，包括代码单步调试、设置断点，以及监视变量等。在监视代码执行或者追踪错误时，这些都是不可或缺的工具。不幸的是，这些工具在JavaScript开发人员中并不是十分普及。调试应用程序开发中的一个重要步骤是追踪脚本或者代码中的错误。这包括隔离代码段，一行一行地分析它们。在使用JavaScript的时候，你可以使用在开发工具大发展之前用过的方法。在这种情况下，最常用的一种JavaScript函数是警报信息框。你可以用它来检查保存在变量／对象里的值，并与循环一起使用来查看对象的内容。举个例子，列表A里的HTML代码没有按照预期的效果执行：JS Testfunction validate() {var doc = document.forms[0];var flag = true;if (doc.fullName.value = '')flag = false;if (doc.contactNumber.value = '')flag = false;if (flag) doc.submit()else alert('Enter values before submitting.');}Name: Address:  按理说，它会在表单被真的提交之前验证在两个文本字段里输入的值。这个表单总是不管输入的值是什么就被提交，所以我们可以使用警报语句在脚本执行期间检查值的内容。列表B里的脚本就使用了警报语句来监视变量的值：JS Testfunction validate() {var doc = document.forms[0];var flag = true;alert('Script starting, flag = ' + flag);alert('Script starting, Full name = ' + doc.fullName.value);alert('Script starting, Contact number = ' + doc.contactNumber.value);if (doc.fullName.value = '') {alert('First check, Full Name is empty.');flag = false;}if (doc.contactNumber.value = '') {alert('Second check, Contact Number is empty.');flag = false;}if (flag) {alert('Validation successful, document will be submitted.');doc.submit()} else {alert('Enter values before submitting.');} }Name: Address:  
+              </text>
+<image> </image>
+<keywords>减轻JavaScript测试和调试负担 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>使用AJAX技术的十大理由 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/37.html </link>
+<description>保守来说，AJAX在现在是热得不能再热的技术。所以，有必要要看看为什么AJAX能发展成为现在的样子，为什么它能不断成长，并且在短的时间内迅速变得无处不在。所以，我用午夜谈话的风格，来给出需要AJAX技术的十大理由。 </description>
+<text>　　使用AJAX的十大理由： 　　10、XAML,XUL,XForms...等等。 　　9、服务端技术的不确定性。 　　8、Web2.0。 　　7、被软件工业领袖们强势采用。 　　6、和Flex和Flash等技术的很好的集成。 　　5、边际成本低。 　　4、能使常规的Web应用受益。 　　3、跨浏览器和跨平台。 　　2、以可用性和用户体验为王。 　　1、基于公开标准。 　　十大理由第一名：公开标准 　　让我们从第一条开始，AJAX技术是基于被各大浏览器和平台都支持的公开标准的技术。这意味着该技术不怕技术提供商的技术封锁。组成AJAX技术的大多数技术都能放心的使用很多年，而那些不是热点的、最新的和未经考验的技术只能使用一段时间。现在，对于绝大多数的用户和企业来说，浏览器是一个可信任的应用平台，这在五年前就不是个问题了。对于AJAX来说，FIREFOX浏览器的基础Mozilla1.0的发布并且支持XMLHTTPRequest对象是一个转折点。这种允许异步数据交换的技术好多年前就被IE浏览器支持了。这种支持和FIREFOX浏览器的大量被采用真正的使人们理解了跨浏览器的富Internet应用成为了可能。 　　1)JavaScriptorECMAScript(StandardECMA-262)：一个有趣的事情是，Javascript是经过长时间后才成为被人们接受的技术，长时间以来，很多公司采用非Javascript技术的方针，幸运的是，这种状况被迅速的改变。 　　http://www.ecma-international.org/publications/standards/Ecma-262.htm 　　2)XML：是一个来自W3C的、被广泛应用的标准。 　　http://www.w3.org/XML/ 　　3)HTML：http://www.w3.org/MarkUp/ 　　4)CSS：http://www.w3.org/Style/CSS/ 　　5)XMLHTTPRequestObject：被InternetExplorer、Mozilla-based、Safari和Opera浏览器支持。 　　十大理由第二名：可用性 　　开发人员和设计人员开始认识到不仅大型的用户体验在市场上是成功的，而且也认识到这样体验是怎么来影响用户的开销的。基于AJAX技术的google地图比传统的选择MapQuest更成功，证明了提供更好的用户体验的产品的成功。AJAX技术是使网络应用有更好的可用性的一个领导性的技术。它允许从服务器端请求少量的信息，而不是整个网页。它增加了页面数据的更新但同时减少了页面的刷新和刷新等待，这些问题从网络已诞生就折磨着Web应用。 　　人们已经知道他们需要一个优秀的用户界面并且有对该界面的投资意愿。前提条件是：用户能够快速的取得信息不管数据是一个内部网的应用还是一个广域网的服务。 　　十大理由第三名：跨浏览器和跨平台的兼容性 　　IE和基于Mozilla的FIREFOX是占据市场分额最大的两个浏览器，并且它们都支持在浏览器上轻松创建基于AJAX的WEB应用。现在开发运行在更为先进的WEB浏览器上的基于AJAX的富WEB应用成为了可能。这是为什么AJAX应用变得如此流行的一个最重要的原因。其实很多开发人员多年前就意识到AJAX技术流行的可能，但一直没有流行是因为浏览器厂商的原因。感谢Mozilla和FIREFOX。 　　十大理由第四名：使常规的WEB应用受益 　　AJAX技术是当今WEB应用的门面——WEB应用获得的利益超过了桌面应用。这些利益包括部署应用的低投入、维护方便、缩短开发时间和不需要安装。这些都是促使商业和用户自从上世纪九十年代以来采用WEB应用的优点。AJAX技术不但能使WEB应用获得益处，而且使最终用户受益。 　　十大理由第五名：促使技能、工具和技术的升级 　　由于AJAX基于这些年一直使用的一些公开标准，很多的开发人员就会有新的技术方面的要求以便能够开发AJAX应用。但这并不意味着开发团队从基于HTML和FORM的应用转移到富AJAX型应用需要很高的学习曲线。同时，这意味着开发WEB应用的开发团体需要加速将他们的用户接口升级到AJAX，但并不需要一个大规模的升级和重写他们的WEB应用。自从上世纪九十年代以来，在开发基于浏览器应用方法花了大量投资的那些系统强烈的希望能在现有的应用的基础上增加用户体验。 　　十大理由第六名：能和Flex和Flash等技术的很好的集成 　　大多数的开发社区都不再支持FlashvsAJAX的火热讨论，这两种技术都在不同的场合拥有各自的优点和缺点，但是它们有大量的机会可以集成到一起工作。很多的开发人员和技术提供商意识到这一点，并且开发出了伟大的产品来集成Flex和AJAX协调使用。我们也热切的期望看到两者能在Macromedia里一起工作。 　　十大理由第七名：采用率 　　AJAX被业内领袖广泛采用证明了市场的欢迎程度和该技术组的正确。每一个该技术的使用者都成为了胜利者：包括google、yahoo、Amazon和微软等等。是google地图吸引了WEB开发人员的目光，当人们开始调查是什么原因使得google有着如此惊人的用户体验的时候，人们揭开了罩在AJAX头上的面纱。 　　当然，仅仅是google使用AJAX是不够使得这项技术跨越从支流到主流的鸿沟的。但是，如果你看一看使用AJAX技术的客户如eBusinessApplications(www.ebusinessapps.com)orTibco(http://www.tibco.com)等的表单时，你就会发现财富500强包括主要的金融机构、政府机构、航空公司和其他主要商业机构采用AJAX，并且在AJAX成为硬通货之前很早就开始使用了。 　　十大理由第八名：WEB2.0 　　喜欢也好，厌恶也罢。WEB2.0运行吸引了开发人员、风险投资商、市场和最终用户等所有的目光。这些明确的促进了AJAX的早期应用。当大肆的宣传过去以后，我们将会看到什么呢?从BackPack到google地图，AJAX界面是WEB2.0应用的主要的组成。大量的宣传有助于加速采用AJAX，而在可用性上的获益会使得该技术被广发应用。WEB2.0的一个主要原则是使用WEB作为一个应用开发的平台，而不仅仅是一个网页。高的可用性和交互能力的用户界面是一切应用平台的主要组成部分。 　　十大理由第九名：AJAX基于服务器技术的不确定性 　　和AJAX技术的浏览器的独立性相同，该技术也兼容所有的标准型的服务器和服务端语言，如PHP,ASP.ASP.Net,Perl,JSP,ColdFusion等等，选择属于你的那种然后开始。这使得AJAX开发独立，因为所有的开发人员都能使用并且一起讨论相同的表现层。 　　十大理由第十名：基于WEB的下一代RIA技术还没有出现 　　今天就使用XUL技术开发应用的人是伟大的，因为现在90%的浏览器还不支持这种技术，对于大多数的实际应用来说，使用这种技术不切合实际。然而，AJAX开发人员应该给出一部分的注意力在这些技术，如XAML和XUL上。毫无疑问，这些技术将使开发富WEB应用变得简单。但是它们可能相互不兼容并且拥有不同的市场需求或动力。 　　在今后一段时间，AJAX技术将极大的提高WEB应用的可用性。AJAX技术并不完美，不是“火箭科学”许多的开发人员和技术公司始终在尝试RIA的其他更好的技术。而实际的问题是AJAX技术现在已经存在并且应用的很好，它跨浏览器、跨平台，而且不管是用户还是开发人员都喜欢它的作用。特征鲜明的AJAX应用如google地图已经成为了本领域的领导者(还有人使用MapQuest吗?)同样的，领先的财富500强使用AJAX技术并且贡献了开发工具给社区了。一般来说，业内在使用AJAX技术上取得了一致并且正在使用它。再强调一次，RIA应用和WEB应用使用了AJAX获得的一个主要的优势不仅仅是开发人员的一个工具，而是一个现象：它改变了我们开发WEB应用的方式。没人能说得清楚在RIA应用方面，哪一种技术会取代它，会在什么时候取代它;但是很多因素都支持AJAX应用应该持续好多年。 　　关于作者 　　AndreCharland从事Internet软件开始超过十年之久，他是eBusinessApplications(www.ebusinessapps.com)公司的主席和创建者之一。他和DaveJohnson在1998年创建了该公司。他主要的经验在可用性、市场、项目管理和基于构件的软件开发。所受教育包括：在Vancouver,BC的SimonFraserUniversity，他在那里读计算机科学和工商管理。他作为开发者、管理者和架构师等不同身份有上百个Internet项目的经验。
+              </text>
+<image> </image>
+<keywords>使用AJAX技术的十大理由 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>Ajax 技术入门简介 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/38.html </link>
+<description>Ajax 由 HTML、Javascript 技术、DHTML 和 DOM 组成，这一杰出的方法可以将笨拙的 Web 界面转化成交互性的 Ajax 应用程序。 </description>
+<text>　　Ajax 由 HTML、Javascript&amp;#8482; 技术、DHTML 和 DOM 组成，这一杰出的方法可以将笨拙的 Web 界面转化成交互性的 Ajax 应用程序。本系列的作者是一位 Ajax 专家，他演示了这些技术如何协同工作 —— 从总体概述到细节的讨论 —— 使高效的 Web 开发成为现实。他还揭开了 Ajax 核心概念的神秘面纱，包括 XMLHttpRequest 对象。　　五年前，如果不知道 XML，您就是一只无人重视的丑小鸭。十八个月前，Ruby 成了关注的中心，不知道 Ruby 的程序员只能坐冷板凳了。今天，如果想跟上最新的技术时尚，那您的目标就是 Ajax。　　但是，Ajax 不仅仅 是一种时尚，它是一种构建网站的强大方法，而且不像学习一种全新的语言那样困难。　　在详细探讨 Ajax 是什么之前，先让我们花几分钟了解 Ajax 做 什么。目前，编写应用程序时有两种基本的选择：　　桌面应用程序　　Web 应用程序　　两者是类似的，桌面应用程序通常以 CD 为介质(有时候可从网站下载)并完全安装到您的计算机上。桌面应用程序可能使用互联网下载更新，但运行这些应用程序的代码在桌面计算机上。Web 应用程序运行在某处的 Web 服务器上 —— 毫不奇怪，要通过 Web 浏览器访问这种应用程序。　　不过，比这些应用程序的运行代码放在何处更重要的是，应用程序如何运转以及如何与其进行交互。桌面应用程序一般很快(就在您的计算机上运行，不用等待互联网连接)，具有漂亮的用户界面(通常和操作系统有关)和非凡的动态性。可以单击、选择、输入、打开菜单和子菜单、到处巡游，基本上不需要等待。　　另一方面，Web 应用程序是最新的潮流，它们提供了在桌面上不能实现的服务(比如 Amazon.com 和 eBay)。但是，伴随着 Web 的强大而出现的是等待，等待服务器响应，等待屏幕刷新，等待请求返回和生成新的页面。　　显然这样说过于简略了，但基本的概念就是如此。您可能已经猜到，Ajax 尝试建立桌面应用程序的功能和交互性，与不断更新的 Web 应用程序之间的桥梁。可以使用像桌面应用程序中常见的动态用户界面和漂亮的控件，不过是在 Web 应用程序中。　　我们来看看 Ajax 如何将笨拙的 Web 界面转化成能迅速响应的 Ajax 应用程序吧。　　老技术，新技巧　　在谈到 Ajax 时，实际上涉及到多种技术，要灵活地运用它必须深入了解这些不同的技术(本系列的头几篇文章将分别讨论这些技术)。好消息是您可能已经非常熟悉其中的大部分技术，更好的是这些技术都很容易学习，并不像完整的编程语言(如 Java 或 Ruby)那样困难。　　Ajax 的定义　　Ajax 是 Asynchronous Javascript and XML(以及 DHTML 等)的缩写。这个短语是 Adaptive Path 的 Jesse James Garrett 发明的(请参阅 参考资料)，按照 Jesse 的解释，这不是 个首字母缩写词。　　下面是 Ajax 应用程序所用到的基本技术：　　HTML 用于建立 Web 表单并确定应用程序其他部分使用的字段。　　Javascript 代码是运行 Ajax 应用程序的核心代码，帮助改进与服务器应用程序的通信。　　DHTML 或 Dynamic HTML，用于动态更新表单。我们将使用 div、span 和其他动态 HTML 元素来标记 HTML。　　文档对象模型 DOM 用于(通过 Javascript 代码)处理 HTML 结构和(某些情况下)服务器返回的 XML。　　我们来进一步分析这些技术的职责。以后的文章中我将深入讨论这些技术，目前只要熟悉这些组件和技术就可以了。对这些代码越熟悉，就越容易从对这些技术的零散了解转变到真正把握这些技术(同时也真正打开了 Web 应用程序开发的大门)。
+              </text>
+<image> </image>
+<keywords>Ajax,技术入门简介 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>Web2.0十大Ajax安全漏洞以及成因 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/39.html </link>
+<description>Ajax中没有固有的安全漏洞，但是对该技术向量的适配显著地改变了网络应用的开发途径以及方法论。以前，DCOM和CORBA组成核心中间件层的时候，将数据和对象序列化非常困难。 </description>
+<text>JavaScript包含的Ajax是Web2.0应用的一个重要组成部分。该部分的进化发展使网络变成了超级平台。该转变同时也催生了新品种的病毒和蠕虫，比如Yamanner,Samy 以及Spaceflash等等。Google,Netflix,Yahoo 以及MySpace等门户网站在过去的几个月里都因为新的漏洞而蒙受一定损失。黑客们可以利用这些漏洞进行钓鱼，跨站点脚本(XSS)以及跨站点伪造(XSRF)请求等攻击。 Ajax中没有固有的安全漏洞，但是对该技术向量的适配显著地改变了网络应用的开发途径以及方法论。以前，DCOM和CORBA组成核心中间件层的时候，将数据和对象序列化非常困难。Ajax使用简单的GET,POST或者SOAP调用，来转换XML,HTML,JS Array,JSON,JS Objects以及其他定制的对象；全部这些操作都不需要调用中间件层。Ajax的这种综合能力使应用服务器与浏览器之间的数据交换非常流畅。从服务器端传来的信息动态地被注入到当前的DOM相关环境，然后浏览器的DOM状态重置。在讲安全漏洞之前，我们先来看看促成Web2.0漏洞的关键因素。 多重分散的终端点以及隐藏调用——Web2.0应用与Web1.0的主要区别就是信息访问机制的区别。比起它的前身Web1.0, Web2.0应用有数个Ajax终点。潜在的Ajax调用分散于整个浏览器页面，并且能够被各个事件分别调用。开发者恨难应付Ajax调用的这种分散性，并且由于这些调用是隐藏的，不那么明显，它还可能导致代码不规范。 认证混乱——输入和输出内容认证是应用的重要因素之一。Web2.0应用使用桥，mashups,还有反馈等等。很多情况下，它假定“另一方”（读取服务器端或者客户端代码）已经实现了认证，这种混乱就导致了双方都没有实现适当的认证控制。 不受信任的信息来源——Web2.0应用从很多不受信任的来源比如反馈，博客，搜索结果中获得信息。这些内容在提供给终端浏览器之前从来没有被认证，这就有可能引发跨站点攻击。黑客还有可能在浏览器中加载JavaScript，以便迫使浏览器发出跨域的调用并打开安全漏洞。那样的话，这些致命的漏洞就能被病毒和蠕虫利用。 数据序列化——浏览器可以调用Ajax来实施数据序列化。它可以获取JS array,Objects,Feeds,XML文件，HTML 块以及JSON。如果这些序列块中的某一个被解析并修改了，黑客们就可以强迫浏览器执行恶意脚本。不受信任信息与数据序列化的结合，对终端用户的安全是致命的。 动态脚本构成和执行——Ajax会建立一个后端通道，从服务器获取数据，然后将它传送给DOM。实现这一点的必要条件就是动态地执行JavaScripts，以便随时更新DOM或者浏览器页面缓存的状态。Ajax通过调用定制的功能或者eval()功能。未经认证的内容或者使用不安全的调用，轻则导致会话内容泄露，重则迫使浏览器执行恶意内容等各种后果。 Web2.0应用可能因为上面提到的1个或多个失误而变得易受攻击。如果开发者不够审慎，没有花心思在安全管理上的话，那么服务器和浏览器端都会出现安全问题。以下是10个可能的安全漏洞的简要说明。 （1）畸形的JS对象序列 JavaScript支持面向对象编程(OOP)技术。它有很多不同的内置对象，也允许用户自己创建对象。使用者可以用new object() 或者自己编辑如下代码来创建新的对象。 message = {
+from : &quot;john@example.com&quot;,
+to : &quot;jerry@victim.com&quot;,
+subject : &quot;I am fine&quot;,
+body : &quot;Long message here&quot;,
+showsubject : function(){document.write(this.subject)}
+};这是一个简单的消息对象，其中有2个字段需要电子邮件地址。我们可以使用Ajax来将该对象序列化并用JavaScript代码编译。程序员可以将它赋值到变量或者eval()。如果攻击者发送嵌入了脚本的恶意“主题”，那么读者就将成为跨站点脚本攻击的受害者。JS对象既包含数据也包含方法。对JS对象序列的不当使用将产生可以被诡计多端的注入代码利用的安全漏洞。 (2)JSON对注入 JavaScript对象符号(JSON)是一个简单而有效的少量数据交换格式，它包含对象，数组，Hash表，向量以及列表数据结构。JavaScript, Python, C, C++, C# 和Perl languages都支持JSON。JSON序列在Web2.0应用中是个非常有效的交换机制。开发者频繁使用Ajax和JSON，获取并传送必要的信息给DOM。下面是个简单的带有不同的name值对的JSON对象：“bookmarks”对象。 {&quot;bookmarks&quot;:[{&quot;Link&quot;:&quot;www.example.com&quot;,&quot;Desc&quot;:&quot;Interesting link&quot;}]}黑客们可以在Link或者Desc中注入恶意脚本。如果DOM和可执行程序被注入了，XSS目录也会被注入。这是使终端用户感染恶意内容的另一种方法。 (3)JS数组中毒 JS数组是另一个比较普遍的序列化对象。人们可以很容易地跨平台移植它，并且它在使用不同语言的结构中也很有效。感染一个JS数组可以扰乱整个DOM环境。黑客们可以在浏览器中使用简单的跨站点脚本攻击JS数组。下面是一个JS数组的例子： new Array(“Laptop”, “Thinkpad”, “T60”, “Used”, “900$”, “It 
+is great and I have used it for 2 years”)该数组是从一个拍卖二手笔记本的网站传出来的。如果这个数组对象在服务器端没有被仔细处理，黑客就可以在最后字段中注入脚本。这种注入将危及浏览器安全并被攻击者利用。 (4)被修改的XML数据流 Ajax调用接受来自多个地址的XML。这些XML块来自运行在SOAP,REST或者XML-RPC的网络服务。这些网络服务是由从第三方的代理桥那里接收过来的。如果这些第三方XML数据流被攻击者修改过，那么攻击者就可能向其中注入恶意内容。 浏览器从它自带的XML解析器接收该数据流。该解析器容易受不同的XML炸弹的攻击。人们也可以在该数据流中注入脚本，这样就可以导致跨站点脚本攻击(XSS)。浏览器接收未经认证的XML数据流的话，这就会危及终端客户端的安全。 (5)DOM中脚本注入 前四个漏洞都是由于序列化问题引起的。一旦浏览器收到序列化的对象数据流，开发者会发出某种调用来访问DOM。这种调用的目的是将新内容“重写”或者“重填”入DOM中，可以调用eval()这个定制功能，也可以使用document.write()。如果这些调用是在不受信任信息流上进行的，浏览器就有可能由于DOM的操作漏洞而受攻击。攻击者可以用很多document.*()调用来向DOM环境中注入XSS。 例如，这段JavaScript代码：Document.write(product-review)。 在这里，“Product-review”是从第三方blog上获得的变量。如果它含有JavaScript会怎样？答案很明显。这个JavaScript就会被浏览器运行。 （6）跨域访问和回调 Ajax不能从浏览器跨域访问。所有比较流行的浏览器都有个安全特性，那就是拦截跨域访问。一些网站服务为对象序列提供回调功能。开发者可以使用这个功能来把网站服务整合到浏览器本身。人们可以把该功能名传回，这样浏览器一找到回调对象数据流，它就会被浏览器中早已有的特殊功能名执行。 这个回调对使用浏览器内认证的开发者来说是个额外负担。如果输入的对象数据流未经浏览器认证那么终端客户端就会成为跨域攻击的目标。不管是有意还是无意的，跨域服务可以向浏览器中注入恶意内容。该跨域调用在当前DOM环境中运行，于是导致当前对话也易受攻击。在实现应用之前，人们需要仔细检查整个跨域功能。 （7）RSS和Atom注入 联合的反馈，RSS以及Atom,是最普遍的一种将站点更新信息传到网络上的方法。许多新闻，博客，门户站点等等，都在网络上共享多个反馈。反馈是标准的XML文档，并且可以被任何程序接收。Web2.0应用使用窗口小部件或者浏览器内部元件整合了联合反馈。这些组件调用Ajax来访问反馈。 这些反馈可以被终端用户方便地选择。一旦用户选择了它们，这些反馈就会被解析并注入到DOM中。那么如果这个反馈在注入之前没有被适当地认证过，就会出现一些安全问题。人们可以往浏览器中注入恶意链接或者JavaScript代码。注入之后，就大事不妙了，最终结果是XSS和对话被黑客拦截。 （8）单击炸弹 Web2.0应用可能不会很简单地就被黑客攻下，但他们可以对它进行基于事件的注入。人们可以将带有&quot;onclick&quot;字样的恶意链接用JavaScript注入。这样，浏览器就带着个随时等待终端用户右键点击来触发的炸弹。一旦用户点击了链接或按钮，能够启动炸弹的那个事件被启动了，那么攻击就成功了。此类攻击会导致对话被恶意代码拦截。 这也是由于人们从那些没有经过正确验证的不受信任源处获得的信息，所导致的安全漏洞。为了利用该安全漏洞，它需要终端客户端触发一个事件。这个事件也许是诸如点击按钮或者链接的这种无害事件，但是点击后就使会用户损失惨重。它可能引起某个恶意事件，将当前对话信息发送给目标，又或者在当前浏览器环境中执行一系列脚本攻击。 (9) 基于Flash的跨域访问 黑客们可以使用Flash插件的Ajax接口，从而用浏览器中的JavaScritps发出GET和POST请求。这个接口使黑客们能进行跨域调用。为了避免安全问题，该Flash插件实现了根据策略访问其他域的功能。该策略可以通过在域的根部放置crossdomain.xml文件来配置。如果放置的文件配置不当——很普遍的现象——它就可能允许跨域访问。下面是一个配置不当的XML文档： 现在可以从浏览器自身发出跨域调用了。这个结构还有一些其他安全问题。基于Flash的丰富网络应用(RIA)如果配置错误的话，很容易由于Ajax的跨域访问Bug而被攻击。 (10) XSRF 跨域伪造请求(XSRF)是个老牌的攻击向量了，它迫使浏览器向不同的域发出HTTP GET或者POST请求；这些请求可以跨域在运行的应用逻辑中启动某种事件。它可能请求修改密码或者电子邮件地址等。浏览器调用它后，它重放cookie并获得身份认证。这就是该请求的关键部分。如果某个应用只根据cookie来判识身份，那么该攻击就会成功。 Web2.0中Ajax是就XML-RPC,SOAP或者REST与后端网络服务进行对话的，通过GET和POST可以进行这些调用。换句话说，人们可以对这些网络服务进行跨站点调用，从而危及受害者与网络服务接口的身份信息。XSRF这个攻击向量很有趣，它在这个新界定的端点情况中创造了新的层次。这些终点可能是为Ajax或者网络服务而准备的，但它们也有可能被跨域请求所激活。 对安全漏洞的攻击以及相应对策 Web2.0应用有多个终端点；每个点都是威胁的侵入点。为了保证安全，我们应当保护好所有这些点。在将第三方信息发送给客户端之前要对其进行彻底处理。 为了处理Ajax序列，必须在它们到达DOM之前对输入数据流进行验证。XML解析以及跨域安全问题也需要额外重视，并实施更好的安全管理措施。我们应当遵循那个最简单最笨拙的原则：不让未经认证的跨域信息进入浏览器。有趣的是，到目前为止，安全专家们都不主张使用客户端脚本来进行输入验证，因为这很容易被规避掉。 Web2.0促成了很多浏览器安全相关的新的漏洞。利用这些安全漏洞很难但不是不可能。安全问题以及促成因素结合起来将严重影响那些大的网络团体，比如能被攻击者蠕虫和病毒利用的那些组织。最终将导致身份信息的泄漏。 结论 本文简单地讲了一些可能出现的关于Ajax漏洞。还有很多其他潜在的漏洞，比如利用跨域代理来在浏览器中建立单项通道或者存储变量。 Web2.0中很多逻辑都转到了客户端。这会将整个应用暴露给一些严重的威胁。对整合来自多方的、不受信源的数据的迫切要求也将全面增加风险向量：XSS,XSRF,跨域问题以及客户端上的序列，还有不安全的网站服务，服务器端的XML-RPC和REST访问。相反地，Ajax可被用来构造优美的无缝数据整合。但是，任一不安全的调用或者信息流都会使其产事与愿违的效果，从而促成可被利用的安全漏洞。 这些新技术向量很有前景，令很多人兴奋不已，但是攻击者，病毒和蠕虫作者对它更感兴趣。为了保障安全，开发者应当在这些细节方面格外小心。 ============================================= 原文链接：http://www.net-security.org/article.php?id=956&amp;p=1 原文作者：Shreeraj Shah 原文来源：net square 
+              </text>
+<image> </image>
+<keywords>Web2.0十大Ajax安全漏洞以及成因 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>JavaScript开发时的五个小提示 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/40.html </link>
+<description>如果要在form中绑定事件处理程序时，应该只在 元素上绑定submit事件，而不是给提交按钮绑定click事件。March：这个方式固然很好，但是，公司开发时使用了Web Flow，一个页面就一个大form，而里面可能有若干个提交按钮，所以不得不把部分事件处理程序绑定在了 </description>
+<text>原文：真是五个很quick的小提示：只在元素上使用submit事件如果要在form中绑定事件处理程序时，应该只在元素上绑定submit事件，而不是给提交按钮绑定click事件。March：这个方式固然很好，但是，公司开发时使用了Web Flow，一个页面就一个大form，而里面可能有若干个提交按钮，所以不得不把部分事件处理程序绑定在了提交按钮的click事件上。可点击的都应该是链接不要给除锚元素（）以外的元素绑定click事件。这一点对于键盘用户很重要，因为他们在仅通过键盘获取元素焦点时会遇到困难。March：不过个人感觉锚元素还是应该只用作链接，而一些功能性的操作（比如Google Reader的Mark all as new），最好还是用来标注，accessibility的问题可以通过快捷键等方式解决。这样做可以更好的还原HTML元素的语义。简单的for循环优化在你写一个for循环时，有个很简单的技巧能够提高性能。for ( var i = 0; i &lt; elements.length; ++i )使用下面的语句代替上面的：for ( var i = 0, j = elements.length; i &lt; j; ++i )这样可以把元素的个数（elements.length的值）储存在一个变量j中，这样就不必在每次循环时都计算一遍元素的个数。用匿名函数来作为事件处理程序尤其是对于短小的函数，创建一个匿名函数会比使用一个命名函数的引用更具可读性。anchor.onclick = function() { map.goToPosition( home ); return false; }March：在较复杂的JavaScript开发时还是使用命名函数效率更高。使用Array.join代替字符串连接（concatenating strings）在将很多字符串、变量等连接成一个很长的字符串时，将所有字符串和变量放入一个数组，然后用join方法将他们组成一个长字符串，这样无论从代码可读性还是从性能上都更胜于字符串连接。var text = 'There are' + elements.length + 'members in the elements array.';var text = ['There are', elements.length, 'members in the elements array.'].join(' ');来源：
+              </text>
+<image> </image>
+<keywords>JavaScript开发时的五个小提示 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>JavaScript：世界上误解最深的语言 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/41.html </link>
+<description>JavaScript，或者叫 Mocha，或者叫 LiveScript，或者叫 JScript，又或者叫 ECMAScript，是世界上最流行的编程语言之一。事实上世界上的每一台个人电脑都安装并在频繁使用至少一个JavaScript解释器。 JavaScript的流行完全是由于他在WWW脚本语言领域中的地位决 </description>
+<text>, 亦称为 Mocha、LiveScript，也叫做JScript ECMAScript，是世界上流行的编程语言之一。事实上世界上差不多每台个人电脑都至少安装了一个JavaScript解释器。JavaScript的流行完全在于它作为WWW的脚本语言的角色。不管它有多么流行，极少有人了解JavaScript是一个十分动态的通用面向对象编程语言。这怎能成为一个秘密呢？为什么这个语言如此被误解？关于名字这个Java-前缀暗示了JavaScript和Java的关系，也就是JavaScipt是Java的一个子集也就是不如Java强大。看上去这个名称就故意制造混乱，然后随之而来的是误解。JavaScript并不是解释型的Java语言。Java是解释型的Java，JavaScript是另一种语言。JavaScript和Java的语法很相似，就象Java和C的语法相似一样。但它也不是Java的子集就像Java也不是C的子集一样。在应用上，Java要远比原先设想的好得多（Java原称Oak）。JavaScript并不是由Sun公司──Java的老家──开发的。JavaScript是由Netscape公司开发。它本来叫做LiveScript，这个名字并不是那样容易混淆。 这个-Script 后缀暗示了它不是一个真正的编程语言──脚本语言好象不是真正的编程语言。但其实这是一个专长的问题。相对C而言，JavaScript牺牲性能但带来更强的表达力和动态性。披着C外衣的LispJavaScript的C风格的语法，包括大括号和复杂的for 语句，让它看起来好象是一个普通的过程式语言。这是一个误导因为JavaScript和函数式语言如Lisp和Scheme有更多的共同之处。它用数组代替了列表，用对象代替了属性列表。函数是第一型的。而且有闭包。你不需要平衡那些括号就可以用lambda算子。思维定势JavaScript是原被设计在Netscape Navigator 中运行的。它的成功让它成为几乎所有浏览器的标准配置。这导致了思维定势。JavaScript简直就是程序语言中的 （一位曾扮演超人的演员，但后来死于枪杀，被官方认为自杀，细节不详──译注）。其实，JavaScript也适合很多和Web无关的应用程序。不断改变的目标JavaScript的第一个版本功能十分弱。它缺少异常处理、内部函数和继承。而它的现在的形态，它已经是一套完整的面向对象语言。但很多看法都是基于认为它的形式不成熟。管理这个语言的ECMA委员正在开发扩展 ，原意是很好，而这样却会加剧这个语言最严重的问题：版本太多了。这也造成了混淆。设计错误没有什么编程语言是完美的，JavaScript也有它的设计上的错误，如的重载同时表示加和带类型转换的串连接，和有错误倾向的 with 语句应该避免使用。保留字策略过于严格。分号的加入是一个很大的错误，正则表达式的记号也是。这些错误会导致编程错误，并把语言的设计作为整个叫做问题。幸运的是，这些问题可以用一个很好这个语言的设计从整体上看还是十分健全的。但很令人惊讶的是， ECMAScript委员会好象根本不想修正这些错误。也许他们对重新制作一个更感兴趣。肮脏的实现JavaScript早期实现错误百出。这对该语言带来了很恶劣的影响。更糟糕的是，这些实现还被嵌入的更错误百出的浏览器中。拙劣的书籍几乎所有的书籍都十分恐怖。里面到处是错误、蹩脚的例子还自创一套拙劣的惯例。语言中重要的特性却常常解释不好，或者干脆完全不写。我翻阅了几十本JavaScript的书，我只推荐两本： by David Flanagan and  by Danny Goodman. 都来自于 .不够标准的标准该语言的官方标准规格说明书由ECMA发布。该规格书也是质量奇差。它难以阅读也难以理解。它也对拙劣书籍的问题作出了自己的一份“贡献”，因为作者无法使用这个标准文档来增加他们对语言的认识。ECMA和TC39委员会应该为此感到深深的羞愧。业余爱好者大部分写JavaScript的人都不是程序员。他们缺乏训练写好程序的修养。JavaScript有如此丰富的表达能力，他们可以任意用它来写代码，以任何形式。这给JavaScript带来了一个名声──它是专门为外行设计的，不适合专业的程序员。这显然不是事实。面向对象JavaScript是不是面向对象的？它拥有对象，可以包含数据和处理数据的方法。对象可以包含其它对象。它没有类，但它却有构造器可以做类能做的事，包括扮演类变量和方法的容器的角色。它没有基于类的继承，但它有基于原型的继承。两个建立对象系统的方法是通过继承（是一个……）和通过聚合（有一个……）。JavaScript两个都有，但它的动态性质让它可以在聚合上超越。一些批评说JavaScript不是真正面向对象的因为它不能提供信息的隐藏。也就是，对象不能有私有变量和私有方法：所有的成员都是公共的。S。当然，极少有人认识到，因为JavaScript是世界是最受误解的程序嘛！另外还有批评说JavaScript不能提供继承，。原文地址： 翻译：&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+              </text>
+<image> </image>
+<keywords>JavaScript：世界上误解最深的语 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>JavaScript基础知识总结 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/42.html </link>
+<description>已经读了《JavaScript DOM 编程艺术》的前几章基础部分，现在凭着记忆，将JavaScript的基础知识总结一下。 </description>
+<text>已经读了《JavaScript DOM 编程艺术》的前几章基础部分，现在凭着记忆，将JavaScript的基础知识总结一下。一、声明变量JavaScript中，对变量的要求非常宽松，属于弱类型语言。尽管可以不申请变量而直接使用，但是为了程序的可读性和安全性，还是尽量把要使用的变量声明一下。格式如下：var 变量一,变量二,…,变量N;也可以直接在申请变量的同时进行赋值：var 变量 = 变量值;如果是数组变量，可以这样声明：var 数组名 = Array(数组元素个数);二、条件语句JavaScript条件语句的格式如下：if (返回值为布尔型的条件语句) {如果条件成立执行的语句;} else {如果条件不成立执行的语句;}如果只要执行单个语句，也可以省略成如下形式：if (条件判断) 条件成立后执行的语句;三、循环语句循环语句有三种，第一种是先判断后执行的while语句：while (循环条件) {循环的语句;}第二种，先执行后判断的while语句：do {循环的语句;} while(循环条件);第三种，for语句：for (初始赋值;循环条件;条件变化) {循环的语句;}四、函数JavaScript中的函数用起来也很简单，与C语言和Java中的函数没多大差别。函数的定义：function 函数名(形式参数一;形式参数二) {函数里的语句;return 函数返回值;}五、对象JavaScript中，对象可以通过属性和方法两种方式访问：对象.属性对象.方法()重点：属性是隶属于某个特定对象的变量；方法是只有某个特定对象才能调用的函数。可以根据一个对象创建一个新的实例，这个实例可以使用对象所拥有的属性和方法：var 实例名 = new 对象名;六、注释在程序设计中，注释始终是非常重要的。JavaScript中，使用“//注释内容”来做单行注释；使用“/*注释内容*/”来进行多行注释。类似于HTML的那种注释方式，不推荐使用。OK，将JavaScript的基本语法就回忆到这儿，关于DOM的知识我下次结合实例再谈。来源：
+              </text>
+<image> </image>
+<keywords>JavaScript基础知识总结 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>JavaScript的9个陷阱及评点 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/43.html </link>
+<description>来自Nine Javascript Gotchas, 以下是JavaScript容易犯错的九个陷阱。虽然不是什么很高深的技术问题，但注意一下，会使您的编程轻松些，即所谓make life easier. 笔者对某些陷阱会混杂一些评点。 </description>
+<text>来自, 以下是JavaScript容易犯错的九个陷阱。虽然不是什么很高深的技术问题，但注意一下，会使您的编程轻松些，即所谓make life easier. 笔者对某些陷阱会混杂一些评点。最后一个逗号如这段代码，注意最后一个逗号，按语言学角度来说应该是不错的（python的类似数据类型辞典dictionary就允许如此）。IE会报语法错误，但语焉不详，你只能用人眼从几千行代码中扫描。
+  var theObj = {
+        city : &quot;Boston&quot;,
+        state : &quot;MA&quot;,
+  }
+ this的引用会改变如这段代码：
+
+var MyObject = function () {
+    this.alertMessage = &quot;Javascript rules&quot;;
+    this.ClickHandler = function() {
+        alert(this.alertMessage );
+  }
+}();
+document.getElementById(”theText”).onclick =  MyObject.ClickHandler
+并不如你所愿，答案并不是”JavaScript rules”。在执行MyObject.ClickHandler时，代码中红色这行，this的引用实际上指向的是document.getElementById(&quot;theText&quot;)的引用。可以这么解决：
+
+var MyObject = function () {
+    var self = this;
+    this.alertMessage = “Javascript rules”;
+    this.OnClick = function() {
+        alert(self.value);
+    }
+}();
+document.getElementById(”theText”).onclick =  MyObject.OnClick
+实质上，这就是。如果你看过，你会发现解决方案不止一种。标识盗贼在JavaScript中不要使用跟HTML的id一样的变量名。如下代码：
+
+    TheButton = get(&quot;TheButton&quot;);
+IE会报对象未定义的错误。我只能说：IE sucks.字符串只替换第一个匹配如下代码：
+    var fileName = &quot;This is a title&quot;.replace(&quot; &quot;,&quot;_&quot;);
+而实际上，结果是”This_is a title“. 在JavaScript中，String.replace的第一个参数应该是正则表达式。所以，正确的做法是这样：var fileName = &quot;This is a title&quot;.replace(/ /g,&quot;_&quot;);mouseout意味着mousein事实上，这是由于事件冒泡导致的。IE中有mouseenter和mouseleave，但不是标准的。作者在此建议大家使用库比如YUI来解决问题。parseInt是基于进制体系的这个是常识，可是很多人给忽略了parseInt还有第二个参数，用以指明进制。比如，parseInt(&quot;09&quot;)，如果你认为答案是9，那就错了。因为，在此，字符串以0开头，parseInt以八进制来处理它，在八进制中，09是非法，返回false，布尔值false转化成数值就是0. 因此，正确的做法是parseInt(&quot;09&quot;, 10). for...in...会遍历所有的东西有一段这样的代码：var arr = [5,10,15]
+var total = 1;
+for ( var x in arr) {
+    total = total * arr[x];
+}运行得好好的，不是吗？但是有一天它不干了，给我返回的值变成了NaN, 晕。我只不过引入了一个库而已啊。原来是这个库改写了Array的prototype，这样，我们的arr平白无过多出了一个属性（方法），而for...in...会把它给遍历出来。所以这样做才是比较安全的：for ( var x = 0; x &lt; arr.length; x++) {
+    total = total * arr[x];
+}其实，这也是污染基本类的prototype会带来危害的一个例证。事件处理器的陷阱这其实只会存在使用作为对象属性的事件处理器才会存在的问题。比如window.onclick = MyOnClickMethod这样的代码，这会复写掉之前的window.onclick事件，还可能导致IE的内容泄露（sucks again）。在IE还没有支持DOM 2的事件注册之前，作者建议使用库来解决问题，比如使用YUI:YAHOO.util.Event.addListener(window, &quot;click&quot;, MyOnClickMethod);这应该也属于常识问题，但新手可能容易犯错。Focus Pocus新建一个input文本元素，然后把焦点挪到它上面，按理说，这样的代码应该很自然：var newInput = document.createElement(&quot;input&quot;);
+document.body.appendChild(newInput);
+newInput.focus();
+newInput.select();但是IE会报错（sucks again and again）。理由可能是当你执行fouce()的时候，元素尚未可用。因此，我们可以延迟执行：var newInput = document.createElement(&quot;input&quot;);
+newInput.id = &quot;TheNewInput&quot;;
+document.body.appendChild(newInput);
+setTimeout(function(){ //这里我使用闭包改写过，若有兴趣可以对比原文
+	document.getElementById('TheNewInput').focus();
+	document.getElementById('TheNewInput').select();}, 10);在实践中，JavaScript的陷阱还有很多很多，大多是由于解析器的实现不到位而引起。这些东西一般都不会在教科书中出现，只能靠开发者之间的经验分享。谢天谢地，我们生活在网络时代，很多碰到的问题，一般都可以在Google中找到答案。 来源:
+              </text>
+<image> </image>
+<keywords>JavaScript的9个陷阱及评点 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>网页中常用的Javascript代码 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/44.html </link>
+<description>JavaScript技术可以实现交互式页面，在建立动态页面方面有着其他工具不可比拟的优点。Javascript 在网页设计中,大部分都是用来实现功能,特效的.. 本文列举了一些网页制作中常用的JavaScript技术： </description>
+<text>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; JavaScript技术可以实现交互式页面，在建立动态页面方面有着其他工具不可比拟的优点。Javascript 在网页设计中,大部分都是用来实现功能,特效的..&amp;nbsp;本文列举了一些中常用的JavaScript技术：&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 事件源对象&amp;nbsp;以下是引用片段：event.srcElement.tagName&amp;nbsp; event.srcElement.type&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 捕获释放&amp;nbsp;以下是引用片段：event.srcElement.setCapture();&amp;nbsp; event.srcElement.releaseCapture();&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 事件按键 以下是引用片段：event.keyCode&amp;nbsp; event.shiftKey&amp;nbsp; event.altKey&amp;nbsp; event.ctrlKey&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 事件返回值 以下是引用片段：event.returnValue&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 位置 以下是引用片段：event.x&amp;nbsp; event.y&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 窗体活动元素 以下是引用片段：document.activeElement&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 绑定事件 以下是引用片段：document.captureEvents(Event.KEYDOWN);&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 访问窗体元素 以下是引用片段：document.all(&quot;txt&quot;).focus();&amp;nbsp; document.all(&quot;txt&quot;).select();&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 窗体命令 以下是引用片段：document.execCommand&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 窗体COOKIE 以下是引用片段：document.cookie&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 菜单事件 以下是引用片段：document.oncontextmenu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 创建元素 以下是引用片段：document.createElement(&quot;SPAN&quot;);&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 根据鼠标获得元素： 以下是引用片段：document.elementFromPoint(event.x,event.y).tagName==&quot;TD&amp;nbsp; document.elementFromPoint(event.x,event.y).appendChild(ms)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 窗体&amp;nbsp;以下是引用片段：document.images[索引]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 窗体事件绑定 以下是引用片段：document.onmousedown=scrollwindow;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 元素 以下是引用片段：document.窗体.elements[索引]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 对象绑定事件 以下是引用片段：document.all.xxx.detachEvent('onclick',a);&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 插件数目 以下是引用片段：navigator.plugins&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 取变量类型&amp;nbsp;以下是引用片段：typeof(js_libpath)&amp;nbsp;==&amp;nbsp;&quot;undefined&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 下拉框 以下是引用片段：下拉框.options[索引]&amp;nbsp; 下拉框.options.length&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 查找对象&amp;nbsp;以下是引用片段：document.getElementsByName(&quot;r1&quot;);&amp;nbsp; document.getElementById(id);&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 定时&amp;nbsp;以下是引用片段：timer=setInterval('scrollwindow()',delay);&amp;nbsp; clearInterval(timer);&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;上一网页源 以下是引用片段：asp:&amp;nbsp; request.servervariables(&quot;HTTP_REFERER&quot;)&amp;nbsp; javascript：&amp;nbsp; document.referrer&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 释放 以下是引用片段：CollectGarbage();&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 禁止右键 以下是引用片段：document.oncontextmenu&amp;nbsp;=&amp;nbsp;function()&amp;nbsp;{&amp;nbsp;return&amp;nbsp;false;}&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 禁止保存 以下是引用片段：&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 禁止选取以下是引用片段： </text>
+<image> </image>
+<keywords>网页中常用的Javascript代码 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>Javascript优化原则 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/45.html </link>
+<description>首先，与其他语言不同，JS的效率很大程度是取决于JS engine的效率。除了引擎实现的优劣外，引擎自己也会为一些特殊的代码模式采取一些优化的策略。显然，要获得最大效率，就必须要了解引擎的脾气，尽量迎合引擎的口味。所以对于不同的引擎，所作的优化极有可 </description>
+<text>首先，与其他语言不同，JS的效率很大程度是取决于JS&amp;nbsp;engine的效率。除了引擎实现的优劣外，引擎自己也会为一些特殊的代码模式采取一些优化的策略。例如FF、Opera和Safari的JS引擎，都对字符串的拼接运算（+）做了特别优化。显然，要获得最大效率，就必须要了解引擎的脾气，尽量迎合引擎的口味。所以对于不同的引擎，所作的优化极有可能是背道而驰的。而如果做跨浏览器的web编程，则最大的问题是在于IE6（JScript&amp;nbsp;5.6）！因为在不打hotfix的情况下，JScript引擎的垃圾回收的bug，会导致其在真实应用中的performance跟其他浏览器根本不在一个数量级上。因此在这种场合做优化，实际上就是为JScript做优化！所以第一原则就是只需要为IE6（未打补丁的JScript&amp;nbsp;5.6或更早版本）做优化！如果你的程序已经优化到在IE6下可以接受的性能，那基本上在其他浏览器上性能就完全没有问题。因此，注意我下面讲的许多问题在其他引擎上可能完全不同，例如在循环中进行字符串拼接，通常认为需要用Array.join的方式，但是由于&amp;nbsp;SpiderMonkey等引擎对字符串的“+”运算做了优化，结果使用Array.join的效率反而不如直接用“+”！但是如果考虑IE6，则其他浏览器上的这种效率的差别根本不值一提。JS优化与其他语言的优化也仍然有相同之处。比如说，不要一上来就急吼吼的做优化，那样毫无意义。优化的关键，仍然是要把精力放在最关键的地方，也就是瓶颈上。一般来说，瓶颈总是出现在大规模循环的地方。这倒不是说循环本身有性能问题，而是循环会迅速放大可能存在的性能问题。所以第二原则就是以大规模循环体为最主要优化对象。以下的优化原则，只在大规模循环中才有意义，在循环体之外做此类优化基本上是没有意义的。目前绝大多数JS引擎都是解释执行的，而解释执行的情况下，在所有操作中，函数调用的效率是较低的。此外，过深的prototype继承链或者多级引用也会降低效率。JScript中，10级引用的开销大体是一次空函数调用开销的1/2。这两者的开销都远远大于简单操作（如四则运算）。所以第三原则就是尽量避免过多的引用层级和不必要的多次方法调用。特别要注意的是，有些情况下看似是属性访问，实际上是方法调用。例如所有DOM的属性，实际上都是方法。在遍历一个NodeList的时候，循环条件对于nodes.length的访问，看似属性读取，实际上是等价于函数调用的。而且IE&amp;nbsp;DOM的实现上，childNodes.length每次是要通过内部遍历重新计数的。（My&amp;nbsp;god，但是这是真的！因为我测过，childNodes.length的访问时间与childNodes.length的值成正比！）这非常耗费。所以预先把nodes.length保存到js变量，当然可以提高遍历的性能。同样是函数调用，用户自定义函数的效率又远远低于语言内建函数，因为后者是对引擎本地方法的包装，而引擎通常是c,c++,java写的。进一步，同样的功能，语言内建构造的开销通常又比内建函数调用要效率高，因为前者在JS代码的parse阶段就可以确定和优化。所以第四原则就是尽量使用语言本身的构造和内建函数。这里有一个例子是高性能的String.format方法。String.format&amp;nbsp;传统的实现方式是用String.replace(regex,&amp;nbsp;func)，在pattern包含n个占位符（包括重复的）时，自定义函数func就被调用n次。而这个高性能实现中，每次format调用所作的只是一次Array.join然后一次String.replace(regex,&amp;nbsp;string)的操作，两者都是引擎内建方法，而不会有任何自定义函数调用。两次内建方法调用和n次的自定义方法调用，这就是性能上的差别。同样是内建特性，性能上也还是有差别的。例如在JScript中对于arguments的访问性能就很差，几乎赶上一次函数调用了。因此如果一个可变参数的简单函数成为性能瓶颈的时候，可以将其内部做一些改变，不要访问arguments，而是通过对参数的显式判断来处理。
+              </text>
+<image> </image>
+<keywords>Javascript优化原则 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>讨论Ajax之所以优于JSF的原因 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/46.html </link>
+<description>Sun为什么会搞出一个JSF，JSF为什么会是现在这个样子，我想原因是这样的: 首先，基于组件的Web开发将来会是一个趋势。自包含的组件便于IDE的处理，可以提高开发效率。 </description>
+<text>　　Sun为什么会搞出一个JSF，JSF为什么会是现在这个样子，我想原因是这样的: 首先，基于组件的Web开发将来会是一个趋势。自包含的组件便于IDE的处理，可以提高开发效率。 　　就是说JSF优于Struts/WebWork这类MVC框架的优势，在于它可以与IDE结合来自动生成代码。 而传统的纯手工编写的MVC框架，影响了开发效率。 因为Java技术在客户端并没有明显的优势。Applet已经被抛弃掉，Java的强项在服务器端。Sun不可能跑去使用JavaScript，因为在传统开发者眼里，JS只配做一点很琐碎的任务。 　　于是在他们设计的这个架构中，所有的用户事件都放在了服务器端来处理, 这个决策造成了JSF致命的缺点。它把事件处理模型绑死在服务器上，限制了响应性更加灵敏的交互设计。随之而来的网络延迟会毁掉软件的可用性。 这也是Ajax在JSF的架构中无法充分发挥作用的原因。 　　JSF的设计思路有点模仿VB，组件化的开发这个方向是没错的，Ajax开发将来也会走这条路。但是JSF与VB最大的差别是VB的事件模型都是位于本地来处理的。这是一种本质上的差别，所以如果JSF确实想模仿VB，那也是东施效颦。 而且在JSF的设计阶段，同步的请求/响应是主流，他们的思路仍然牢牢束缚在基于页面的开发方式上。根本就没有思考过其他的可能。 　　异步请求/响应是Ajax与传统开发方式最大的差别，异步带来了更好的交互设计。 　　在Ajax in Action第1章中作者举了一个令人信服的例子。Google Maps中当用户滚动地图时，获取新的地图图片，由于是异步请求的，因此不会打断用户的操作流程。 而在传统的地图服务，每次滚动可能都需要刷新页面。 用一下微软的那个地图服务就可以感觉到明显的差距，它甚至根本就不允许用户滚动地图。 　　http://terraserver.microsoft.com/ 　　以前我说Google Maps不是Ajax，因为没有使用XMLHttpRequest，这样说看来理解有些狭隘。 Google Maps请求地图的图片，采用的是修改动态创建的img元素的src属性的方式，这样的请求不会打断用户的操作，因此就是异步的。 我们在Ajax in Action中看到作者将Google Maps当作Ajax应用，而在Pragmatic Ajax中作者说Google Maps不是严格意义上的Ajax，两种说法都有道理。 　　JSF其实如果和Applet结合，可能更好些。Applet是多线程的，可以捕获用户的操作事件，采用异步方式发送到服务器。这样就不会打断用户的操作了。 但是这样一来设计的这个架构就复杂了。而且Applet是已经决定抛弃的东西。 JSF和Java Web Start结合也可以，不过JWS设计用来建造一类完全不同的Web应用，即Rich Client，而不是设计用来建造运行于浏览器之内的RIA应用。 所以JSF最多只是一种过渡方案，在Ajax/Flash的竞争下早已风光不在。 　　未来基于浏览器的RIA开发，Ajax、Flash是两种最有前途的技术。 　　按照泽欣的判断可能是三分天下，Ajax、Flash/Flex/Laszlo、还有M$的Atlas。 Atlas是M$开发的类似于Flash的一种技术，目前还只是一个vaporware，没有看到其庐山真面目。 Java Web Start相比之下只能局限于一些内部应用。 　　将来位于客户端的表现层开发可能会完全没有Java的位置，这是Sun不愿意看到的，但是Sun在这场角逐中只不过是一个小角色。
+              </text>
+<image> </image>
+<keywords>讨论Ajax之所以优于JSF的原因 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>警惕AJAX应用开发中的轻罪和死罪 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/47.html </link>
+<description>AJAX bandwagon是个好去处。它能为您提供更快捷高效，动态更强的应用。但是它也有自己的缺陷。 </description>
+<text>　　AJAX bandwagon是个好去处。它能为您提供更快捷高效，动态更强的应用。但是它也有自己的缺陷。&amp;nbsp; 　　乍看之下，具备一些常识似乎就能够避免这些缺陷，在某种程度上来看，的确如此。但是从AJAX 应用的DHTML起源来看，AJAX应用中充满了结构性的差异。无论您在应用开发工作中掌握了多少常识，学习前人的教训都是有好处的。我们将这些错误称为我们的“七宗死罪”，但是这些错误并不能代表全部的错误。 　　事实上，在您犯下任何一宗死罪之前，您都可能首先犯了一些较为轻微的错误。因此，我们首先从这里着手。以下是每个人都可能会犯的一些错误，这些错误是如此常见，只要用Google搜索一下，就能找到大不部分的错误。 　　七宗轻罪 　　1.滥用后退键-这是每个人都会犯的错误。后退键在很多种Web应用中已然成为用户的期望。很多AJAX开发新手在开发AJAX应用时，出于多种原因都会使用后退键。首先，JavaScript对于它来说不是最友好的语言；其次，AJAX 设计需要一种全新的思考分析。 　　对于AJAX新手来说很难接受“后退”不是最好选择的思路。“后退”是更新页面时，或是在特定情况下进行“撤消”时才需要的功能。在您进行编码时就要认识到，否则您最后可能会重复做功。 　　2.忘记告诉用户当前发生的状况-AJAX的工作原理中一部分就是它不使用通常的网页用户界面加载程序。因此，您需要设计一些可视的提示，使用户能够了解正在发生的状况。 　　3.忘记链接-这也是标准的AJAX错误：漏做了外部用户能够剪切和粘贴的URL链接。我们都曾经复制过某个ＵＲＬ链接然后将其发送给别人。在我们使用AJAX时，只有采用纯手工输入的方式才能把链接提供给他人。为什么？因为在AJAX应用中，服务器不提供在JavaScript自动生成的这个页面。不要忽视您的用户可能感兴趣的这项在网络应用中最为常见的功能。请花点时间为用户提供URL地址，因为服务器并不提供。 　　4.用内容控制替代页面控制-如果您在寻求动态的内容控制，那么AJAX应用对传统的客户端服务器交互方式的突破对您来说可算一份大礼。但是，这样同时也会招来祸端：在重写页面上某精确位置上的内容以调整用户的交互体验时的确能够进行很好的控制，但是这可能将使您的页面不再完整。 　　在很多情况下，我们专注于处理页面的某个部分，会忘记服务器不会刷新页面。这样可能导致页面零乱，使用户体验降低：当他们查看页面时看的可能是过时的页面。请关注整个页面；确保任何出现动态内容的页面都得到更新。 　　5.累死蜘蛛-AJAX的优势在于无需重装就可以提供给页面的大量文本；AJAX的缺陷也在于那些无需重装就可以提供给页面的大量文本。如果应用被设计为对搜索引擎友好，那么您应该能够想到会出现什么状况。无论页面中出现了什么情况，请务必在最上面植入大量稳定的文本，让蜘蛛们去玩吧。 　　6.导致乱码文本-AJAX不能支持多种字符集。这并不是什么涉及生死的局限性，但是如果忘记这点可能会导致真正的问题发生。最基本的字符集是UTF-8。无论JavaScript发送的是什么字符集，请不要忘了正确编码，并根据内容设置服务器端的字符集。　　 　　7.没有为使用不支持JavaScript的浏览器的用户提供提示。有些浏览器不支持JavaScript，这些用户一时不能明白出了什么状况。请给他们一些提示。 　　以上都是一些很容易发现的错误。真正的问题都是容易被人忽视的。　　 　　AJAX七宗死罪 　　1.造成内存泄露-任何长期从事开发工作的人都知道什么是循环引用，并了解循环引用给内存管理带来的危害。AJAX 所使用的JavaScript是一种内存管理语言。也就是说JavaScript具有内置的信息包收集功能，因此能够抽取不再有引用路径使用的变量并重新分配这些变量所使用的内存。 　　作为基本工作原理来说，这样并无不妥；但是在模型层对象与查看元素之间互相引用时，由于这些循环引用，您就不能依靠这个功能来实现内存使用的最优化。从原则上来说，对象为零，则元素为零。但是如果这是从元素到对象的向后引用，那么信息包搜集器不会动这些对象。 　　现在，问题出来了：在文件对象模型中，任何文件树中的DOM节点都可能被树中存在的其他元素引用，而无论其是否被其他对象所引用！因此，任何在信息包收集器中经过标注的被ＤＯＭ节点向后引用的对象在这一方向上都必须为零，否则它的内存就会一直处于已分配状态。 　　2.不了解“异步”的含义-异步这个词很容易让不熟悉它的用户感到紧张。但是如果您为这些用户所设计的网页应用属于桌面应用，那么他们肯定不会感到不安。这是一个致关重要的设计点。大部分网页应用功能与桌面副本非常类似。但是在网页应用中，用户期望这种虚幻的特征导致他们截然不同。 　　用户在与网页浏览器打交道时会带有非常不同的偏见和期望，而对于桌面应用中他们并没有这样的行为。因此，尽管页面与服务器之间频繁的响应会非常好，非常高效，页面能够同时对自身进行修订，但是这将会使用户头晕眼花。因此，您需要遵守两条守则，要考虑到进入用户视觉范围内的每个变化：如果对于用户来说不是很迫切的更新，那么要使升级更为温和，不会转移；如果更新对于用户与应用的交互非常重要，那么更新要清楚而明显。 　　3.使服务器变成瞎子-用户端与服务器交流的减少是一大问题，而以前并非如此。在以前，服务器端的应用了解全部情况并且能够看到全部状况：每个例外，每次重新加载，每个事件多能被看到并记录下来，当然服务器也道到底客户端是什么状况，因为服务器会记录下屏幕上显示的一起。 　　在AJAX应用中可不是这样。当有事件发生时，这些事件是与服务器相互独立的，也就是说，当客户端出现问题时，服务器端并不会马上知道。在某个位置发现和记录客户端发生的事件以及例外，使服务器能够追踪需要干涉的问题 　　4.用GET偷懒-GET的作用是找回数据；POST的作用是对ＧＥＴ进行设置。不要在不适当的时候使用GET,即使你认为这样做没有危害也不要尝试。GET的动作会改变状态，会改变状态的链接会使用户感到困惑；大部分都认为链接的作用是导航，而不是功能。 　　5.数据类型不兼容-JavaScript并非.NET 框架中的一部分。尽管这有点让人伤心，但是它的确为我们展示了一个我们可能会碰到的问题：确认JavaScript能够理解其运行平台上的数据类型，反之，对于.NET或其它也是如此。可能会有多种转换，您需要一一进行。例如，Ajax　.NET Pro 资料库提供能够转换.NET和JavaScript对象符号的转换器。 　　6.有些应用不知何时应该关闭-无需刷新页面的内容动态生成如果没有关闭时间将会非常糟糕。How many Web pages hav你见过多少比美国国会议事录还长的网页？如果网页无限延长无疑会是用户的噩梦，只要想想用户会怎么看待永不停止的应用就知道了。让您的网络应用具有动态，但是一定要在可行的限度之内。 　　7.JavaScript和DOM相互独立-请记住AJAX是建立在“模型－视觉－控制器”（Model-View-Controller）结构之上，请认真对待这点。JavaScript属于模型层，DOM属于视觉层，而控制器是衔接他们的婚姻顾问。请确保您的网络文件独立于JavaScript之外(这样对于不支持JavaScript的用户比较有用) – 除非内容自身只在用户使用JavaScript才有意义。在这种情况下，用JavaScript来创建内容。 
+              </text>
+<image> </image>
+<keywords>警惕AJAX应用开发中的轻罪和死罪 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>如何用jQuery简化JavaScript开发 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/48.html </link>
+<description>jQuery是我最近发现的一个新工具。jQuery开发团队形容jQuery是“一个快捷、简练的JavaScript库，它可以简化HTML文档检查、事件处理、动画执行、并给你的Web页面增加AJAX交互。” </description>
+<text>我总是乐于尝试新工具或利用节省开发时间的资源。由于市面上存在有许多Web开发工具，你可能很难缩小搜索范围。是我最近发现的一个新工具。形容jQuery是“一个快捷、简练的JavaScript库，它可以简化HTML文档检查、事件处理、动画执行、并给你的Web页面增加AJAX交互。”jQuery初步你可以jQuery的最新版本。它由一个明确定义的脚本文件构成，因此你可以随意研究它的源代码。下载JavaScript文件后，你就可以把它放在Web服务器中准备使用。你可以用HTML SCRIPT元素把jQuery库加载到任何Web页面中。src属性应利用文件在服务器中的真实路径。下载文件后，以下的一些任务会对你使用jQuery有所帮助。编码基础以下是使用jQuery编码时用到的一些指针：jQuery代码块前为美元符号（$）。 美元符号后是一个左圆括号。 括号内是你要jQuery查找的内容，如它应使用哪个元素。 特定对象事件后为右圆括号。 你可以用指定的事件定义所发生的操作。方法/事件后的括号内是一个说明发生事件时会出现什么操作的函数。 在举例说明之前，我想介绍jQuery库的一个最有益的基础元素。JQuery利用的一切功能全都位于中，因此在你使用jQuery的特性之前，你必须加载这个文档。你可以用这个文档的ready事件完成上述操作，如下面的jQuery代码段所示：$(document).ready(function() {// Your code goes here});上面的简单jQuery代码允许你在文档完成加载后执行代码。列表A是它的一个应用实例，它对页面上的所有标题元素应用一个CSS类。
+Test
+
+
+$(document).ready(function(){
+$('h1').addClass(&quot;testclass&quot;);});
+
+
+.testclass { background: yellow; font-size: 20pt; }
+
+
+
+Test
+test
+Test2
+test2
+这段代码中包含以下元素：$(document).ready(function(){——在页面完全加载后，告诉页面执行（函数主体内）的代码。 $('h1').addClass(&quot;testclass&quot;);});——定位页面上的所有HTML H1元素。addClass方法将所有的testclass CSS类分配给H1元素。这个类设定一个黄色背景色，因此所有标题都为黄色背景。 jQuery文档还简单说明了许多其它事件属性和函数，并介绍它们的用法。列表B中的简单代码实例说明如何给一个超链接点击事件进行编码。选择超链接时，在用户转换到链接目标前显示一个警告窗口。只有在页面内容全部加载以后，这时才再次使用ready函数来定义点击事件。
+              </text>
+<image> </image>
+<keywords>如何用jQuery简化JavaScript开发 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>使用mashups可能会给用户带来不好体验 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/49.html </link>
+<description>最近，老板在我们公司使用了一种网络内容过滤设备。至今为止，他们对该设备进行了良好的设置。在使用我的办公用计算机浏览网页时，经过该设备进行了网页内容过滤的Web世界就大为不同了。 </description>
+<text>最近，老板在我们公司使用了一种网络内容过滤设备。至今为止，他们对该设备进行了良好的设置。在使用我的办公用计算机浏览网页时，经过该设备进行了网页内容过滤的Web世界就大为不同了。Mashups仅是合并的开始，像链接或将其它网站的内容嵌入到你的网站中。这样的事情被人们认为是一种粗鲁的行为，不是一个业务模型。现在，幸亏有了新的WCF设备来代替，我不再需要访问以前日常工作中可能需要浏览的一些技术和业务相关网站。问题并不在网站本身，也不在网站上的内容，甚至也不是因为我访问的网站与我的工作没有直接的关系。问题是这些网站常常将YouTube网站的视频信息嵌入到它们的内容中。我知道WCF设备确实记录和监控用户访问过的网站，即使这个网站未被列入黑名单。我也知道它会对这些记录输出报告，以发现那些网站比较有价值或者那些网站对工作没有多少帮助。这很好，我担心的问题是，如果他们决定对嵌入了YouTube视频信息的网站开启一些警告如“嘿，该用户经常试图访问受限制或标记的内容！”等，那么其它的mashups就会使用困难。我不使用Mashup还有另外的原因。我以前已经从两个不同的角度介绍过这个方面的内容。在“”中讨论了为什么我认为mashups是一个不好的想法的原因。在“”一文中，我们为大家介绍了对“便利”数据的误用可能会将安全应用转变成职业杀手的问题。在将某些内容放到YouTube、Flikr或其它类似网站上时，大多数开发人员或Web设计人员最不希望的事是他们可能给用户带来麻烦。正好相反，他们说“看，很好，我可以将这个有用的视频信息放到YouTube上，它不会堵塞网络带宽，我的网站运行速度很快，YouTube播放器很好用，它能很好的与我的网站结合。”这些都是真话。但是另一个事实是，当用户登录你的网站浏览与工作相关的Web页面时，用户所在的公司可能会将此访问记录为访问一个未授权的或不合适的网站，这不是用户所希望的。结果，眼光敏锐的用户可能会开始拒绝访问这些与工作相关的站点。当他们对感兴趣的信息来源逐渐减少访问时，那么可以肯定地是他们日常访问也会相应减少。我始终认为对来自域外面的内容应该清楚的标记为外部链接，这将十分有用。这样如果用户想在一个新窗口中打开一个网站时，他们可以做出决定能否打开，从而可以保留他们对你的网站兴趣。如果网站中存在用户不感兴趣的内容或该内容来自用户不希望访问站点，这将有助于确保他们可以得到一个全面的选项。总之，清晰的标记外部内容（或者通过链接内容或者通过链接图标）对你的网站和用户是一种双赢的方法。我的观点是不要对网站内容进行拼接。总的来说，这不是一个很好的策略。设计一个自己的类似系统，或者为了播放来自服务器的内容嵌入一个Flash播放器，或插入一个标准多媒体插件，这都不是很困难。如果你的带宽不足以提供这些内容，那么你可能需要考虑实际可以添加多大数据量的视频、音频剪辑或任何其它内容。一旦将你的内容放在其它地方结果将会很糟糕，它可能会被添加了一些广告或其它东西。这将会给用户带来大量麻烦。
+              </text>
+<image> </image>
+<keywords>使用mashups可能会给用户带来不 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>如何用JavaScript实现旋转木马 </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/50.html </link>
+<description>Flash动画可以让Web网站看起来很漂亮，但是由于各种原因不是每个人都会在自己的客户端浏览器上安装Flash播放器。如果你或者你的用户不幸安装了64位的Linux发行版，或者你痛恨在自己的Web页面上放动画，那么你就不得不面对没有Flash动画的情况了。 </description>
+<text>Flash动画可以让Web网站看起来很漂亮，但是由于各种原因不是每个人都会在自己的客户端浏览器上安装Flash播放器。如果你或者你的用户不幸安装了64位的Linux发行版，或者你痛恨在自己的Web页面上放动画，那么你就不得不面对没有Flash动画的情况了。在本文里，我将告诉你如何用JavaScript实现一个可用性更高的旋转木马（carousel）而弃用Flash。JavaScript——两害相交取其轻在本文里，我不准备去争论为什么要开发一个旋转木马，而是要接受我们不得不去开发的事实。那么问题就来了：为什么要使用JavaSript而不是Flash？它要比Flash的实现更加轻巧——通过优化代码，我们只需要几千字节就能够获得一个可以使用的旋转木马，加载图片所需要的时间要比HTML和JavaScript的长。 可维护性是另外一个原因。很多开发人员都知道JavaScript在可维护性上要胜Flash一筹。也许你没有（足够的）设计资源来创建一个功能完整的Flash实现，所以如果将它突然留给开发人员，这就意味着JavaScript是一个可行的替代方案。 降级。在禁用JavaScript的情况下将有用的内容发送给用户要比在禁用Flash的情况下容易得多。 可访问性。用屏幕阅读器浏览旋转木马要比浏览Flash对象更容易。 Google。如果你的内容是在页面中的，Google就能够搜索到它；如果它在Flash中，而且页面中没有隐藏旋转木马的话，那么Googlebot就无法找到链接。HTML基础知道了这些原因，就让我们从将要在本文中用到的四个内容开始创建旋转木马吧。Secure IISLog files are essential to reconstruct events before an IIS Web server failure. Learn how to protect your log files with this tip.Full storyUser Group MashFind an Aussie user group near you with our new Google maps interface.Full story.NET 101Learn how the .NET Framework works and the tools you'll need to get up and running in this quick start guide.Full storyUnderstand CSSBefore diving into CSS learn some of the core drivers and concepts.Full story这个时候蒙娜丽莎对我们还没有用。现在让我们向这些div加入一些样式，让它看起来更像我们所知道的旋转木马：.storydiv {height:182px;width:355px;padding-left:175px;top:0px;left:0px;}#story1 {background:url(http://www.builderau.com.au/i/s/cov/securitychain170110.gif) no-repeat;}#story2 {background:url(http://www.builderau.com.au/i/s/cov/browser170110.jpg) no-repeat;}#story3 {background:url(http://www.builderau.com.au/i/s/cov/dotnet170110.gif) no-repeat;}#story4 {background:url(http://www.builderau.com.au/i/s/cov/tools170110.jpg) no-repeat;}.storyDesc{padding-top: 10px; padding-right: 8px;display:block;}.fStory {padding-top: 10px;display:block;font-weight:bold;}&amp;nbsp;Secure IISLog files are essential to reconstruct events before an IIS Web server failure. Learn how to protect your log files with this tip.Full storyUser Group MashFind an Aussie user group near you with our new Google maps interface.Full story.NET 101Learn how the .NET Framework works and the tools you'll need to get up and running in this quick start guide.Full storyUnderstand CSSBefore diving into CSS learnsome of the core drivers and concepts.&amp;nbsp;Full story&amp;nbsp;
+              </text>
+<image> </image>
+<keywords>如何用JavaScript实现旋转木马 </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>设计与应用JavaScript对象符号JSON </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/51.html </link>
+<description>XML是作为一种数据交换工具开发并推出的，但并不是所有开发者都支持这一工具。实际上一些开发者选择开发其它工具。JSON（JavaScript对象符号）就是其中之一。在本文中，我们来详细了解一下JSON的设计与应用。 </description>
+<text>XML是作为一种数据交换工具开发并推出的，但并不是所有开发者都支持这一工具。实际上一些开发者选择开发其它工具。（JavaScript对象符号）就是其中之一。在本文中，我们来详细了解一下JSON的设计与应用。 JSON简介JSON是一种用JavaScript对象符号格式化文本的简单方法。与其它更为流行的面向对象设计技术不同的是，人们经常称它为面向数据工具。由于它使用编程结构，因此易于为人与机器进行阅读。JSON旨在传送基于文本的数据，所以它不支持任何类型的二进制对象。基本上，它支持两种类型的数据结构：名称/值对集合（如对象）和有序数值列表（如数组）。下面的列表详细说明了JSON支持的数据元素：Objects（对象）：以大括号（ {}）开始并结束的对象。 Object members（对象成员）：由以冒号（：）分隔的字符串和值组成的元素。成员之间用逗号（，）隔开。 Arrays（数组）：数据用大括号定义。也就是说，它们以大括号（{}）开始并结束。数组由值构成，这些值位于大括号之中，不同值之间以逗号隔开。 Values（值）：单独的值可能为字符串、数字、对象、或一个文字值，如真、假和零。字符串值位于双引号中，可能包含Unicode字符和反斜扛或转义字符。字符是一个单独的字符串。 简单是JSON的一个主要优势——它比与之对应的XML要简单得多。用一个显示JSON数据语法和格式化的例子就能清楚证明这一点。下面的代码片断使用JSON来建立一个网址数组：{&quot;websites&quot;:[&quot;http://www.techrepublic.com/&quot;,&quot;http://www.cnet.com/&quot;,http://www.news.com/] }要用XML方便地定义同样的数据，可能相当困难。为何不使用XML？XML是一个优秀的数据工具。它允许你建立标签等符号来描述任何类型任何数量的数据。另外，它还是IT业的知名标准。另一方面，对许多任务来说，XML的功能可能过于强大，并会增加许多额外的开销。而且，不管它建立起来多么方便，（人类）却无法阅读这些代码。让我们用XML格式化前面的例子：http://www.techrepublic.com/http://www.cnet.com/http://www.news.com/你可能认为这两个例子之间没有太大的差别。但是，在XML中要传送的字符数量几乎增加了一倍。对一个简单的例子而言，这可能不是一个大问题。但让我们看看下面的一个更加复杂的JSON实例：
+              </text>
+<image> </image>
+<keywords>设计与应用JavaScript对象符号JS </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>完全了解AJAX </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/52.html </link>
+<description>尽管AJAX是个相对新生的术语，但其背后的技术却并不新颖。我们从基础开始认识AJAX，一种颠覆性的技术，其改变了Web应用程序的开发和应用方式，使得交互性页面和网站处于目前网络潮流的最前沿。 </description>
+<text>尽管AJAX是个相对新生的术语，但其背后的技术却并不新颖。随着XMLHttpRequest对象在大多数浏览器中的实现，以及GMail和Google Maps的出现激发了软件开发者重新考虑如何构建网页的灵感。我们从基础开始认识AJAX，一种颠覆性的技术，其改变了Web应用程序的开发和应用方式，使得交互性页面和网站处于目前网络潮流的最前沿。当请求被发送到浏览器后，其所具有的改变网页内容的功能已经存在许多年了-使用javascript脚本改变iframe's src属性是技术之一。XMLHttpRequest对象XMLHttpRequest对象使AJAX的出现成为可能，它产生异步请求，并决定如何处理结果。在大多数浏览器中，我们使用如下代码来创建对象：var xmlhttp = false;try {xmlhttp = new XMLHttpRequest();} catch (e) {alert(&quot;cannot create object&quot;);}不幸的是，上文中所提到的“大多数浏览器”并不包括IE,因此对于微软的浏览器，我们需要采用一种特殊的方法创建对象。值得注意的是，根据MSXML解析器的不同版本，需要分别编写两种代码。var xmlhttp = false;try {xmlhttp = new ActiveXObject(&quot;Msxml2.XMLHTTP&quot;);} catch (othermicrosoft) {try {xmlhttp = new ActiveXObject(&quot;Microsoft.XMLHTTP&quot;);} catch (failed) {xmlhttp = false;}因此，结合上述两个代码片段，我们得到了以下适合所有主流浏览器创建XMLHttpRequest对象的代码：var xmlhttp = false;try {xmlhttp = new XMLHttpRequest();} catch (trymicrosoft) {try {xmlhttp = new ActiveXObject(&quot;Msxml2.XMLHTTP&quot;);} catch (othermicrosoft) {try {xmlhttp = new ActiveXObject(&quot;Microsoft.XMLHTTP&quot;);} catch (failed) {xmlhttp = false;}}}
+              </text>
+<image> </image>
+<keywords>完全了解AJAX </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>用Mozilla免费调试器调试JavaScript </title>
+<link>http://365news.com/a/webbase/javascript-ajax/2010/0407/53.html </link>
+<description>编程错误是生活中的严酷事实，但你不应在追踪这些错误的同时捶胸顿足。更加稳定的语言，如Java和.NET系统语言提供简化问题追踪过程的开发环境。 </description>
+<text>编程错误是生活中的严酷事实，但你不应在追踪这些错误的同时捶胸顿足。更加稳定的语言，如Java和.NET系统语言提供简化问题追踪过程的开发环境。JavaScript开发者拥有较少的选项，但提供你所需的一切功能。（Venkman是这个调试器的代号。）Venkman JavaScript调试器这个调试器的前身为Netscape的JavaScript调试器，它是Mozilla的一个附加产品。Venkman JavaScript调试器既是一个图形，也是一个控制台调试器。下载并安装Venkman JavaScript调试器后，就可以通过“工具|Web开发|JavaScript调试器”菜单启动它。这个附加产品允许你查看和调试位于源文件或网页中的JavaScript。它提供以下特性：断点管理：断点允许你在源代码的特定位置终止代码执行。你可以在这个工具内设置和清除断点，这允许你在调试时轻松控制程序流程。双击断点打开与之对应的文件，断点行也会高亮显示。 调用堆栈检查：通过这个特性可粗略了解脚本运行时调用了哪些内容。双击调用堆栈中的一个项目，打开它包含的文件，突出显示与调用堆栈中项目对应的行。 变量/对象检查：这个特性允许你在执行脚本时查看变量和对象的值。 查看源代码：调试器界面的脚本视图允许你查看被调试的JavaScript代码。 执行JavaScript代码：你可以在调试器中输入并运行自己的JavaScript代码。 调用堆栈、打开文件和变量/对象视图以树状显示。任何旁边有扭曲图标的项目都包含子对象，可以打开扭曲图标查看这些子对象。工具栏内包含表示基本调试特性的按钮，包括：终止：停止执行当前脚本，只有在脚本运行时有效。 继续：允许你在用断点终止脚本执行后恢复脚本运行。 跳过：允许你跳过一个函数调用。只有在逐行遍历一段代码时它才有用；调用时它允许你跳过一个函数的代码。函数调用继续，你接着运行被调用函数之后的代码。 跳进：一次运行一个语句。遍历一个语句后，你可以在其它调试窗口中看到它的效果。而且，当你调用函数时，它允许你进入这个函数内。 跳出：执行当前函数的剩余部分，执行在调用它的那一行终止。（只有使用Step Into，转入被调用的函数执行时它才有效。） 剖析：激活或禁用当前运行脚本的代码剖析。 用Venkman JavaScript调试器调试一个文件用Firefox和Venkman JavaScript调试器调试JavaScript代码相当简单。首先，你将要调试的页面加载到Firefox中。之后，通过工具菜单启动调试器，打开调试器后，当前页面即位于文件列表中。你可以在文件列表中导航页面，双击打开和查看它包含的文件，其中包括加载到页面中的JavaSrcipt文件。你可以双击JavaSrcipt文件查看它的源代码，并对其使用调试器特性。例如，你可以设置断点，返回浏览器窗口并与页面交互，触发JavaSrcipt执行，并在遇到断点时停止执行。这时，你可以通过调试器选项（跳进、跳过等）继续执行代码，同时监控变量和对象。调试器的另一个显著特点是你可以对代码进行剖析，找出低效的代码。用Venkman JavaScript调试器剖析代码Venkman JavaScript调试器的剖析特性允许你监控代码执行，追踪存在低效代码的瓶颈。剖析下拉菜单允许你打开收集、清除剖析数据和保存剖析数据。剖析文件可以保存为HTML、XML、文本或逗号分隔的文件。下面的代码中包含一部分通过剖析特性收集到的样本数据。它包括源文件名和执行时间窗口、所使用函数的名称（包括源代码行号）、运行时调用函数的总次数、以及执行总时间。prototype.js: 750 - 2500 millisecondsFunction Name: [from] (Lines 489 - 498)Total Calls: 2 (max recurse 0)Total Time: 2359.38 (min/max/avg 0/2359.38/1179.69)Time (ex. calls): 2359.38 (min/max/avg 0/2359.38/1179.69)剖析数据允许你查出可能对代码的性能造成负面影响的代码和函数。用Venkman JavaScript调试器追踪问题JavaScript开发者需要Mozilla Venkman JavaScript调试器。该插件允许你轻松地遍历代码执行、监控变量和对象、并定位任何可能给性能造成负面影响的代码。价格标签是Venkman JavaScript调试器的最佳特性——你可以在各种版本的基于Mozilla的浏览器（如Firefox）中免费使用这一特性。作为一名资深开发者，我喜爱这个调试器，因为它显著简化了JavaScript代码调试工作。Tony Patton拥有丰富的Java、VB、Lotus及XML认证方面的知识，是一个专业的应用程序开发人员。
+              </text>
+<image> </image>
+<keywords>用Mozilla免费调试器调试JavaScr </keywords>
+<category>Javascript/Ajax </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:36 </pubDate>
+</item>
+<item>
+<title>5种方法立刻写出更好的CSS代码 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/21.html </link>
+<description>当然，每个人都可以编写CSS代码，甚至你现在已经让它为你的项目工作了。但是CSS还可以更好吗？开始用这5个Tips改进你的CSS吧！ 1.重置 首先，很认真的告诉你， 总是要重置某些分类 。无论你是使用 Eric Meyer Reset 、 YUI Reset 或者你自己编写的重置代码， </description>
+<text>当然，每个人都可以编写CSS代码，甚至你现在已经让它为你的项目工作了。但是CSS还可以更好吗？开始用这5个Tips改进你的CSS吧！
+1.重置
+首先，很认真的告诉你，总是要重置某些分类。无论你是使用 、或者你自己编写的重置代码，只要使用就对了。
+它能很简单的移除所有元素的填充（padding）和边距（margin）：
+
+    html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote,
+    pre, form, fieldset, table, th, td { margin: 0; padding: 0; }
+
+Eric Meyer Reset和YUI Reset都是非常强大的，但是对于我而言，它们走的太远了。我觉得你最终需要重置一切，然后重新定义所有元素的属性。这就是为什么Eric Meyer推荐更有效的使用（重置样式表），而你不要只是使用他的重置样式表，将它拖放到你的项目中。调整它（的重置样式表），建立属于自己的重置样式 表。
+噢，请停止使用：
+* { margin: 0; padding: 0; }
+花更多的时间去制作它，当你移除了填充（padding）你认为单选按钮会发生什么变化？表单元素有时能够做些时髦的事情，所以最有效的方式就是将他们独立。
+2.排序
+一个小的测试
+这个例子就是要让你思考如何更快的找到右边距属性？
+Example#1
+
+div#header h1 {
+z-index: 101;
+color: #000;
+position: relative;
+line-height: 24px;
+margin-right: 48px;
+border-bottom: 1px solid #dedede;
+font-size: 18px;
+}
+
+Example#2
+
+div#header h1 {
+border-bottom: 1px solid #dedede;
+color: #000;
+font-size: 18px;
+line-height: 24px;
+margin-right: 48px;
+position: relative;
+z-index: 101;
+}
+
+你不能告诉我Example#2不能更快的找到右边距属性。根据字母排序你的元素属性。一致的创建你的CSS，将帮助你节省花费在寻找一个特殊属性的时间。
+我知道一些人用这样的方法去组织代码，其他人又用另一种方法去组织，但是在我的公司，我们协商一致做出决定，所有的代码都将按照字母排序来组织。通过这样组织代码与其他人协同工作一定是有帮助的。当我碰到属性没有按照字母排序的层叠样式表我每一次都会退缩。
+3.组织
+你应该组织你的样式表以致相关的内容靠在一起，更简单的找到想要的。使用更有效的注解。举个例子，这是我如何构造我的层叠样式表：
+/*****Reset*****/
+移除元素的填充（padding）和边距（margin）。
+/*****Basic Elements*****/
+定义基本元素的样式: body, h1-h6, ul, ol, a, p, 等.
+/*****Generic Classes*****/
+定义简单的风格，好像浮动的某一侧, 移除元素的下边距, 等当然，它们大部分都与我们希望的语义不相关,但是它们是高效处理代码所必须的。
+/*****Basic Layout*****/
+定义基本的模板: header, footer等. 帮助定义网页布局的基本元素
+/*****Header*****/
+定义所有Hearder元素
+/*****Content*****/
+定义所有内容框内的元素
+/*****Footer*****/
+定义所有Footer的元素
+/*****Etc*****/
+定义其他的选择器。通过注解和归类相似元素的分组，将更快的找到你想要的。
+4.一致性
+无论你决定使用什么方式去编写代码，保持一致。我已经对全部放在1行VS多行的CSS编写编写方式的争论感到乏味和疲倦。这是不需要争辩的。每个人都有自己的观点，所以选择一种你喜欢的工作方式，并在所有的样式表中保持一致。
+就我个人而言，我将使用两者结合的方式。如果一个选择器超过了3个属性，我将截断它采用多行的方式编写。
+
+div#header { float: left; width: 100%; }
+div#header div.column {
+border-right: 1px solid #ccc;
+float: rightright;
+margin-right: 50px;
+padding: 10px;
+width: 300px;
+}
+div#header h1 { float: left; position: relative; width: 250px; }
+
+所以找到你喜欢的工作方式然后保持一致。
+5.从正确的地方开始
+在完成标记语言之前不要去尝试靠近你的样式表。
+当我准备分割一张网页的时候，创建CSS文件之前，我需要预览并且标记body开标签到body的闭合标签之间的所有文档。我不会增加额外的DIV ,ID,或者类选择器。我将会添加一些一般的DIV，就好像hearder、content、footer.因为我知道这些东西是现实存在的。
+通过先标记文档，你将不会碰到本已注定的divities1和classitis2麻烦!/*You only need to add in that stuff once you have begun to write the CSS and realize that you are going to need another hook to accomplish what you are trying to achieve.*/(原文未译）。
+利用CSS子选择器指定子元素；不要只是机械的给元素添加类或者ID选择器。记住：没有一个良好的格式化文档（或者标记结构）CSS是无价值的。
+总结
+这些Tips能够帮助我更好的完成CSS代码的编写。但是这并不意味着这张列表的结束，接下来我将会去带来一些其他的与大家分享。
+你有什么更好的Tips帮助我们完善CSS代码？
+              </text>
+<image> </image>
+<keywords>代码,更好,立刻,方法,元素,CSS, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>看看你是哪个等级的CSS开发人员 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/22.html </link>
+<description>CSS? Isn </description>
+<text>CSS? Isn't that a multiplayer game?
+第0级：CSS？那不是一个多人射击游戏吗？
+有些人因为在找CS:S（Counter Strike: Source）这款游戏的资讯而进到#CSS网站。不必担心这些人，他们不可能制作太多网页，所以对网络也不会造成多大伤害。
+Yeah, I use it to remove underlines on links sometimes
+第1级：是啊，我偶尔用它来移除连结的底线
+和第0级的人不同，这些人学过HTML，也制作过几个简单的网站。他们只有在无法使用HTML制作出某些效果时，才会使用CSS，例如移除连结的底线或者设定行高。这些人的网站通常规模不大也没什么访客，所以他们也不会对网络造成太大伤害。
+No, I don't like divs; tables are much easier to work with
+第2级：不，我不喜欢div元素；表格好用多了
+他们听过使用div元素来设计网页这件事，也花了些时间学习CSS。不过他们很快就放弃了，觉得CSS太难而且支持度不佳，还是宁可用表格排版。
+注意！他们是危险人物！他们在这个领域已经待了一段时间，许多都是网站部门的主管。和他们接触是很重要的，提倡网络标准的人应该多多开导他们，这对网络的意义非同小可。
+Yes I've heard it's good, but I can’t use it because of…
+第3级：是啊，听说它挺好的，不过我没用它因为……
+这些人虽然知道CSS的优点，不过总是基于某些原因而无法使用它，例如他们可能有第2级的上司，或者他们必须考虑到Netscape 4的使用者。
+旧 版的浏览器虽然不支持CSS，不过使用者还是可以看见完整的内容。而基于亲和力（accessibility）和易用性（usability）的好 处，CSS可以为网站带来更多访客。把这些优点告诉第3级的开发人员，即使他们不是决策者，或许多少能对第2级的上司发挥点影响力吧。
+CSS? Oh! Yes, I use divs for all my layouts
+第4级：CSS？喔！没错，我用div元素来排版
+在 页面中使用过多的div元素反而是这群人的问题，他们会用#toprightredline或是#r5_c7（表示第5列第7栏）这样的方式设定div元 素的id。即使可以通过XHTML 1.1的验证，这种排版方式却无法发挥CSS的优势。荧幕朗读软体（screen readers，视障者使用的浏览器）很难解译这些网页，旧版浏览器也会有同样的问题，网页的内容无法完整显示。而不良的class与id命名方式，也对 于版面的修改造成极大不便。
+虽然第4级的人制作的网站仍然很糟，不过由于他们很容易接受新的观念，因此对网络造成的伤害较小。许多所见即所得（WYSIWYG）的编辑器制作出充满div元素的原始码，可能也是误导这群人的原因。幸好这些编辑器已经逐渐改良了，希望这会有助于第4级的人继续往上提升。
+I use CSS for design, it's better than tables because of…
+第5级：我用CSS来设计，这比表格好多了，因为……
+第5级的人知道CSS的优点并乐于使用，虽然有时会遇到些问题，但并不严重。他们也能运用长期的CSS工作经验，与人辩论为什么要将网页的结构与设计分开。我猜这篇文章大部分的读者是这一级的CSS开发人员，我想我自己也是。不过这还不是最好的……
+What version of CSS? Yes, I do. Did you read my book about…
+第6级：哪个版本的CSS？是的，我知道啊。你有读过我的书关于……
+第 6级的人致力于改良CSS，并且写了许多很棒的文章介绍它的新用法。其中有些人将W3C关于CSS的说明文件全部读完了，并且知道哪些功能在哪个版本的浏 览器才有支持。他们是CSS初学者的典范，并且运用他们的影响力使网络更加进步。其中有许多人组成了Web Standards Project，如果你在他们的网站上面发现任何错误，那一定是有理由的，向他们请教之后你必能获得满意的解答。
+
+              </text>
+<image> </image>
+<keywords>开发,人员,等级,哪个,看看,CSS, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>img图片元素下多余空白解决方案 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/23.html </link>
+<description>在进行页面的DIV+CSS排版时，遇到IE6（当然有时Firefox下也会偶遇）浏览器中的图片元素img下出现多余空白的问题绝对是常见的对於 该问题的解决方法也是「见机行事」，根据原因的不同要用不同的解决方法，这里把解决直接把解决image图片布局下边的多余空隙的B </description>
+<text>　　在进行页面的DIV+CSS排版时，遇到IE6（当然有时Firefox下也会偶遇）浏览器中的图片元素img下出现多余空白的问题绝对是常见的对於 该问题的解决方法也是「见机行事」，根据原因的不同要用不同的解决方法，这里把解决直接把解决image图片布局下边的多余空隙的BUG的常用方法归纳， 供大家参考。
+1、将图片转换为块级对像
+即，设置img为：
+display:block;
+在本例中添加一组CSS代码：
+#sub img {display:block;}
+2、设置图片的垂直对齐方式
+即设置图片的vertical-align属性为「top，text-top，bottom，text-bottom」也可以解决。如本例中增加一组CSS代码：
+#sub img {vertical-align:top;}
+3、设置父对象的文字大小为0px
+即，在#sub中添加一行：
+font-size:0;
+可以解决问题。但这也引发了新的问题，在父对像中的文字都无法显示。就算文字部分被子对像括起来，设置子对像文字大小依然可以显示，但在CSS效验的时候会提示文字过小的错误。
+4、改变父对象的属性
+如果父对象的宽、高固定，图片大小随父对像而定，那麽可以设置：
+overflow:hidden;
+来解决。如本例中可以向#sub中添加以下代码：
+width:88px;height:31px;overflow:hidden;
+5、设置图片的浮动属性
+即在本例中增加一行CSS代码：
+#sub img {float:left;}
+如果要实现图文混排，这种方法是很好的选择。
+6、取消图片标签和其父对象的最後一个结束标签之间的空格。
+这个方法要强调下，在实际开发中该方法可能会出乱子，因为在写代码的时候为了让代码更体现语义和层次清晰，难免要通过IDE提供代码缩进显示，这必然 会让标签和其他标签换行显示，比如说DW的「套用源格式」命令。所以说这个方法可以供我们了解出现BUG的一种情况，具体解决方案的还得各位见招拆招了。
+              </text>
+<image> </image>
+<keywords>空白,解决方案,元素,图片,方法, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>30个基于CSS的导航和按钮优秀设计教程 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/24.html </link>
+<description>在当今标准的Web设计中，CSS是最重要的组成部分。为了让大家更好的理解如何通过CSS来设计，彬Go为大家收集了30个基于CSS的导航菜单 和按钮的CSS设计教程，通过这些教程，您可以在您今后的项目中更方便的直接使用或参考，当然也可以用作平时的实践练习。希望 </description>
+<text>副标题#e#
+           &amp;nbsp;
+
+
+在当今标准的Web设计中，CSS是最重要的组成部分。为了让大家更好的理解如何通过CSS来设计，彬Go为大家收集了30个基于CSS的导航菜单 和按钮的CSS设计教程，通过这些教程，您可以在您今后的项目中更方便的直接使用或参考，当然也可以用作平时的实践练习。希望大家能从中学到些什么。
+CSS导航及菜单教程
+01.
+
+02.
+
+03.
+
+04.
+
+05.
+
+06.
+
+07.
+
+08.
+
+09.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14. 
+
+15.
+
+
+             
+          
+        
+        #p#副标题#e#
+CSS按钮教程
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+
+
+28.
+
+29.
+
+30.
+
+英文原文:
+翻译原文:(暴风彬彬)
+
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F603910L60-12363_lit.jpg </image>
+<keywords>设计,教程,优秀,按钮,导航,基于, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>精选30个优秀的CSS技术和实例 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/25.html </link>
+<description>今天，我们为大家收集精选了 30个使用纯CSS 完成的强大实践的 优秀CSS技术和实例 ，您将在这里发现很多与众不同的技术，比如:图片集、阴影效果、可扩展按钮、菜单等这些实例都是使用纯CSS和HTML实现的。 单击每个实例的标题可以被转向到该技术实例的相关教程 </description>
+<text>副标题#e#
+           今天，我们为大家收集精选了30个使用纯CSS完成的强大实践的优秀CSS技术和实例，您将在这里发现很多与众不同的技术，比如:图片集、阴影效果、可扩展按钮、菜单等…这些实例都是使用纯CSS和HTML实现的。
+单击每个实例的标题可以被转向到该技术实例的相关教程或说明页面(英文)，单击每个实例的图片截图可以直接跳转到相应实例的Demo页面。
+1.
+一个纯净的基于CSS的图片集，鼠标悬停缩略图就会显示放大效果。
+
+2.
+一款很有创意且复杂的CSS导航方案。
+
+3.
+手风琴效果的影集，悬停便可拉伸图片。
+
+4.
+题为”“的文章中的一部分展示了如何使用CSS样式让图片变得更有意思。
+
+5.
+在A List Apart上的一个关于图片效果Demo的讨论文章““.
+
+6.
+悬停标签改变分类，悬停缩略图显示放大图。
+
+7.
+使用简单的图片和background-position属性来进行调解。
+
+8.
+模仿表格布局，但使用的是列表。图集是流式宽度。
+
+9.
+仅使用了很少XHTML的静态页脚。
+
+10.
+模仿Windows开始菜单的CSS导航菜单。
+
+
+             
+          
+        
+        #p#副标题#e#
+11.
+使用div和:hover伪类的手风琴效果，这个效果可以垂直显示也可以水平显示。
+
+12.
+
+13.
+链接在不使用图片的情况下看起来像个按钮。
+
+14.
+表格的标题被固定的优秀长表格。
+
+15.
+当你悬停在图片上时，div容器会显示更多文字。
+
+16.
+一个使用背景图片且非常漂亮，被语义化标记的表格。
+
+17.
+另一种为图片添加圆角的方法。（圆角、边框、阴影）
+
+18.
+关于为不同类型的链接添加图标的简单教程。
+
+19.
+仅适用了一张图片和很少的几行代码及标记。
+
+20.
+使用嵌套列表的树形导航，很适合网站地图页面。
+
+
+             
+          
+        #p#副标题#e#
+21.
+不使用JavaScript实现透明度技巧（但是以不符合XHTML验证为代价）
+
+22.
+流式跨度和高度的圆角div。
+
+23.
+条线图使用列表。
+
+24.
+3款柱状图实例:使用div和列表标签的”基本CSS柱状图”、”复杂CSS柱状图”、”垂直CSS柱状图”。
+
+25.
+箭头会平滑的跟随鼠标移动，没有使用一丁点JavaScript和gif动画。
+
+26.
+
+27.
+使用了空白div来让文本能围绕背景图中的图像显示。
+
+28.
+这个实例使用透明度设置和简单的图片逐渐在文字上方淡入图片。
+
+29.
+一个在IE5(Mac)上也能正常工作的弹出技巧。
+
+30.
+使用背景图片遮盖，和一个空的span标签，还有position: absolute声明来实现文本的渐变效果。
+
+原文:
+翻译:
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F60392Q4550-321013_lit.gif </image>
+<keywords>实例,技术,优秀,精选,CSS,使用, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>CSS 中的黄金分割率 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/26.html </link>
+<description>这是一位叫 Christos Chiotis 的希腊 Web 设计师发表在 CssGlobe 的一篇文章，讲述了黄金分割率在 CSS 中的应用。黄金分割率是一个应用广泛的数学常数，大约为 1.6180339887。黄金分割率用在 Web 设计中，可以为设计带来更多视觉上的和谐。 在一个简单的两栏 </description>
+<text>这是一位叫  的希腊 Web 设计师发表在  的一篇文章，讲述了黄金分割率在 CSS 中的应用。黄金分割率是一个应用广泛的数学常数，大约为 1.6180339887。黄金分割率用在 Web 设计中，可以为设计带来更多视觉上的和谐。
+在一个简单的两栏式页面布局中，使用两个容器，第一个容器用来显示主要内容，第二个容器显示侧条。比如，页面宽度为 960 px，使用黄金分割率，主内容容器的宽度应该为 960 / 1.62 = 593 px，而侧条的宽度为 960-593=367 px。
+
+作者建议，在 Web 排版与布局中可以使用以下基本 CSS 设置
+
+    line-height = font-size * 1.62
+    paragraph margin = paragraph line-height * 1.62 / 2
+    header’s margin-top = headers line-height * 1.62
+
+不过对中文而言，至少 font-size 和 line-height 之间使用黄金分割率是不适合的，假如中文字体使用 12px 的话，最佳行高是 22px，如果字体使用 14px 的话，行高应该使用 24px - 译者。
+
+另一个例子，在表单中，输入框的宽度应该是标签文字的宽度乘以 1.62。而对于显示在 Web 上矩形来说，它的宽度应该是高度乘以 1.62。
+这样一来，Web 设计师同时需要很好的计算能力，至少要在旁边放一台计算器，为了节省时间，作者建议在设计中随时记住一个 62/38 原则，在任何需要分割的地方，都使用 62% 和 38% 作比例。
+对于需要分割成三份的场合，可以先按 62%，38%原则分成两份，再将那份大的按 62% 和 38% 的比例分割。
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F603930W50-12401_lit.png </image>
+<keywords>分割,黄金,使用,1.62,宽度,一个, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>用CSS设计你的搜索框 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/27.html </link>
+<description>今天我将介绍一下如何使用CSS中的背景图片来设计你的搜索框。之前我使用别的方法来实现我的表单和搜索框，但是这种方法看起来会更容易些，所以我想将它与感兴趣的朋友分享。 View Demo 原始方式 首先来让我们看看我的原始的使用input type=image src=image_u </description>
+<text>今天我将介绍一下如何使用CSS中的背景图片来设计你的搜索框。之前我使用别的方法来实现我的表单和搜索框，但是这种方法看起来会更容易些，所以我想将它与感兴趣的朋友分享。
+
+原始方式
+
+首先来让我们看看我的原始的使用的方法：
+
+
+
+
+
+
+这看起来挺不错的，但是它有一个不好的地方，这个图片按钮不会和搜索框对其，我必须使用一个负的margin-top属性来修正这个bug。
+改良方法
+在这个改良版的方法中，我决定不再使用 type=”image” ，而是使用标签，然后用CSS添加背景。这允许文本输入框和按钮自动对齐。我同样添加了a :focus伪类到最终效果(IE将不会支持这个，所以我添加了一个特殊的样式针对IE来隐藏这个效果)。 下面是这种方法的一些好处:
+
+    很自然的对齐
+    对按钮和输入框只使用了一张图片
+    :focus 伪类支持它的浏览器
+    添加hover 效果到按钮
+
+
+HTML
+
+
+
+Search
+
+
+CSS
+fieldset.search {
+border: none;
+width: 243px;
+margin: 0 auto;
+background: #222;
+}
+.search input, .search button {
+border: none;
+float: left;
+}
+.search input.box {
+color: #fff;
+font-size: 1.2em;
+width: 190px;
+height: 30px;
+padding: 8px 5px 0;
+background: #616161 url(search_bg.gif) no-repeat;
+margin-right: 5px;
+}
+.search input.box:focus {
+background: #616161 url(search_bg.gif) no-repeat left -38px;
+outline: none;
+}
+.search button.btn {
+width: 38px;
+height: 38px;
+cursor: pointer;
+text-indent: -9999px;
+background: #fbc900 url(search_bg.gif) no-repeat top right;
+}
+.search button.btn:hover {
+background: #fbc900 url(search_bg.gif) no-repeat bottom right;
+}
+IE特别注释
+
+IE 样式- ie.css
+朋友评论说如果输入文字过多IE6和IE7会水平滚动背景图片，所以我的方法是专门为IE使用一个单独的背景图片 ，而且不是让它左对齐，我翻转了它，通过让背景图片右对齐来修正这个。
+.search input.box {
+background: url(search_bg_ie.gif) no-repeat right bottom;
+&amp;nbsp; /* 专门为IE的独立背景图片，而且这个图篇必须是右对齐的。***/
+}
+
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F603932K20-31036_lit.gif </image>
+<keywords>搜索,设计,使用,.search,这个,图 </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>为今后的项目制作空白CSS模板文件 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/28.html </link>
+<description>如果你曾经收藏过许多关于CSS的最佳实践但还没开始利用它们，那么这篇文章将帮助你制作一个很好且很有组织的CSS文件来应用于一些CSS最佳实践。在 这里我将为为我的下一个项目制作一个基本的CSS模板文件。使用标准的重设(Reset)方法，定义一些基本的方便的类 </description>
+<text>
+如果你曾经收藏过许多关于CSS的最佳实践但还没开始利用它们，那么这篇文章将帮助你制作一个很好且很有组织的CSS文件来应用于一些CSS最佳实践。在 这里我将为为我的下一个项目制作一个基本的CSS模板文件。使用标准的重设(Reset)方法，定义一些基本的方便的类，命名一些常见的页面区域等…
+在开始之前，创建一个新建文件夹并将它命名为”styles”(您也可以命名自己喜欢的名字)，然后在该文件夹下创建两个文件分别命名为“reset.css” 和 “style.css”。现在你的文件夹结构不出意外的话应该是这样的:
+
+–root
+|
+styles
+– reset.css
+– style.css
+|
+
+1-单独使用一个全局CSS重设方法
+我以Eric Meyer的重设为基础。只是去掉了其中的“ins”, “del”和 “table”，因为我实在是很少使用它们，因为某些原因又重新定义了“strong” 和 “em”，我知道您也许会有自己的方式，所以您也可以自由为自己的文件定义。写完CSS重设后，将其存储为”reset.css”。
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+ol, ul {
+list-style: none;
+}
+blockquote, q {
+quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+content: ”;
+content: none;
+}
+:focus {
+outline: 0;
+}
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+caption, th, td {
+text-align: left;
+font-weight: normal;
+}
+strong {
+font-weight: bold;
+}
+em {
+font-style: italic;
+}
+
+在这个重设文件里我去掉了“body”样式，因为通常我们在不同的项目中都会定义不同的”body”样式，所以我们将它放在style.css文件中。
+2-在顶部为样式表添加描述注释
+现在我们打开style.css来开始写一些基本的样式。在创建一个新样式文件(style.css)后，第一件事应该是在文件顶部写一些结构性的 注释，用来描述一些样式的细节，比如版本、作者、作者的详细联系方式等，这将帮助你和其他前端开发人员使用该文件。描述细节应当包括像作者姓名、版本和提 供更多信息的URL地址。我比较喜欢，因为它比较广泛。
+
+/*
+主题名称: 玫瑰主题
+URI: the-theme’s-homepage
+描述: a-brief-description
+作者: 您的姓名
+作者 URI: 您的-URI
+模板: 在这里可以提示它的父级模板
+版本: 版本号
+彬Go-集前端开发/网页设计/网站可用性/用户体验于一体的趣味互联网生活
+网址:http://blog.bingo929.com/
+*/
+
+3-定义便于搜索的目录表
+现在，我们来一起定义我们样式的目录表。定义TOC能帮助其他人甚至自己更容易与阅读和理解代码。也许您会觉得这个没什么必要，但请相信我！
+首先让我们看看它应当是什么样子的:
+
+[目录表]
+0- Reset
+1- Global
+2- Links
+3- Headings
+4- Header
+5- Navigation
+6- Middle
+7- Forms
+8- Extras
+9- Footer
+
+正如您看到的，我们将目录表从0到9分成10部分。
+
+    TOC非常简单以至于它不会花费您超过1分钟的时间。
+    您不用为每个项目定义不同的TOC。
+    命名的使用非常普遍，所以可以适合模本的任何部分。
+    不使用动态的#ID和.class。
+    它并不大所以不会占用很多Kbytes。
+    顺序的数字很有用，用途请往下看。
+
+4-使用注释将每个部分隔开并使用一个=标记
+请看一下样式，在0部分我将之前的重设样式表reset.css导入。
+
+/* =0 Reset
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+@import url(’reset.css’);
+/* =1 Global
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =2 Links
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =3 Headings
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =4 Header
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =5 Navigation
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =6 Middle
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =7 Form
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =8 Extra
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =9 Footer
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+在每个部分的分区注释中使用=标记，可以帮助您和您的团队其他成员快速找到需要的代码。大家都知道，在CSS样式中的声明几乎是不会使用等号的，所 以我们可以使用等号来帮助搜索。比如你想寻找表单的相关样式代码，可以先查看目录表中表单对应的数字，然后搜索”=7″便可以快速跳转到表单的相关代码区 域。
+5-定义最常用的类
+其实有一些类是我们要经常使用的，那我们为什么不一次性把它们都定义好呢？现在正是时候！我添加了一些个人比较喜欢的，当然您也可以按照自己的喜好进行增删改。将它们定义在“=1 Global”下。
+我还把body选择器定义在了Global中。
+注:一下定义类仅仅是比较简单的一些。
+
+/* =1 Global
+–––––––––––––––––––––––––––––––––––––––––––––––––––*/
+body {
+line-height: 1;
+font: normal 12px Arial, Helvetica, sans-serif;
+vertical-align: top;
+background: #fff;
+color: #000;
+}
+.right {
+float: right;
+}
+.left {
+float: left;
+}
+.align-left {
+text-align: left;
+}
+.align-right {
+text-align: right;
+}
+.align-center {
+text-align:center;
+}
+.justify {
+text-align:justify;
+}
+.hide {
+display: none;
+}
+.clear {
+clear: both;
+}
+.bold {
+font-weight:bold;
+}
+.italic {
+font-style:italic;
+}
+.underline {
+border-bottom:1px solid;
+}
+.highlight {
+background:#ffc;
+}
+img.centered {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+img.alignleft {
+float:left;
+margin:4px 10px 4px 0;
+}
+img.alignright {
+float:right;
+margin:4px 0 4px 10px;
+}
+.clearfix:after {
+content: “.”;
+display: block;
+clear: both;
+visibility: hidden;
+line-height: 0;
+height: 0;
+}
+.clearfix {
+display: block;
+}
+html[xmlns] .clearfix {
+display: block;
+}
+* html .clearfix {
+height: 1%;
+}
+
+6-为链接和标题定义样式
+最后，我们来定义适当的链接和标题的样式，因为他们在任何项目中都是必需的。如果你在制作某个网页，你不可能不是用它们。
+
+/* =2 Links
+––––––––––––––––––––––––––––––––––––––––––––––––––*/
+a:link, a:visited {
+color: #333;
+}
+a:hover {
+color: #111;
+}
+a:active {
+color: #111;
+}
+/* =3 Headings
+––––––––––––––––––––––––––––––––––––––––––––––––––*/
+h1 {
+font: bold 2em “Times New Roman”, Times, serif;
+}
+h2 {
+font: bold 1.5em “Times New Roman”, Times, serif;
+}
+h3 {
+font: bold 1.2em Arial, Geneva, Helvetica, sans-serif;
+}
+h4 {
+font: bold 1em Arial, Geneva, Helvetica, sans-serif;
+}
+h5 {
+font: bold 0.9em Arial, Geneva, Helvetica, sans-serif;
+}
+
+style.css模板的最终代码
+
+/*
+主题名称: 玫瑰主题
+URI: the-theme’s-homepage
+描述: a-brief-description
+作者: 您的姓名
+作者 URI: 您的-URI
+模板: 在这里可以提示它的父级模板
+[目录表]
+0- Reset
+1- Global
+2- Links
+3- Headings
+4- Header
+5- Navigation
+6- Middle
+7- Forms
+8- Extras
+9- Footer
+*/
+/* =0 Reset
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+@import url(’reset.css’);
+/* =1 Global
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+body {
+line-height: 1;
+font: normal 12px Arial, Helvetica, sans-serif;
+vertical-align: top;
+background: #fff;
+color: #000;
+}
+.right {
+float: right;
+}
+.left {
+float: left;
+}
+.align-left {
+text-align: left;
+}
+.align-right {
+text-align: right;
+}
+.align-center {
+text-align:center;
+}
+.justify {
+text-align:justify;
+}
+.hide {
+display: none;
+}
+.clear {
+clear: both;
+}
+.bold {
+font-weight:bold;
+}
+.italic {
+font-style:italic;
+}
+.underline {
+border-bottom:1px solid;
+}
+.highlight {
+background:#ffc;
+}
+img.centered {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+img.alignleft {
+float:left;
+margin:4px 10px 4px 0;
+}
+img.alignright {
+float:right;
+margin:4px 0 4px 10px;
+}
+.clearfix:after {
+content: “.”;
+display: block;
+clear: both;
+visibility: hidden;
+line-height: 0;
+height: 0;
+}
+.clearfix {
+display: block;
+}
+html[xmlns] .clearfix {
+display: block;
+}
+* html .clearfix {
+height: 1%;
+}
+/* =2 Links
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+a:link, a:visited {
+color: #333;
+}
+a:hover {
+color: #111;
+}
+a:active {
+color: #111;
+}
+/* =3 Headings
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+h1 {
+font: bold 2em “Times New Roman”, Times, serif;
+}
+h2 {
+font: bold 1.5em “Times New Roman”, Times, serif;
+}
+h3 {
+font: bold 1.2em Arial, Geneva, Helvetica, sans-serif;
+}
+h4 {
+font: bold 1em Arial, Geneva, Helvetica, sans-serif;
+}
+h5 {
+font: bold 0.9em Arial, Geneva, Helvetica, sans-serif;
+}
+/* =4 Header
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =5 Navigation
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =6 Middle
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =7 Form
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =8 Extra
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+/* =9 Footer
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+总结
+感谢大家阅读本文，CSS最佳实践在某种意义上的确会对我们提供很大的帮助。它可以帮助我们节省更多的工作时间，显著提高工作效率。如果您有任何看法或建议，欢迎。
+下载源文件
+
+来源: 翻译：
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F60393415040-55N2_lit.png </image>
+<keywords>模板,文件,空白,项目,制作,今后, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>简洁纯净的CSS表单设计实例 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/29.html </link>
+<description>很多CSS爱好者不喜欢HTML表格，尤其是在制作表单的时候，虽然现在已经是XHTML+CSS的年代，但表单的设计大多还在采用table来布局。那 么，有没有更好的使用纯语义化XHTML+CSS设计表单方法呢？今天让我们一起来尝试这种更符合语义化的方法来代替Table嵌套的表 </description>
+<text>
+很多CSS爱好者不喜欢HTML表格，尤其是在制作表单的时候，虽然现在已经是XHTML+CSS的年代，但表单的设计大多还在采用table来布局。那 么，有没有更好的使用纯语义化XHTML+CSS设计表单方法呢？今天让我们一起来尝试这种更符合语义化的方法来代替Table嵌套的表单元素吧！
+在这里我要说，并不是要完全摒弃table的使用，它有它的语义化布局作用，尤其是在存储数据的时候。我在大多数情况下会使用纯CSS来设计表单， 但是，我也很喜欢表格，只要我们能在正确的地方使用正确的元素就可以了，不要太过追求所谓的DIV+CSS。直接使用table要比使用CSS来”模拟” (display:table;)表格更方便更快速。下面暴风彬彬将分享一种使用纯CSS代替HTML表格元素设计表单的方法。
+您可以下载源代码并使用在自己的网站项目中。
+
+第一步:HTML代码
+创建一个新页面index.html，然后拷贝并粘贴以下代码到标签内。
+
+
+&amp;nbsp;&amp;nbsp; &amp;nbsp;
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Sign-up form
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;This is the basic look of my form without table
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Name
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Add your name
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; Email
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Add a valid address
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; 
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; 
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; Password
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Min. size 6 chars
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; 
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; 
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; Sign-up
+&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; 
+&amp;nbsp;&amp;nbsp; &amp;nbsp;
+
+
+　　通过上面的代码，你是否能看出它的视觉样式呢？下面是我们的CSS表单结构图示:
+
+我为每个input元素使用了标签，并使用标签包含简短的描述。所有的label和input元素都是用了CSS的float属性，值为left。
+第二步:CSS代码
+复制并粘贴以下代码到你页面中的标签中的内。(也可以单独存储到CSS文件中)
+
+body{
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-family:”Lucida Grande”, “Lucida Sans Unicode”, Verdana, Arial, Helvetica, sans-serif;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-size:12px;
+}
+p, h1, form, button{border:0; margin:0; padding:0;}
+.spacer{clear:both; height:1px;}
+/* ———– My Form ———– */
+.myform{
+&amp;nbsp;&amp;nbsp; &amp;nbsp;margin:0 auto;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;width:400px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;padding:14px;
+}
+/* ———– stylized ———– */
+#stylized{
+&amp;nbsp;&amp;nbsp; &amp;nbsp;border:solid 2px #b7ddf2;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;background:#ebf4fb;
+}
+#stylized h1 {
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-size:14px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-weight:bold;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;margin-bottom:8px;
+}
+#stylized p{
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-size:11px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;color:#666666;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;margin-bottom:20px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;border-bottom:solid 1px #b7ddf2;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;padding-bottom:10px;
+}
+#stylized label{
+&amp;nbsp;&amp;nbsp; &amp;nbsp;display:block;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-weight:bold;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;text-align:right;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;width:140px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;float:left;
+}
+#stylized .small{
+&amp;nbsp;&amp;nbsp; &amp;nbsp;color:#666666;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;display:block;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-size:11px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-weight:normal;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;text-align:right;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;width:140px;
+}
+#stylized input{
+&amp;nbsp;&amp;nbsp; &amp;nbsp;float:left;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-size:12px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;padding:4px 2px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;border:solid 1px #aacfe4;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;width:200px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;margin:2px 0 20px 10px;
+}
+#stylized button{
+&amp;nbsp;&amp;nbsp; &amp;nbsp;clear:both;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;margin-left:150px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;width:125px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;height:31px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;background:#666666 url(img/button.png) no-repeat;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;text-align:center;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;line-height:31px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;color:#FFFFFF;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-size:11px;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;font-weight:bold;
+}
+
+以上仅仅是表单布局的一种方式，您也可以按照您的喜好来修改源代码并重新使用它。
+如果您对于CSS表单布局有其它不同的或更好的建议的话，欢迎在此留下您宝贵的评论.
+
+原文：
+翻译：
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F60393525250-A528_lit.png </image>
+<keywords>设计,实例,简洁,CSS,使用,表单,# </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>精选15个国外CSS框架 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/30.html </link>
+<description>什么是css框架 实际上还是让我们从框架说起吧。 框架就是一个你可以用于你的网站项目的基本的概念上的结构体。 css框架通常只是一些css文件的集合，这些文件包括基本布局、表单样式、网格或简单结构、以及样式重置。比如： typography.css基本排版规则 grid. </description>
+<text>副标题#e#
+           什么是css框架 
+实际上还是让我们从框架说起吧。
+框架就是一个你可以用于你的网站项目的基本的概念上的结构体。
+css框架通常只是一些css文件的集合，这些文件包括基本布局、表单样式、网格或简单结构、以及样式重置。比如：
+
+    typography.css&amp;nbsp;基本排版规则
+    grid.css&amp;nbsp;基于网格的布局
+    layout.css&amp;nbsp;通常的布局
+    form.css&amp;nbsp;for 表单样式
+    general.css&amp;nbsp;更多通用规则
+
+下面一起来了解一下各种不同的CSS框架吧:
+1.
+
+960网格系统是一个通过提供通常使用的尺寸简化网站开发流程的努力的结果，基于960像素的页面宽度。它有两种类型，12和16列，他们可以独立使用或是协同使用。
+2.
+
+这个项目的目的是提供一组经过良好测试的模块化的CSS文件，能够用于网站的快速设计。WYMstyle是一组文件，你可以很容易的组合这些文件来快速的创建你的网站的布局。通过提供可靠的、经过良好测试的CSS模块，WYMstyle 力求让每个网站防止枯燥的跨浏览器兼容性测试。
+3.
+
+Dirk Jesse的强大的(X)HTML/CSS框架为许多的简单或更复杂的网站项目提供完整的默认模板包。YAML基于网页标准并支持所有现代浏览器。所有的 Internet Explorer的主要渲染漏洞都被解决。YAML 完全支持从5.x到7.0的所有的IE版本。
+4.
+
+基本的YUI网格CSS提供4种预设的页宽、6种预设模板和再分为2、3、4卷的区块的功能。 这个4KB的文件可提供超过1000中页面布局组合。
+有国外作者曾指出YUI Grids CSS中最值得学习的网格布局CSS写法:
+
+    负Margin技术
+    使用度量单位em
+    清除布局的浮动
+
+5.
+
+Logic CSS 框架是用来减少开发符合web标准的xHTML布局的时间的一个由CSS文件和PHP程序组成的集合。通常跨浏览器表现行为(不是Meyer的reset 文件或是用“*”)，排版支持文本字体大小调整(使用EMs) 和垂直居中，符合可定义的灵活的布局网格利用。
+6.
+
+CleverCSS是一个用于css的受Python启发的小型的标记语言，它可用于以整洁的和结构化的方式创建一个样式表。在很多方面它都比CSS2整 洁和强大。与CSS最明显的区别是句法：它基于缩进而且不单调。虽然这显然违反了Python的规则，它依然是组织样式的很好的主意。
+7.
+
+Elements 是一个实用的CSS框架。它是为了帮助设计师更快更高效的来写CSS而建立。Elements 已经超越了仅仅作为一个框架，它有自己的项目工作流。它拥有你完成项目所需的所有东西，这也让你和你的浏览者感到愉悦。阅读&amp;nbsp; 了解更多。
+8.
+
+Blueprint&amp;nbsp;是一个&amp;nbsp;CSS 框架，它的目的是减少你的css开发时间。它提供一个可靠的css基础去创建你的项目，BP由一个易用的网格、合理的布局和一个打印样式。
+
+             
+          
+        
+        #p#副标题#e#
+9.
+
+ Schema 是一个为了提供在重复的设计任务中必须的CSS和HTML标签而设计的表现层的网页框架设计。 与为每一个新的网站项目从零开始创建HTMl/CSS不同，Schema提供必要的基础来开始并立马让你的设计跑起来。
+10.
+
+Emastic&amp;nbsp;是一个CSS框架，它有连续的任务：探索陌生的新世界，寻找新生活和新的网站空间，大胆的去CSS框架尚未到达的领域。它是轻量的、在页面宽度上比较人性化，在网格中使用固定和不固定的列宽。 Elastic 用“em”布局。
+11.
+
+* 只能调用单个样式文件
+* 主样式需要取得CSS认证(WCAG 1.0)；
+* 跨浏览器兼容性—包括Internet Explorer (IE) 5.x for Mac；
+* IE Hacks使用独立文件；
+* 快速创建模板；
+* 少量注释/实例演示，可以节省时间来理解。
+12.
+
+下一个逻辑步骤就是将这个扩展为CSS框架，允许使用写好并通过测试的组件来快速开发网站。实际上所需的是搞定一套命名习惯和一个灵活的基本模板…
+13.
+
+14.
+
+ESWAT正在重新整理。如果你是冲着我的网站框架来的，那么你就可以在这里下载。也许你也想看看我的其他项目gmachina、AppleSeed。
+15.
+
+Tripoli是一个用于HTML表现的通用css规范。通过重设和重建浏览器标准，Tripoli 为你的网站项目提供了一个标准的、跨浏览器表现的基础。
+彬Go会经常更新前端开发/网页设计等相关技术及教程文章，欢迎来及时浏览本博客的最新教程及资源。
+英文原文:
+翻译原文:
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F60393KXP-S429_lit.gif </image>
+<keywords>框架,国外,精选,CSS,一个,布局, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>使用CSS为图片添加更多趣味的5种方法 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/31.html </link>
+<description>今天我们将向大家分享一些为你平淡乏味的图片添加更多趣味情调的简单技巧。使用Photoshop为每个图片添加某种样式虽然可行，但会是相当乏味且困难的长久工作。下面要介绍的CSS技巧将帮助你从痛苦中解脱出来！如果你也有自己独到的CSS技巧，希望能一同分享。 </description>
+<text>今天我们将向大家分享一些为你平淡乏味的图片添加更多趣味情调的简单技巧。使用Photoshop为每个图片添加某种样式虽然可行，但会是相当乏味且困难的长久工作。下面要介绍的CSS技巧将帮助你从痛苦中解脱出来！如果你也有自己独到的CSS技巧，希望能一同分享。
+阴影效果
+通过使用带有一些padding之的背景图来添加阴影效果。
+
+HTML
+
+ </text>
+<image> </image>
+<keywords>趣味,方法,更多,添加,图片,使用, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>20个让你学习并精通CSS的网站 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/32.html </link>
+<description>CSS的学习过程既可以说简单又可以说是复杂。CSS的语法比较简单，但CSS的应用中有一些概念(一可以说是原理)还是很难掌握的。今天暴风彬彬 向你推荐20个出色的CSS技术类(英语)网站帮你更好的理解和掌握CSS，其中包括各种各样的网站，从博客到清单风格列表甚至 </description>
+<text>副标题#e#
+           CSS的学习过程既可以说简单又可以说是复杂。CSS的语法比较简单，但CSS的应用中有一些概念(一可以说是原理)还是很难掌握的。今天暴风彬彬 向你推荐20个出色的CSS技术类(英语)网站帮你更好的理解和掌握CSS，其中包括各种各样的网站，从博客到清单风格列表甚至网站，它们都侧重于研究同 一个主题，那就是CSS。
+1.&amp;nbsp;
+
+A List Apart，学习网页设计和最佳实践的首选网站。这个网站从1999年就开始发表关于CSS的文章，其中大部分文章都是面向那些更注重符合标准设计的中级到高级设计师。
+2.&amp;nbsp;
+
+CSS Help Pile汇集了大量的CSS资源、技巧和教程。这个网站适合各种水平的设计师学习。网站专门有、和这样的分类。
+3.&amp;nbsp;
+
+CSS Basics可以当成一书来看，用了18个章节来传授基本的CSS概念，对初学者相当有帮助。还有就是所有18个章节，提供打印或PDF格式下载。
+4.&amp;nbsp;
+
+Holy CSS Zeldman是关于基于标准的、工具、布局相关链接的收集。
+5.&amp;nbsp;
+
+这里主要是收集Eric Meyer (著名的开发者)的作品，在css/edge和CSS reference等页面可以找到一些相关的资源。
+6.&amp;nbsp;
+
+456 Berea Street下有一个CSS分类，里面有超过300篇文章，这些文章有教如果放置图片，有些是说CSS技巧。
+7.&amp;nbsp;
+
+在Position Is Everything，你能学到大量CSS的高级应用技巧，Position Is Everything关注着如何解决各种浏览器兼容问题的Bug，并体重各种解决浏览器Bug的CSS解决方案。在这里，你能学到关于和。
+8.&amp;nbsp;
+
+HTML Dog致力于教授最佳的XHTML与CSS布局，分为初级，中级，高级三个级别。英语不好的朋友可以看中文翻译版的.
+9.&amp;nbsp;
+
+如果使用CSS定位是一个棘手的问题，这里有10步，看能不能帮你解决。
+10.&amp;nbsp;
+
+Andy Budd有着一系列CSS/web标准的有用链接，以帮助你找到有用的资料。
+
+             
+          
+        
+        #p#副标题#e#
+11.
+
+W3CSchools有一个CSS部分，内容涵盖了初级到高级的CSS主题。
+12.
+
+css Zen Garden给我们展示了CSS是怎样工作的，使用相同的HTML文件，设计师提交的外部样式来美化这个文件。用Web Developer Tool就可以检查CSS是如何进行布局工作的。这个网站在7个最好的网上CSS资源里也有介绍
+13.
+
+MaxDesign拥有Russ Weakley的一套CSS精彩教程，在Listmatic里，教你使用CSS格式化列表，在Floatutorial里，介绍floating元素的知识。
+14.
+
+CSSEasy.com网站的口号是”学习CSS的时髦方法”，拥有丰富的经验及创意分享，让我们更好地了解CSS。这个网站的迟早也会派上用场。
+15.&amp;nbsp;
+
+CSS-Discuss是一个CSS爱好者社区，而 CSS-Discuss Wiki是关于CSS的应用收集。
+16.
+
+Web Design from Scratch有一章节是关于CSS的，涵盖了CSS的基本概念。 其中的Introduction to CSS对初学者很有帮助。
+17.
+
+CSS-Tricks是一个专注CSS的博客
+18.
+
+The CSS tag on Delicious是关于优秀CSS设计的链接收集，亮点就是让我们知道哪些好东西在被人看。
+19.&amp;nbsp;
+
+SitePoint有一个CSS部分，专门讨论入门水平的CSS主题
+20.&amp;nbsp;
+
+CSSDog有一部分为初学者与高级开发者设计的，其中的开发经验及参考，个人认为是最有价值的部分。
+英文原文：
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F60394543310-14b8_lit.png </image>
+<keywords>网站,精通,学习,CSS,可以,一个, </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>你应当了解的5个CSS3新技术 </title>
+<link>http://365news.com/a/webbase/div-css/2010/0407/33.html </link>
+<description>CSS是众所周知且应用广泛的网站样式语言，在它的版本三(CSS3)计划中，新增了一些能够节省时间的特性。尽管只有当前最新了浏览器版本才能支持这些 效果，但了解它们还是必须且很有趣味性的。暴风彬彬将在这篇文章向大家展示CSS中的5个有趣的新技术:圆角、个别 </description>
+<text>CSS是众所周知且应用广泛的网站样式语言，在它的版本三(CSS3)计划中，新增了一些能够节省时间的特性。尽管只有当前最新了浏览器版本才能支持这些 效果，但了解它们还是必须且很有趣味性的。暴风彬彬将在这篇文章向大家展示CSS中的5个有趣的新技术:圆角、个别圆角、不透明度、阴影和调整元素大小。
+1：基本标记
+
+在我们开始这个教程之前，先来创建整个教程都要使用的基本标记。
+我们的xHTML需要一下div元素:
+
+    #round, 使用CSS3代码实现圆角.
+    #indie, 应用个别的几个圆角.
+    #opacity, 展示新的CSS3实现不透明度的方式.
+    #shadow,展示不使用的情况下，使用CSS3来实现阴影效果.
+    #resize, 展示如何使用某种CSS来实现重设大小的效果.
+
+综上所述，我们的xHTML应该是这样的:
+
+
+
+
+
+An Introduction to CSS3; A Nettuts Tutorial
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+下面来创建基本CSS文件:
+
+body&amp;nbsp;&amp;nbsp;&amp;nbsp; {
+background-color: #fff;
+}
+#wrapper {
+width: 100%;
+height: 100%;
+}
+div {
+width: 300px;
+height: 300px;
+margin: 10px;
+float: left;
+}
+
+正如你上面看到的，我们给每个div元素300px的宽和高，并让它们向左浮动，整个页面的div都留给我们在后面的工作中添加样式。
+2:圆角
+
+目前而言，创建圆角的方法有很多，但都很麻烦。最常用的方法:首先，你要创建圆角的图片；然后，你要创建很多html元素并使用背景图像的方式显示圆角。具体流程你我都很清楚。
+这个问题将在CSS3中很简单的解决掉，那就是叫做“border-radius”的属性。我们先创建一个黑色的div元素并给他设置黑色的边框。边框就是要实现“border-radius”属性效果的前提。
+像这样:
+
+#round {
+background-color: #000;
+border: 1px solid #000;
+}
+
+现在你已经创建了div元素，它看起来和你预期的样子一样，300px款和高有楞有角且是黑色的。下面我们来添加实现圆角的代码，它是如此的简洁，仅仅需要两行代码。
+
+#round {
+background-color: #000;
+border: 1px solid #000;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+}
+
+在这里，我们添加了两行类似的代码，-moz-适用于Firefox浏览器，而-webkit-则是用于Safari/Chrome浏览器。
+注:目前为止IE浏览器不支持border-radius属性，所以如果想让IE也有圆角效果，那么就要单独添加圆角了。
+border-radius这个属性直译过来是边框半径的意思，就如同一样，它的值越大，圆角也就越大。
+3:个别的圆角
+
+如果按照过去的习惯做法，会浪费你很多时间，现在CSS3能快速解决!
+我们现在只想让div的右上和右下是圆角，那么仅需稍作修改:
+
+#indie {
+background-color: #000;
+border: 1px solid #000;
+-moz-border-radius-topright: 10px;
+-moz-border-radius-bottomright: 10px;
+-webkit-border-top-left-radius: 10px;
+-webkit-border-bottom-left-radius: 10px;
+}
+
+试想一下这种做法会用在网页中的什么元素呢？对！就是标签式的导航按钮！
+4:以CSS3的方式修改不透明度
+
+现在你可以按惯例编写几行代码来实现不透明度的效果(hack)。不过CSS3简化了这个流程。
+这行代码很好记，仅仅是 “opacity: value;”:
+
+#opacity {
+background-color: #000;
+opacity: 0.3;
+}
+
+5:阴影效果
+
+实现阴影也有很多方法，最常用的就是使用制作成阴影图片，然后应用到背景属性中。但CSS3让你的工作更有效率，不幸的是，目前只有Safari和Chrome支持这个新特性。
+仅仅需要一行代码，不过它有4个不同的值:
+
+-webkit-box-shadow: 3px 5px 10px #ccc;
+
+下 面我来解释一下这四个值都代表什么，第一个3px是指定阴影与div元素之间的水平(横向)距离，第二个5px指的是阴影与div之间的垂直(纵向)距 离，第三个10px指的是阴影的模糊度(类似于photoshop中的羽化)，值越大越细腻。最后的值不说大家也知道，就是阴影的颜色。
+我们最终阴影效果代码；
+
+#shadow {
+background-color: #fff;
+border: 1px solid #000;
+-webkit-box-shadow: 3px 5px 10px #ccc;
+}
+
+正如你看到的，我们个这个div设置了白色的背景，黑色的边框和亮灰色的阴影。
+6:调整大小
+
+在最新版本的CSS中，调整元素的尺寸已经成为可能（不过目前仅Safari支持）
+使 用这个代码以后，我们的元素的右下角会出现一个小三角以提示用户这个元素是可以调整尺寸的。代码依然很简单，可以说仅需要一行代码，当然你还可以配合使用 一些曾经使用过的属性，比如”max-width”, “max-height”, “min-width”和 “min-height”.
+
+#resize {
+background-color: #fff;
+border: 1px solid #000;
+resize: both;
+overflow: auto;
+}
+
+在这里主要说一下resize和overflow属性，resize:both;的意思就是所有边都可以调整尺寸，它的值还有horizontal和vertical，顾名思义，就是横向和纵向。而overflow是为了配合resize工作的，在这里使用auto.
+总结
+
+怎 么样，你在这篇文章中有没有什么收获呢？虽然现在仅有很少数的浏览器支持CSS3，但不可否认的是CSS3的确会为我们的工作节省更多的时间。如果你对渐 进增强有所了解和认识的话，我想你会欣然接受CSS3这个强大的新版本的。不要再把你的时间都花在IE6上了，那样你只能会是过时的前端开发工程师。
+英文原文:
+翻译原文:
+              </text>
+<image>http://www.dedecms.com/demoimg/uploads/allimg/c100407/12F60395AI60-21A37_lit.png </image>
+<keywords>新技术,了解,应当,div,CSS3,我们 </keywords>
+<category>DIV&amp;CSS </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:32 </pubDate>
+</item>
+<item>
+<title>学习HTML 4.0事件属性 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/1.html </link>
+<description>HTML 4.0的新特性之一是使HTML事件触发浏览器中的行为，比方说当用户点击一个HTML元素时启动一段JavaScript。以下就是可被插入HTML标签以定义事件行为的一系列属性。假如你希望学习如何使用这些事件进行编程，那么你应该学习我们的JavaScript教程和DHTML教程 </description>
+<text>HTML 4.0的新特性之一是使HTML事件触发浏览器中的行为，比方说当用户点击一个HTML元素时启动一段JavaScript。以下就是可被插入HTML标签以定义事件行为的一系列属性。假如你希望学习如何使用这些事件进行编程，那么你应该学习我们的JavaScript教程和DHTML教程。窗口事件 (Window Events)仅在body和frameset元素中有效。属性值描述onload脚本当文档被载入时执行脚本onunload脚本当文档被卸下时执行脚本表单元素事件 (Form Element Events)仅在表单元素中有效。属性值描述onchange脚本当元素改变时执行脚本onsubmit脚本当表单被提交时执行脚本onreset脚本当表单被重置时执行脚本onselect脚本当元素被选取时执行脚本onblur脚本当元素失去焦点时执行脚本onfocus脚本当元素获得焦点时执行脚本键盘事件 (Keyboard Events)在下列元素中无效：base, bdo, br, frame, frameset, head, html, iframe, meta, param, script, style, and title elements.属性值描述onkeydown脚本当键盘被按下时执行脚本onkeypress脚本当键盘被按下后又松开时执行脚本onkeyup脚本当键盘被松开时执行脚本鼠标事件 (Keyboard Events)在下列元素中无效：base, bdo, br, frame, frameset, head, html, iframe, meta, param, script, style, title elements.属性值描述onclick脚本当鼠标被单击时执行脚本ondblclick脚本当鼠标被双击时执行脚本onmousedown脚本当鼠标按钮被松开时执行脚本onmousemove脚本当鼠标指针移动时执行脚本onmouseout脚本当鼠标指针移出某元素时执行脚本onmouseover脚本当鼠标指针悬停于某元素之上时执行脚本onmouseup脚本当鼠标按钮被松开时执行脚本
+              </text>
+<image> </image>
+<keywords>学习HTML,4.0事件属性 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>初学者：XHTML常用标签的基本应用指南 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/2.html </link>
+<description>一段时间以来，发现有很多人XHTML都不会用，不光是普通的初学者，有的程序员都不是很清楚该怎么写这个XHTML，我这里呢算是把一些常见的应用问题做一个总结，也算能使得大家能在沟通，合作上能形成默契。 XHTML里有很多的标签，但是经常用到的也就是那么 </description>
+<text>　一段时间以来，发现有很多人XHTML都不会用，不光是普通的初学者，有的程序员都不是很清楚该怎么写这个XHTML，我这里呢算是把一些常见的应用问题做一个总结，也算能使得大家能在沟通，合作上能形成默契。　　XHTML里有很多的标签，但是经常用到的也就是那么几个，也只要掌握这几个也就可以了。下面我们一一列举：div,p,span,ul,li,dl,dt,dd,a,img,h,strong,em　　div&amp;nbsp;在我的脑子里我一直把他想作是一个瓶子或是箱子，我的感觉它挺硬的。这个div没有什么特性的意义，可以使用在很多地方，也就是说他可以装不同的东西。他的正确的写法是必需要有封口。大家都用来做布局之用，也有用来作为存放文章形成段落，实际上，这个做法并不是很好，因为作为文章的分段自然有一个特定的标签来用。那就是下面要讲的标签，不过用DIV来再整体的包住所有的段落。这是非常实用的。　　p&amp;nbsp;这是一个有特定语义的标签，表示段落，是用来区分段落的。在大部分的浏览器中对P基本上都有一个上下的边距。但是没有行首缩进，因为行首缩进只是表示段落的方式但是不是一定或是必需的。所以在用P标签的时候如果需要可以针对P设定一下行首缩进，我是推荐在文章以外的地方不要使用P，因为P是有一定语义的，如果用在别的地方恐不合适。正确的写法是　　span&amp;nbsp;这也是一个非常常用的标签，这个标签可以说与div很像，没有什么特定的意义，只是他是一个级联元素，不是块级元素。我一直把它看作是一个袋子，他不像箱子那样可以有自己的宽高，他的宽高只能随着内容的多少而定，所以很像是袋子。这个标签与div正好互补。　　ul,li&amp;nbsp;这是一个列表，在列表中，除了UL还OL，不过我觉得OL有点像是鸡肋。因为UL通过CSS定义一样可以有OL的数字排序效果。所以一般我不推荐使用OL，有UL就可以了。UL是块级的，他的子级li也是块级标签。正确的写法是&lt; /li&gt;&amp;nbsp;LI标签是被UL标签包裹的，在UL标签里可以有无数个LI标签，LI标签不能独立使用。并且LI标签一定要封口，这不光是美观问题，对于后期的维护也很有好处。很多程序员都不喜欢把这个LI封口。UL列表的用处主要是列举出一维的，同一类型的数据。具体的比如使用在菜单上，文章中列数的一些条例等等。在列表中有一种特别的形式与UL是不一样的。那就是下面的DL　　dl,dt,dd&amp;nbsp;这是一个很特别的三个标签的组合。这里的DT是指标题，DD是指内容。DL是包课他们的容器。正确的写法是&lt; /dt&gt;在DL里可以有很多组的DT，DD，当出现很多组的时候尽量是一个DT 配一个DD，如果DD中内容很多，可以在DD里加P标签配合使用。DL列表是一个非常好的列表形式，可以多加利用。　　a&amp;nbsp;这表示链接，是一个特定属性的，也是网页中最为神奇的标签。因为它才让无数的网页都连在了一起。正确的写法是： 其中的href是表示目标地址，TITLE是鼠标悬停提示文字，这是可有可无的。但是有必是利大于无。　　img&amp;nbsp; 这是图片标签，也是个特定属性的标签。正常写法是：&amp;nbsp;这里的src是目标地址， ALT与TITLE是替换文字，ALT是&amp;nbsp;IE特定的，TITLE是其它浏览器的通用的。不过记得后面的反斜线那是一定要有的。　　H&amp;nbsp; 这是一个系列的标签，从H1到H6，一共六个，有人说太少了，有人说正好用，有人说用不了这么多。反正我是觉得差不多。正确写法是： 主要是用来存放标题，也有一些朋友用来作它用拿来作其它用处，个人觉得这个标签还是让他安生一点，就让他做标题的作用。这六个标签之间最好不要出现什么相互包含的事。　　strong&amp;nbsp;这个意思是着重，这是有语义的，作用也很简单。至于样工，是加粗着重，还是用色彩表明着重，那都是自行选择。正确的写法是　　em&amp;nbsp;这个与strong很像，是表示强调。一般浏览器的默认值是斜体。使用方式与strong一样。写法是：　　这里没有说表单，因为表单基本上没有什么变化，也没什么可特别说的。
+              </text>
+<image> </image>
+<keywords>初学者：XHTML常用标签的基本应 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>网页中应用表格爱好者 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/3.html </link>
+<description>你认为已经知道怎么制做表格了吧。当然，你已经了解 table、tr、td和th标签了，甚至还在你的口袋里装入了rowspan和colspan。你确实可以制做一个精美小巧的咖啡色三合板桌子（表格），但难道你不想做一个优雅稳固，上面有玻璃的，足以承受一头大笨象的宴会桌（ </description>
+<text>你认为已经知道怎么制做表格了吧。当然，你已经了解 table、tr、td和th标签了，甚至还在你的口袋里装入了rowspan和colspan。你确实可以制做一个精美小巧的咖啡色三合板桌子（表格），但难道你不想做一个优雅稳固，上面有玻璃的，足以承受一头大笨象的宴会桌（表格）？列反罢工表格行简直使表格列看起来很愚蠢。同样的工作，表格由行与行构建，让列感到十分沮丧。但是很幸运，colgroup和col标签来拯救热心的列了。这两个标签允许你定义表格列和尽你所需地样式化它们，对于你需要把列排成行或不同着色特别有用，如果没有它们，你需要样式化每一个单独的单元格。这是一个使用这些标签的例子：    ThisThatThe otherLadybirdLocustLunch alternate类的样式将被应用到第二列，或者说每一行的第二个单元格。你当然可以在colgroup或者col上使用span属性，跟rowspan和colspan有相似的用途colgroup一起使用可以定义属于列组的行数，比如会组合头两列。当在colgroup使用span时，不应该再使用col标签。在col里使用span是更明智的，可以，比如，应用在上述例子像这样：   &amp;nbsp;... 这将把alternate类应用到最后两列。注意哦，但是可能有一个陷井，不是吗？那就是：你仅能样式化列的是边框、背景、宽度和可见性。Internet Explorer在这方面看起来比其他浏览器表现更好因为它装载有漂亮的CSS属性比如 color，但是，正如结果一样，这是因为它疯狂古怪的行为而已。这种奇特的异常可以让Ian Hixie来解释。摘要和说明插曲一个简要和容易的提高易用性的思考是，总是为表格应用摘要和说明。摘要可以在表格起始标签table中用summary属性应用到表格中。这不会显示，但可以辅助非可视化的表格表现。caption标签在起始标签table后直接定义说明。它默认直接在表格顶端出现，但可以在CSS属性caption-side中设置top、right、bottom或者left值，尽管IE不会在意。Locust mating habits... 表头、表注和滚动表格的探讨thead、tfoot和tbody允许你把表格分为表头、表注和表格主体。对于大表格尤其有用，在打印的时候，表头和表注应该会在每一页都出现。这些元素必须按thead-tfoot-tbody的顺序定义，像这样：Header 1Header 2Header 3Footer 1Footer 2Footer 3Cell 1Cell 2Cell 3&amp;nbsp;...  你可以让表格主体tbody在基于Gecko的浏览器（Mozilla、Firefox和Netscape 6+等）滚动，通过应用overflow: auto; max-height: [whatever] 的样式。然后你可以看见表头和表注固定，而表的主体右边有滚动条。你应该谨慎使用max-height属性因为IE不认识，比较安全的做法是使用 height属性，IE将为它应用到每一行。注意：说回浏览器的差异，目前IE遇到表头和表注时还是没有什么线索，尽管还是当作表格来处理，但打印的时候不会在哦每一页都出现表头和表注，只孤零零地传递滚动的表格。注意谨慎对待滚动表格。尽管它们提供十分有用的目的，大部分用户不习惯它们并且认为线性数据是唯一的。
+              </text>
+<image> </image>
+<keywords>网页中应用表格爱好者 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>初学者很好的参考：HTML标签详尽讲解 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/4.html </link>
+<description>结构＜html＞＜head＞＜title＞标题＜title＞＜/head＞＜body＞..........文件内容..........＜/body＞＜/html＞1.文件标题＜title＞..........＜/title＞2.文件更新--＜meta＞ 【1】10秒后自动更新一次 ＜meta http-equiv=refresh&quot; </description>
+<text>结构＜html＞＜head＞＜title＞标题＜title＞＜/head＞＜body＞..........文件内容..........＜/body＞＜/html＞1.文件标题＜title＞..........＜/title＞2.文件更新--＜meta＞　【1】10秒后自动更新一次　　＜meta http-equiv=&quot;refresh&quot; content=10＞　【2】10秒後自动连结到另一文件　　＜meta http-equiv=&quot;refresh&quot; content=&quot;10；URL=欲连结文件之URL&quot;＞3.查询用表单--＜isindex&gt;　　　若欲设定查询栏位前的提示文字：　　＜isindex prompt=&quot;提示文字&quot;＞4.预设的基准路径--＜base&gt;&amp;nbsp;&amp;nbsp; ＜base href=&quot;放置文件的主机之URL&quot;＞版面1.标题文字 ＜h#＞..........＜/h#＞ #=1~6；h1为最大字，h6为最小字2.字体变化 ＜font＞..........＜/font＞ 【1】字体大小 ＜font size=#＞..........＜/font＞ #=1~7；数字愈大字也愈大 【2】指定字型 ＜font face=&quot;字型名称&quot;＞..........＜/font＞ 【3】文字颜色 ＜font color=#rrggbb＞..........＜/font＞ rr：表红色（red）色码 gg：表绿色（green）色码 bb：表蓝色（blue）色码3.显示小字体 ＜small＞..........＜/small＞ 4.显示大字体 ＜big＞..........＜/big＞5.粗体字 ＜b＞..........＜/b＞6.斜体字 ＜i＞..........＜/i＞ 7.打字机字体 ＜tt＞..........＜/tt＞8.底线 ＜u＞..........＜/u＞9.删除线 ＜strike＞..........＜/strike＞10.下标字 ＜sub＞..........＜/sub＞11.上标字 ＜sup&gt;..........＜/sup＞12.文字闪烁效果 ＜blink＞..........＜/blink＞13.换行 ＜br＞14.分段 ＜p＞ 15. 文字的对齐方向 ＜p align=&quot;#&quot;＞ #号可为 left：表向左对齐（预设值） center：表向中对齐 right：表向右对齐 P.S.＜p align=&quot;#&quot;＞之後的文字都会以所设的对齐方式显示， 直到出现另一个＜p align=&quot;#&quot;＞改变其对齐方向，或遇到＜hr＞?＜h#＞标签时会自动设回预设的向左对齐。16.分隔线 ＜hr＞ 【1】分隔线的粗细 ＜hr size=点数＞ 【2】分隔线的宽度 ＜hr size=点数或百分比＞ 【3】分隔线对齐方向 ＜hr align=&quot;#&quot;＞ #号可为 left：表向左对齐（预设值） center：表向中对齐 right：表向右对齐 【4】分隔线的颜色 ＜hr color=#rrggbb＞ 【5】实心分隔线 ＜hr noshade＞17.向中对齐 ＜center＞..........＜/center＞18.依原始样式显示 ＜pre＞..........＜/pre＞19.＜body＞指令的属性 【1】背景颜色 -- bgcolor ＜body bgcolor=#rrggbb＞ 【2】背景图案 -- background ＜body background=&quot;图形文件名&quot;＞ 【3】设定背景图案不会卷动 -- bgproperties ＜body bgproperties=fixed＞ 【4】文件内容文字的颜色 -- text ＜body text=#rrggbb＞ 【5】超连结文字颜色 -- link ＜body link=#rrggbb＞ 【6】正被选取的超连结文字颜色 -- vlink ＜body vlink=#rrggbb＞ 【7】已连结过的超连结文字颜色 -- alink ＜body alink=#rrggbb＞20.注解 ＜!--..........--＞21.特殊字元表示法 符 号 　　语 法&amp;nbsp; ＜&amp;nbsp; 　　　＆ｌｔ&amp;nbsp; ＞&amp;nbsp; 　　　＆ｇｔ&amp;nbsp; &amp; 　　 　＆ａｍｐ&amp;nbsp; &quot;&amp;nbsp; 　　　＆ｑｕｏｔ&amp;nbsp; 空白&amp;nbsp; 　　＆ｎｂｓｐ图片1.插入图片 ＜img src=&quot;图形文件名&quot;＞2.设定图框 -- border ＜img src=&quot;图形文件名&quot; border=点数＞3.设定图形大小 -- width?height ＜img src=&quot;图形文件名&quot; width=宽度点数 height=高度点数＞4.设定图形上下左右留空 -- vspace?hspace ＜img src=&quot;图形文件名&quot; vspace=上下留空点数 hspace=左右留空点数＞5.图形附注 ＜img src=&quot;图形文件名&quot; alt=&quot;说明文字&quot;＞6.预载图片＜img src=&quot;高解析度图形文件名&quot; lowsrc=&quot;低解析度图形文件名&quot;＞ P.S.两个图的图形大小最好一致7.影像地图（Image Map） ＜img src=&quot;图形文件名&quot; usemap=&quot;#图的名称&quot;＞ ＜map name=&quot;图的名称&quot;＞&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ＜area shape=形状 coords=区域座标列表 href=&quot;连结点之URL&quot;＞&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ＜area shape=形状 coords=区域座标列表 href=&quot;连结点之URL&quot;＞&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ＜area shape=形状 coords=区域座标列表 href=&quot;连结点之URL&quot;＞&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ＜area shape=形状 coords=区域座标列表 href=&quot;连结点之URL&quot;＞&amp;nbsp;&amp;nbsp;&amp;nbsp; ＜/map＞&amp;nbsp;&amp;nbsp;&amp;nbsp; 【1】定义形状 -- shape&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; shape=rect：矩形&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; shape=circle：圆形&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; shape=poly：多边形&amp;nbsp;&amp;nbsp;&amp;nbsp; 【2】定义区域 -- coordsa.矩形：必须使用四个数字，前两个数字为左上角座标，后两个数字为右下角座标例：＜area shape=rect coords=100,50,200,75 href=&quot;URL&quot;＞b.圆形：必须使用三个数字，前两个数字为圆心的座标，最后一个数字为半径长度例：＜area shape=circle coords=85,155,30 href=&quot;URL&quot;＞c.任意图形（多边形）：将图形之每一转折点座标依序填入例：＜area shape=poly coords=232,70,285,70,300,90,250,90,200,78 href=&quot;URL&quot;＞表格1.定义表格 ＜table＞..........＜/table＞ 【1】设定边框的厚度 -- border＜table border=点数＞ 【2】设定格线的宽度 -- cellspacing＜table cellspacing=点数＞ 【3】设定资料与格线的距离 -- cellpadding＜table cellpadding=点数＞ 【4】调整表格宽度 -- width＜table width=点数或百分比＞ 【5】调整表格高度 -- height＜table height=点数或百分比＞ 【6】设定表格背景色彩 -- bgcolor＜table bgcolor=#rrggbb＞ 【7】设定表格边框色彩 -- bordercolor＜table bordercolor=#rrggbb＞2.显示格线 ＜table border＞3.表格标题＜caption＞..........＜/caption＞ 表格标题位置 -- align＜caption align=&quot;#&quot;＞ #号可为 top：表标题置于表格上方（预设值）bottom：表标题置于表格下方4.定义列 ＜tr＞5.定义栏位 《1》＜td＞：靠左对齐《2》＜th＞：靠中对齐?粗体 【1】水平位置 -- align ＜th align=&quot;#&quot;＞#号可为 left：向左对齐center：向中对齐 right：向右对齐【2】垂直位置 -- align ＜th align=&quot;#&quot;＞ #号可为top：向上对齐 middle：向中对齐bottom：向下对齐 【3】栏位宽度 -- width＜th width=点数或百分比＞ 【4】栏位垂直合并 -- rowspan＜th rowspan=欲合并栏位数＞ 【5】栏位横向合并 -- colspan＜th colspan=欲合并栏位数＞清单一、目录式清单 ＜dir＞ ＜li＞项目1 ＜li＞项目2 ＜li＞项目3 ＜/dir＞ P.S.目录式清单每一个项目不能超过20个字元（即10个中文字）二、选项式清单 ＜menu＞ ＜li＞项目1 ＜li＞项目2 ＜li＞项目3 ＜/menu＞三、有序号的清单 ＜ol＞ ＜li＞项目1 ＜li＞项目2 ＜li＞项目3 ＜/ol＞ 【1】序号形式 -- type ＜ol type=#＞或＜li type=#＞ #号可为 A：表以大写英文字母A?B?C?D...做为项目编号 a：表以小写英文字母a?b?c?d...做为项目编号 I：表以大写罗马数字做为项目编号 i：表以小写罗马数字做为项目编号 1：表以阿拉伯数字做为项目编号（预设值） 【2】起始数字 -- start ＜ol start=欲开始计数的序数＞ 【3】指定编号 -- value ＜li value=欲指定的序数＞四、无序号的清单 ＜ul＞ ＜li＞项目1 ＜li＞项目2 ＜li＞项目3 ＜/ul＞ 【1】项目符号形式 -- type ＜ul type=#＞或＜li type=#＞ #号可为 disc：实心圆点（预设值） circle：空心圆点 square：实心方块 【2】原始清单 -- plain ＜ul plain＞ 【3】清单排列方式 -- warp 《1》清单垂直排列 ＜ul warp = vert＞ 《2》清单水平排列 ＜ul warp = horiz＞五、定义式清单 ＜dl＞ ＜dt＞项目1 ＜dd＞项目1说明 ＜dt＞项目2 ＜dd＞项目2说明 ＜dt＞项目3 ＜dd＞项目3说明 ＜/dl＞ 紧密排列 -- compact ＜dl compact＞ P.S.如此可使＜dt＞的内容与＜dd＞的内容在同一行，仅 以数格空白相隔而不换行，但若＜dt＞的文字超过一 定的长度后，compact的作用就消失了！表单一、基本架构 ＜form action=&quot;处理资料用的CGI程式之URL&quot;或&quot;mailto:电子信箱的URL&quot; method=&quot;get或post&quot;＞ .......... .......... .......... ＜/form＞ 二、输入文件型表单 ＜form action=&quot;URL&quot; method=&quot;post&quot;＞ ＜input＞ ＜input＞ .......... .......... ＜/form＞ 【1】栏位类型 -- type ＜input type=#＞ #号可为 text：文字输入 password：密码 checkbox：多选钮 radio：单选钮 submit：接受按钮 reset：重设按钮 image：图形钮 hidden：隐藏栏位 【2】栏位名称 -- name ＜input name=&quot;资料栏名&quot;＞ P.S.若type为submit?reset则name不必设定 【3】文件上的预设值 -- value ＜input value=&quot;预设之字串&quot;＞ 【4】设定栏位的宽度 -- size ＜input size=字元数＞ 【5】限制最大输入字串的长度 -- maxlength ＜input maxlength=字元数＞ 【6】预设checkbox或radio的初值 -- checked ＜input type=checkbox checked＞ ＜input type=radio checked＞ 【7】指定图形的URL -- src ＜input type=image src=&quot;图档名&quot;＞ 【8】图文对齐 -- align ＜input type=image align=&quot;#&quot;＞ #号可为 top：文字对齐图片之顶端 middle：文字对齐图片之中间 buttom：文字对齐图片之底部三、选择式表单 ＜form action=&quot;URL&quot; method=&quot;post&quot;＞ ＜select＞ ＜option＞ ＜option＞ .......... .......... ＜/select＞ ＜/form＞ A、＜select＞的属性 【1】栏位名称 -- name ＜select name=&quot;资料栏位名&quot;＞ 【2】设定显示的选项数 -- size ＜select size=个数＞ 【3】多重选项 -- multiple ＜select multiple＞ B、＜option＞的属性 【1】定义选项的传回值 -- value ＜option value=&quot;传回值&quot;＞ 【2】预先选取的选项 -- selected ＜option selected＞四、多列输入文字区表单 ＜form action=&quot;URL&quot; method=&quot;post&quot;＞ ＜textarea＞ .......... .......... ＜/textarea＞ ＜/form＞ 【1】文字区的变数名称 -- name ＜textarea name=变数名称＞ 【2】设定文字输入区宽度 -- cols ＜textarea cols=字元数＞ 【3】设定文字输入区高度 -- rows ＜textarea rows=列数＞ 【4】输入区设定预设字串 ＜textarea＞ 预设文字 ＜/textarea＞ 【5】自动换行与否 -- wrap ＜textarea wrap=#＞ #号可为 off：表输入的文字超过栏宽时，不会自动换行（预设值） virtual：表输入的文字在超过栏宽时会自动换行链接一、连结至其他文件 ＜a href=&quot;URL&quot;＞说明文字或图片＜/a＞二、连结至文件内之某一处（外部连结） 《1》起点＜a href=&quot;档名#名称&quot;＞..........＜/a＞ 《2》终点 ＜a name=&quot;名称&quot;＞三、frame的超连结 【1】开启新的浏览器来显示连结文件 -- _blank ＜a href=&quot;URL&quot; target=_blank＞【2】显示连结文件於目前的frame -- _self ＜a href=&quot;URL&quot; target=_self＞【3】以上一层的分割视窗显示连结文件 -- _parent ＜a href=&quot;URL&quot; target=_parent＞【4】以全视窗显示连结文件 -- _top ＜a href=&quot;URL&quot; target=_top＞ 【5】以特定视窗显示连结文件 --＜a href=&quot;URL&quot; target=&quot;特定视窗名称&quot;＞FRAME一、分割视窗指令 ＜frameset＞..........＜/frameset＞ 【1】垂直（上下）分割 -- rows＜frameset rows=#＞ #号可为点数：如欲分割为100,200,300三个视窗，则＜frameset rows=100,200,300＞；亦可以*号代表，如＜frameset rows=*,500,*＞百分比：如＜frameset rows=30%,70%＞，各 项总和最好为100%【2】水平（左右）分割 -- cols ＜frameset cols=点数或百分比＞二?指定视窗内容 -- ＜frame＞＜frameset cols=30%,70%＞&amp;nbsp;&amp;nbsp;&amp;nbsp; ＜frame＞&amp;nbsp;&amp;nbsp;&amp;nbsp; ＜frame＞ ＜/frameset＞【1】指定视窗的文件名称 -- src ＜frame src=HTML档名＞ 【2】定义视窗的名称 -- name＜frame name=视窗名称＞ 【3】设定文件与上下边框的距离 -- marginheight＜frame marginheight=点数＞ 【4】设定文件与左右边框的距离 -- marginwidth＜frame marginwidth=点数＞ 【5】设定分割视窗卷轴 -- scrolling＜frame scrolling=#＞ #号可为 yes：固定出现卷轴no：不出现卷轴 auto：自动判断文件大小需不需要卷轴（预设值）【6】锁住分割视窗的大小 -- noresize ＜frame noresize＞
+              </text>
+<image> </image>
+<keywords>初学者很好的参考：HTML标签详尽 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>实例学习网页制作中常用的网页表单的应用 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/5.html </link>
+<description>说实话，无论是asp,php还是jsp进行网络编程的时候，都离不开和用户的交互。而人机对话的平台，基本上是靠相应的文本、列表框进行输入，然后通过按钮提交送至数据库的。所以学习网络编程就一定要了解这些输入平台相关的东西：表单（form）其基本格式如下： </description>
+<text>说实话，无论是asp,php还是jsp进行网络编程的时候，都离不开和用户的交互。而人机对话的平台，基本上是靠相应的文本、列表框进行输入，然后通过按钮提交送至数据库的。所以学习网络编程就一定要了解这些输入平台相关的东西：表单（form）其基本格式如下：&amp;nbsp;aaa&amp;nbsp;aaa可以总结出：表单即包括...之内的相关内容。其中内部可以分三大类：input，select，textarea一，首先看内部参数参数name：用来表示该表单的唯一名称，方便一个页面建立多个表单而不混淆，当然更是为了接受页面的确认关系。参数action：显而易见，是表示当前的表单中所有内容将送交某个页面去处理。处理包括接受信息，数据库比较，添加，修改等。参数method：即表单的提交方法，含两种方法：post和get。post是传输信息内容，get是传输url值，具体用法将会在下一节“内置对象request”中介绍到二，再来看Input相关Input表示Form表单中的一种输入对象，其又随Type类型的不同而分文本输入框，密码输入框，单选/复选框，提交/重置按钮等，下面一一介绍。1，type=text输入类型是text，这是我们见的最多也是使用最多的，比如登陆输入用户名，注册输入电话号码，电子邮件，家庭住址等等。当然这也是Input的默认类型。参数name：同样是表示的该文本输入框名称。参数size：输入框的长度大小。参数maxlength：输入框中允许输入字符的最大数。参数value：输入框中的默认值特殊参数readonly：表示该框中只能显示，不能添加修改。your name:2，type=password不用我说，一看就明白的密码输入框，最大的区别就是当在此输入框输入信息时显示为保密字符。参数和“type=text”相类似。your password:密码长度小于153，type=file当你在BBS上传图片，在EMAIL中上传附件时一定少不了的东西：）提供了一个文件目录输入的平台，参数有name，size。your file:4，type=hidden非常值得注意的一个，通常称为隐藏域：如果一个非常重要的信息需要被提交到下一页，但又不能或者无法明示的时候。一句话，你在页面中是看不到hidden在哪里。最有用的是hidden的值。your hidden info here:alert(&quot;隐藏域的值是 &quot;+document.form1.yourhiddeninfo.value)5，type=button标准的一windows风格的按钮，当然要让按钮跳转到某个页面上还需要加入写JavaScript代码your button:6，type=checkbox多选框，常见于注册时选择爱好、性格、等信息。参数有name,value及特别参数checked（表示默认选择）其实最重要的还是value值，提交到处理页的也就是value。（附：name值可以不一样，但不推荐。）a:b:c:name值可以不一样，但不推荐a:b:c:7，type=radio即单选框，出现在多选一的页面设定中。参数同样有name,value及特别参数checked.不同于checkbox的是，name值一定要相同，否则就不能多选一。当然提交到处理页的也还是value值。a:b:c:下面是name值不同的一个例子，就不能实现多选一的效果了a:b:c:8，type=image比较另类的一个，自己看看效果吧，可以作为提交式图片your Imgsubmit:9，type=submit and type=reset分别是“提交”和“重置”两按钮submit主要功能是将Form中所有内容进行提交action页处理，reset则起个快速清空所有填写内容的功能。Input的Type总结下来有10个，还是不少的，呵呵三，接着再来看Select相关Select主要要来做下拉菜单，跳转菜单，（下拉）列表。其本身有内嵌代码...，option参数value值为传递被处理的值，option还有参数selected，表示默认被选中的。1，下拉菜单只是菜单式显示。&amp;nbsp;aaa&amp;nbsp;bbb&amp;nbsp;cccalert(&quot;菜单的默认选取值是 &quot;+document.form1.selectwhat.value)2，跳转菜单在下拉菜单基础上添加JavaScript成为跳转菜单。网站连接……Webjx.ComSina.com.cn163.com3，下拉列表和下拉菜单最大的区别就是select多了一个size值，该值并非长度大小，而是列表的上下高度。当然还有更主要的是：菜单只能选一个，而列表可以选多个，该特殊参数为multiple size=1简直就是一个下拉菜单&amp;nbsp;aaa&amp;nbsp;bbb&amp;nbsp;cccsize&gt;1你会发现了大不同&amp;nbsp;aaa&amp;nbsp;bbb&amp;nbsp;ccc加入了multiple发现可以多个选择了，包括Shift进行快速全选及Ctrl进行点选&amp;nbsp;aaa&amp;nbsp;bbb&amp;nbsp;ccc四，最后关注的Textarea可以将Textarea文本区域理解为扩大化了的文本输入框。其参数没有value，默认值设定在...之间。其它参数还有rows,表示文本区域的行数；参数cols，表示文本区域的列数。还有参数warp，当warp=off表示该文本区域中的不自动换行，当然不写默认是自动换行的。5行20列，不自动换行
+              </text>
+<image> </image>
+<keywords>实例学习网页制作中常用的网页表 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>网页制作初学者：认识XHTML DHTML SHTML的区别 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/6.html </link>
+<description>我们经常会在一个技术性网站或BBS见到这三个东东：XHTML DHTML SHTML，它们到底是怎么回事呢？我们看下面的说明与讲解。 </description>
+<text>　我们经常会在一个技术性网站或BBS见到这三个东东：XHTML DHTML SHTML，它们到底是怎么回事呢？我们看下面的说明与讲解。XHTML： 　　HTML是一种基本的WEB网页设计语言，XHTML是一个基于XML的置标语言，看起来与HTML有些相象，只有一些小的但重要的区别，XHTML就是一个扮演着类似HTML的角色的XML，所以，本质上说，XHTML是一个过渡技术，结合了XML（有几分）的强大功能及HTML（大多数）的简单特性。 　　2000年底，国际W3C(World Wide Web Consortium)组织公布发行了XHTML 1.0版本。XHTML 1.0是一种在HTML 4.0基础上优化和改进的的新语言，目的是基于XML应用。XHTML是一种增强了的HTML,它的可扩展性和灵活性将适应未来网络应用更多的需求。下面是W3C的HTML工作组主席Steven Pemberton回答的关于XHTML的常见基础问题。 　　（1）XHTML解决HTML语言所存在的严重制约其发展的问题。HTML发展到今天存在三个主要缺点：不能适应现在越多的网络设备和应用的需要，比如手机、PDA、信息家电都不能直接显示HTML；由于HTML代码不规范、臃肿，浏览器需要足够智能和庞大才能够正确显示HTML；数据与表现混杂，这样你的页面要改变显示，就必须重新制作HTML。因此HTML需要发展才能解决这个问题，于是W3C又制定了XHTML，XHTML是HTML向XML过度的一个桥梁。 　　（2）XML是web发展的趋势，所以人们急切的希望加入XML的潮流中。XHTML是当前替代HTML4标记语言的标准，使用XHTML 1.0，只要你小心遵守一些简单规则，就可以设计出既适合XML系统，又适合当前大部分HTML浏览器的页面。这个意思就是说，你可以立刻设计使用XML，而不需要等到人们都使用支持XML的浏览器。这个指导方针可以使web平滑的过渡到XML。 　　（3）使用XHTML的另一个优势是：它非常严密。当前网络上的HTML的糟糕情况让人震惊，早期的浏览器接受私有的HTML标签，所以人们在页面设计完毕后必须使用各种浏览器来检测页面，看是否兼容，往往会有许多莫名其妙的差异，人们不得不修改设计以便适应不同的浏览器。&amp;nbsp;　　（4）XHTML是能与其它基于XML的标记语言、应用程序及协议进行良好的交互工作。&amp;nbsp;　　（5）XHTML是Web标准家族的一部分，能很好在无线设备等其它用户代理上。 　　（6）在网站设计方面，XHTML可助你去掉表现层代码的恶习，帮助你养成标记校验来测试页面工作的习惯。 DHTML： 　　DHTML只是一种制作网页的概念，实际上没有一个组织或机构推出过所谓的DHTML标准或技术规范之类的。DHTML不是一种技术、标准或规范，DHTML只是一种将目前已有的网页技术、语言标准整和运用，制作出能在下载后仍然能实时变换页面元素效果的网页的设计概念。 　　DHTML大致包含以下网页技术、标准或规范： 　　HTML 4.0 　没什么好说的，网页的基础语言标准。 　　CSSL 注意！不是CSS，是CSSL，它是Clent-Side Scripting Language的缩写，译作“客户端脚本语言”，主要有JavaScript(JS)，VBScript(VBS)，JScript。Netscape主要支持JS，IE主要支持JS，VBS和JScript。 　　DOM Document Object Model的缩写，译作“文档对象模型”，是W3C日前极力推广的web技术标准之一，它将网页中的内容抽象成对象，每个对象拥有各自的属性(Properties)、方法(Method)和事件(Events)，这些都可以通过上面讲到的CSSL来进行控制。IE和NS的对象模型都是以W3C的公布的DOM为基准，加上自己的Extended Object(扩展对象)来生成的。 　　CSS 这才是Cascading Style Sheets(层叠样式表单)的缩写，也是本站52CSS.com的主题，它是HTML的辅助设计规范，用来弥补HTML在排版上的所受的限制导致的不足，它是DOM的一部分。理论上说通过CSSL动态地改变CSS属性可以做出任何你想要的页面视觉效果。 　　所以，简单地说，要实现DHTML，就是以HTML为基础，运用DOM将页面元素对象化，利用CSSL控制这些对象的CSS属性以达到网页的动态视觉效果。 SHTML： 　　问起SHTML和HTML的区别,如果用一句话来解释就是：SHTML不是HTML而是一种服务器 API，shtml是服务器动态产成的html。 　　虽然两者都是超文本格式,但shtml是一种用于SSI技术的文件。 也就是Server Side Include--SSI 服务器端包含指令。 如果Web Server有SSI功能的话(大多数（尤其是基于Unix平台）的WEB服务器如Netscape Enterprise Server等均支持SSI命令)。 会对shtml文件特殊招待。 先扫一次shtml文件看没有特殊的SSI指令现在。 有就按Web Server设定规则解释SSI指令。 解释完后跟一般html一起掉去客户端。 　　SHTML使用SSI(Server Side Include)的html文件扩展名，SSI（Server Side Include)，通常称为&quot;服务器端嵌入&quot;或者叫&quot;服务器端包含&quot;，是一种类似于ASP的基于服务器的技术。 　　SSI工作原理： 　　将内容发送到浏览器之前，可以使用“服务器端包含 (SSI)”指令将文本、图形或应用程序信息包含到网页中。例如，可以使用 SSI 包含时间/日期戳、版权声明或供客户填写并返回的表单。对于在多个文件中重复出现的文本或图形，使用包含文件是一种简便的方法。将内容存入一个包含文件中即可，而不必将内容输入所有文件。通过一个非常简单的语句即可调用包含文件，此语句指示 Web 服务器将内容插入适当网页。而且，使用包含文件时，对内容的所有更改只需在一个地方就能完成。 　　因为包含 SSI 指令的文件要求特殊处理，所以必须为所有 SSI 文件赋予 SSI 文件扩展名。默认扩展名是 .stm、.shtm 和 .shtml　　Web 服务器在处理网页的同时处理 SSI 指令。当 Web 服务器遇到 SSI 指令时，直接将包含文件的内容插入 HTML 网页。如果“包含文件”中包含 SSI 指令，则同时插入此文件。除了用于包含文件的基本指令之外，还可以使用 SSI 指令插入文件的相关信息（如文件的大小）或者运行应用程序或 shell 命令。 　　网站维护常常碰到的一个问题是，网站的结构已经固定，却为了更新一点内容而不得不重做一大批网页。SSI提供了一种简单、有效的方法来解决这一问题，它将一个网站的基本结构放在几个简单的HTML文件中（模板），以后我们要做的只是将文本传到服务器，让程序按照模板自动生成网页，从而使管理大型网站变得容易。 　　所以,利用SHTML格式的页面目的和 ASP 差不多，但是因为是 API 所以运转速度更快，效率更高,比ASP快，比HTML慢，但由于可以使用服务器端包含，因此使页面更新容易（特别是批量更新banner，版权等）,想象一下吧,你有一段 HTML,要在中间穿插一些特殊的服务端脚本,比如插入其他 HTML 段落,你选择 ASP 来完成这个任务,但是如果任务更繁重，需要更多的时间，比如5s，这个时候你不用 ASP 而用 SHTML,或许处理时间就只用4s了. 
+              </text>
+<image> </image>
+<keywords>网页制作初学者：认识XHTML,DHTM </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>对于初学者不错的XHTML教程 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/7.html </link>
+<description>在这个教程里，你将学到HTML和XHTML之间的不同，以及如何将HTML转换为XHTML。毕竟XHTML是发展的方向，所以我觉得该教程有必要在本站上发布。我感觉要是你想使用标准还是最好先学HTML，因为比较简单，然后再来看该教程。 </description>
+<text>前言： 　　现在都讲究标准建站，而标准建站使用的技术主要是XHTML+CSS，而现在我们普遍使用的是HTML代码，那么我该如何转换呢？以及HTML和XHTML有什么不同呢？在这个教程里，你将学到HTML和XHTML之间的不同，以及如何将HTML转换为XHTML。毕竟XHTML是发展的方向，所以我觉得该教程有必要在本站上发布。我感觉要是你想使用标准还是最好先学HTML，因为比较简单，然后再来看该教程。 　　XHTML介绍： 　　XHTML是 EXtensible HyperText Markup Language(可扩展超文本标记语言) 的英文缩写，而HTML则是 HyperText Markup Language(超文本标记语言) ，这是名字的不同。其实我们说得标准应该是XML，那为什么要学习XHTML呢？因为现在的HTML代码烦琐，危机四伏，但是XML使用环境还不成熟，所以推出了一个过度的产品就是XHTML，它起着呈上起下的作用。也有人认为XHTML是HTML的一个升级版本，其实也是正确的，我的理解是XHTML把HTML做得更加规范的一个标记语言，使HTML变得功能强大，减少了代码的烦琐尤其是表格。 　　XHTML是在2000年1月26日被国际标准组织机构W3C(World Wide web Consortium)定为一个标准的，认为是HTML的一个最新版本，并且将逐渐替换HTML。现在所有的浏览器都支持XHTML，XHTML兼容 HTML 4.0。也有人认为XHTML就是HTML4.01。如果你在学习过程中自己编写了一个符合标准的站，你可以通过W3C的验证，验证通过后你将会得到一个标志，通常是XHTML1.0认证和CSS验证。我也不清楚目前国内有多少个网站同时通过了这两个验证。大家可以去这个站点去验证你的站，如果符合那两个规则则会分别给我们两段代码加到你的网页上向别人展示说明你采用了标准建站啊，牛啊！　　为什么我们使用XHTML 　　XHTML是HTML升级为XML的过度产品，被定为一个标准，XHTML完全兼容HTML4.01，并且具有XML的语法。下面我们来看一个含有错误代码的HTML，如下： 　　 　　 　　This is bad HTML 　　 　　Bad HTML 　　 　　虽然含有错误代码，但是当我们在浏览器中浏览时还能正常显示。XML是一个标记语言，但是它要求在网页中出现的任何元素都应该被标记出来，XML是用来描述网页中的数据的，而HTML用来显示网页中的元素的。目前我们上网使用的各种浏览器技术，包括手提电脑、手机上网浏览等等，都要求浏览的一些内容都要被正确标记，如果有错误的标记可能会使显示特别混乱、甚至不能正常显示。 　　因此联合 HTML 和XML , 还有其他的一些技术，我们得到了一种现在有用的而且在将来也有用的语言 - XHTML。 　　当在将来都规范的时候我们就要用的 XHTML 正确格式的标记了,使所有的浏览器都能正确的执行，所以我们现在有必要开始学习XHTML了。 　　XHTML和HTML之间的区别： 　　XHTML是一项新技术，在浏览器和一些其他的软件都支持它之前，我们应该有必要熟悉一下这项技术。为了我们更好的学习XHTML之前我们应该熟悉一下HTML4.0，我们可以去下载一个参考手册来熟悉一下。以便于我们学起XHTML来更简单，换句话说我们现在使用HTML编写代码时应该尽力少写错误代码，如：都要使用小写的字符来编写HTML，每个标记之后都要加上标记的结束如：网页教学网欢迎您的光临 结束一定要有，我们要保持这种规则。 　　它们之间最大的区别在于： 　　1.XHTML 元素一定要被正确的嵌套使用。 　　在HTML里一些元素可以不正确嵌套也能正常显示，如： 　　This text is bold and italic 　　而在XHTML必须要正确嵌套之后才能正常使用，如： 　　This text is bold and italic 　　注意：这个错误通常发生在当嵌套多层之后的标签里面。如： 　　 　　　Coffee 　　　Tea 　　　 　　　　Black tea 　　　　Green tea 　　　 　　　Milk 　　 　　正确的应该是： 　　 　　　Coffee 　　　Tea 　　　 　　　　Black tea 　　　　Green tea 　　　 　　　 　　　Milk 　　 　　观察上述的两段代码我们可以看到正确的里面我们在 之后插入  标签。 　
+              </text>
+<image> </image>
+<keywords>对于初学者不错的XHTML教程 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>介绍span和div标签的使用 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/8.html </link>
+<description>鉴于HTML初级教程的目的只是教授HTML的骨架元素，这个中级教程增加一些骨肉，它们不应该特别的难，但可以进一步增进我们对HTML的理解，使我们能多做一些更有用的事情。HTML只是赋予内容的手段，大部分HTML标签都有其意义（标签p创建段落，h1标签创建标题等等 </description>
+<text>鉴于HTML初级教程的目的只是教授HTML的骨架元素，这个中级教程增加一些骨肉，它们不应该特别的难，但可以进一步增进我们对HTML的理解，使我们能多做一些更有用的事情。HTML只是赋予内容的手段，大部分HTML标签都有其意义（标签p创建段落，h1标签创建标题等等）的，然而span和div标签似乎没有任何内容上的意义，听起来就像一个泡沫做成的锤子一样无用。但实际上，与CSS结合起来后，它们被用得十分广泛。它们被用来组合一大块的HTML代码并赋予一定的信息，大部分用类属性class和标识属性id与元素联系起来，见CSS中级指南的类和id选择符。span和div的不同之处在于span是内联的，用在一小块的内联HTML中，而div（想想division是什么意思）元素是块级的（简单地说，它等同于其前后有断行），用于组合一大块的代码。This&amp;nbsp;is&amp;nbsp;crazy&amp;nbsp;在实践中，div，特别是span不应该滥用，尽管有其他相左的意见。比如，你要强调单词“crazy”和加粗类“paper”，可能会用这样的代码：This&amp;nbsp;is&amp;nbsp;crazy&amp;nbsp;这是做法比再加一个span比较好。对于类class和标识id没有线索？别担心，在CSS中级指南中会接触到它们。你所需要记住的是，span和div&amp;nbsp;是“无意义”的标签。但有新的说法说他们是有语义的。我们这里不再深入了。
+              </text>
+<image> </image>
+<keywords>介绍span和div标签的使用 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>HTML教程：建立超级连接 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/9.html </link>
+<description>tabbing浏览不或不能使用指点设备的用户可以用快捷键tab键来打开连接，并且本身也要有逻辑tab顺序。尽管HTML是线性的，tabindex属性允许你定义它快捷键们的顺序，而且这些逻辑tab应该可以自动落入自己位置。快捷键快捷键可以通过键盘的特定按键进行更方 </description>
+<text>tabbing浏览不或不能使用指点设备的用户可以用快捷键tab键来打开连接，并且本身也要有逻辑tab顺序。尽管HTML是线性的，tabindex属性允许你定义它快捷键们的顺序，而且这些逻辑tab应该可以自动落入自己位置。快捷键快捷键可以通过键盘的特定按键进行更方便的导航（当按住Alt键或者Ctrl键时获得焦点）。对于那些没有指点设备的用户，比起使用tab键操作连接更快捷，更方便。没有必要为每一个连接都设置快捷键，但为主要导航连接都设置是一个不错的主意。Some page 注意快捷键的麻烦是，用户常常没有办法知道它们在哪里和到底是什么键（除非查看源代码）。虽然JAWS──一个可以大声读出快捷键的屏幕阅读器，但要掘尽其能，你还是得让快捷键更直白。你可以使用像“跳过导航”的连接技术（下详），或者选择一个独立的页面来说明你网站的这些易用性相关功能，包括快捷键。一个越来越流行的办法是在一个与快捷键相一致的字母上加下划线，类似于Windows程序菜单中的方法。连接的标题为连接添加标题属性title是一个好主意，这会给用户所指向连接的予说明，所以能改进导航。假如这个连接是执行Javascript的，这也有利于为没有使用Javascript功能的用户解释什么将会（或不会）发生。Monster弹出窗口说到Javascript弹出窗口，你要坚持使用的话，或者很多人（你的用户）告诉你要使用，你可以用onkeypress和onclick来使得页面更易用。并且，在功能上定义了返回false的弹出窗口，包含一个带有href属性指向普通页面的连接，对于一个没有使用Javascript功能的用户来说，可以以普通方式载入这个页面。比如：function opennastypopup(){ window.open(&quot;monster.html&quot;, &quot;&quot;, &quot;toolbar=no,height=100,width=200&quot;); return false; }  ... Monster 相邻的连接相邻的连接应该至少用空格隔开，以便为屏幕阅读器清晰辩明。这也可以用字符来完成，连接之间的（比如竖线 |── 连接 | 连接），或者包围连接的（如中括号 [] ── [连接] [连接]）。把连接放在列表里面也是一个好主意。然后可以用CSS来样式化显示，甚至可以是并行的列表（用 display: in-line）。跳过导航你应该让使用屏幕阅读器的用户一个跳过导航直接到内容的机会。这是因为，假设你的连接是固定的（应该是），用户不必经受每一页同样的信息，尤其是大量的。你可以设置一个连接，跳过导航直接跳到内容的连接。看起来像是这样的： The Heading Skip navigation 显然，你没有必要在可视化浏览器中显示它，所有你可以用CSS开隐藏它。注意这是虽然只是一个CSS的小技巧，但是“跳过导航”的特效药。这涉及到隐藏连接的方法。最常见的办法可能是使用display: none，但有些浏览器看到但不理解这个连接，“跳过导航”的连接必须显示。然而没有必要显示──没有理由显示给醒目的用户。所以坚持使用包含display: none的样式，还不如把元素宽和高设置为零（width: 0; height: 0; overflow: hidden;），这有相同的视觉效果，但可以使屏幕阅读器理解。
+              </text>
+<image> </image>
+<keywords>HTML教程：建立超级连接 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>表格中单元格之间分隔线的隐藏方法 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/10.html </link>
+<description>隐藏分隔线的诀窍在于rules，察看这三个表格的源代码，我们可以看到表格标签中都有rules。 </description>
+<text>第一行第二行第三行这个表格去掉了单元格之间的纵向分隔线第第第一二三列列列这个表格去掉了单元格之间的横向分隔线横&amp;nbsp;线竖&amp;nbsp;线都没了这个表格去掉了单元格之间的纵向分隔线和横向分隔线其实上面的三个表格都有三行三列，隐藏分隔线的诀窍在于rules，察看这三个表格的源代码，我们可以看到标签中都有rules。 它有三个参数(cols,rows,none)，当rules=cols时，表格会隐藏纵向的分隔线，这样我们就只能看到表格的行；当rules=rows时，则 隐藏了横向的分隔线，这样我们只能看到表格的列；而当rules=none时，纵向分隔线和横向分隔线将全部隐藏。
+              </text>
+<image> </image>
+<keywords>表格中单元格之间分隔线的隐藏方 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>新手学习老知识（三）HTML教程用好超级链接标记A </title>
+<link>http://365news.com/a/webbase/html/2010/0407/11.html </link>
+<description>超级链接 标记代表一个链接点，是英文anchor（锚点）的简写。它的作用是把当前位置的文本或图片连接到其他的页面、文本或图像，这已是众所周知了，但关于它的语法结构可能有点鲜为人知，而要用活它则必须了解其语法结构。 </description>
+<text>　超级链接标记代表一个链接点，是英文anchor（锚点）的简写。它的作用是把当前位置的文本或图片连接到其他的页面、文本或图像，这已是众所周知了，但关于它的语法结构可能有点鲜为人知，而要用活它则必须了解其语法结构。标记的基本语法结构是： 连接　　从标记的语法结构可以看出，在设定一个超级链接时有很多参数可供选择，以实现不同的链接效果，这有点出乎意料吧？！　　其中class和id选项：用于设定链接点所属的类型和分配的ID号，通常不加以设定。最常用的两个参数是href和name。其中href是 hypertext reference的缩略词，用于设定链接地址。链接地址必须为url地址，如果没有给出具体路径，则默认路径和当前页的路径相同。链接到的文件也分为几种情况：如果为HTML文件，则在当前浏览器中直接打开；如果为可执行文件（.exe文件），则直接执行或下载，我们提供下载的文件就是用它的这种特性做的；如果为文本文件如word格式的文件，则在浏览器中打开此文件，并可以进行编辑加工。　　rel：表示设定链接的关系：rel=same表示待链接的文件与此文件相同，rel=next表示待链接的文件为下一页，rel＝parent表示本文件为待链接文件的父文件，rel=previous则表示待链接的文件为上一页。　　rev：则用于设定反向链接。　　target：是在采用帧窗口的情况下设定链接到哪一个窗口，还有target=&quot;_bank&quot;是表示新开一窗口打开网页。　　title：用于设定链接点被选到时显示的标题。　　onclick：对应于一个事件，当链接点被点击后将触发这个事件，执行对应的子程序。　　onmouseover：与onclick类似，对应的事件在鼠标移到链接点上时被触发。　　onmouseout：对应的事件在鼠标移出镇接点后被触发。 　　举几个例子：回到主页 播放语音文件执行对应的程序打开对应的文档进行加工　　应用技巧　　1、提供下载文件　　有不少网友来信问，提供下载的效果怎么做。实际上仍然是做一个超级链接，不过供下载的文件必须上传到网站上。例：有一个“网页技巧”的文件包供下载，文件名是“homepagejq.zip”且已上传到网站了，则这个链接的代码可以这样写：点击这里下载“网页技巧”文件包。　　2、在新窗口中打开链接的网页　　设定“target”的值为“_blank”。例：新开窗口打开网页“aboutme.htm”。产生该效果的代码是：关于我......。　　3、鼠标移到链接，显示一行说明文字　　设定“title”参数值，即可获得这种效果。例：当鼠标移到“黄山村夫”这个链接上时，显示说明“这是一个介绍技巧的专业网站”。这个链接的代码是这样的：黄山村夫。　　4、鼠标移到一个链接上弹出一个窗口　　这是设定onmouseover参数获得的效果。例：当鼠标移到一个链接上，弹出一个窗口并在窗口中显示“鼠标悬停效果演示！”。这个链接的代码是这样的：链接。用类似的方法可以制作当鼠标按下后弹出提出示窗口、当鼠标离开时弹出提示窗口的效果。　　5、链接到本页的指定内容　　要实现链接到本页的某一部分内容上（也就是“文件内跳转”），必须用参数name指定链接点的名称。选定一块文本，可以用name参数为其命名，以备链接所用。所谓同一个文件内的跳转是指当读者在阅读一个很长的文件的时候，若只对某部分的内容感兴趣，可以采用跳跃式的阅读方式。其基本格式是：第二部分第一部分内容.................................................第二部分实际内容................................................. 　　这样当你点击“第二部分”这个超级链接后，就会自动转移到“第二部分实际内容”这个地方来。“name”参数所定义的链接点名称可以随意取，但链接的“href”参数中的链接点名称必须与其一致，不要忘记在前面加上“#”。　　6、链接到其它页面的指定内容位置　　方法与上例类似，但在“href”参数中的链接点名称前要加上网页的文件名。例：有两个网页page1.htm和page2.htm ，每页均有两部分内容，现要在page1.htm中制作一个超级链接，按下该链接后将转到page2.htm的第二部分内容上。那么我们可以这样做，首先在page2.htm第二部分内容开始的地方写上这样一句代码：；在page1.htm中写上这样一个链接代码：page2 的第二部分内容。　　7、链接到E_mail　　点击一个超级链接后，将启动客户机上的电子邮件管理软件给你写信。例这行代码：请给我写信。一旦你点击了“请给我写信”这个链接，将自动启动电子邮件管理软件（如OE）的写信功能，并已把邮件地址加在了收信人的地址栏里了。　　链接不仅可以以文本作载体，也可以以图象作载体，而且可以以图片的某一部分作载体，且都能实现上述这些效果，方法也相同，所不同只是载体，也就是链接的两对方括号中间的那部分，所以不再另举例了。
+              </text>
+<image> </image>
+<keywords>新手学习老知识（三）HTML教程用 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>新手学习老知识（二）HTML用好活动字幕标记marquee </title>
+<link>http://365news.com/a/webbase/html/2010/0407/12.html </link>
+<description>活动字幕，也称为滚动看板、滚动字幕。活动字幕的使用使得整个网页更有动感，显得很有生气。现在的网站中也越来越多地使用活动字幕来加强网页的互动性。用Javascript编程可以实现活动字幕效果；用Dreamweaver的图层再用其时间线功能可以做出非常漂亮的滚动看 </description>
+<text>　活动字幕，也称为滚动看板、滚动字幕。活动字幕的使用使得整个网页更有动感，显得很有生气。现在的网站中也越来越多地使用活动字幕来加强网页的互动性。用Javascript编程可以实现活动字幕效果；用Dreamweaver的图层再用其时间线功能可以做出非常漂亮的滚动看板。而用HTML的活动字幕标记所需的代码最少，确实能够以较少的下载时间换来较好的效果。该标记语法格式如下：　　可以看出由于活动字幕的显示方式多种多样，可选的参数也很多。下面解释一下各参数的含义：　　align：是设定活动字幕的位置，不过除了居左、居中、居右三种位置外，又增加靠上（align=top）和靠下（align=bottom）两种位置。　　Bgcolor：用于设定活动字幕的背景颜色，一般是十六进制数。　　Direction：用于设定活动字幕的滚动方向是向左、向右、向上、向下。　　Behavior：用于设定滚动的方式，主要由三种方式：behavior=&quot;scroll&quot;表示由一端滚动到另一端；behavior=&quot;slide&quot;:表示由一端快速滑动到另一端，且不再重复； behavior=&quot;alternate&quot;表示在两端之间来回滚动。　　Height：用于设定滚动字幕的高度。　　Width：则设定滚动字幕的宽度。　　Hspace和vspace：分别用于设定滚动字幕的左右边框和上下边框的宽度。　　Scrollamount：用于设定活动字幕的滚动距离。　　scrolldelay：用于设定滚动两次之间的延迟时间。　　Loop：用于设定滚动的次数，当loop=-1表示一直滚动下去，直到页面更新。　　标记的默认情况是向左滚动无限次，字幕高度是文本高度，滚动范围：水平滚动的宽度是当前位置的宽度；垂直滚动的高度是当前位置的高度。　　应用技巧　　1、全取默认值，所用代码最少，请看下面的例子　　这个滚动字幕全取默认值，源代码：这里写字幕内容，代码是不是很少？　　2、垂直滚动　　只要加上diriction=&quot;up&quot;就行了，如这里写字幕内容。　　3、多行文本的活动字幕　　由于标记只能作用于一段文本，因此多行活动字幕，分行时只能用标记，不能用标记。　　示例源代码：活动字幕内容第一行活动字幕内容第二行活动字幕内容第三行　　4、在字幕内容中加入图象　　虽是一个活动字幕标记，但它允许在其中加入图象。下面是一个加入了图片的代码： 这是加入图象的活动字幕　　5、在Dreamweaver中使用标记　　Dreamweaver不能在编辑窗中直接加入marquee标记，但可在源代码检视器中加入标记，然后在编辑窗中编辑活动字幕的内容即可。　　标记的参数较多，在应用中要把握一个原则，能用默认值就不要再设置参数值，用什么参数就设置该参数的值，其它参数就不要再设置，以把代码控制在最少的范围内。(负责编辑：blank)
+              </text>
+<image> </image>
+<keywords>新手学习老知识（二）HTML用好活 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>新手学习老知识（一）HTML语言基础 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/13.html </link>
+<description>近两年来，许多公司开发出了图形化的HTML开发工具，使得网页的制作变得非常简单。如微软公司推出的 Microsoft FrontPage， Adobe公司推出的 Adobe Pagemill， Micromedia公司推出的Dreamweaver等编辑工具，都被称为“所见即所得”的网页制作工具。 </description>
+<text>一、为什么要？　　近两年来，许多公司开发出了图形化的HTML开发工具，使得网页的制作变得非常简单。如微软公司推出的 Microsoft FrontPage， Adobe公司推出的 Adobe Pagemill， Micromedia公司推出的Dreamweaver等编辑工具，都被称为“所见即所得”的工具。这些图形化的开发工具可以直接处理网页，而不用书写费劲的标记。这使得用户在没有HTML语言基础的情况下，照样可以编写网页。这时，编写HTML文档的任务由开发工具替你完成了。 这是网页图形编辑工具的最大成功之处，但也是它们的最大不足之处。受到图形编辑工具自身的约束，将产生大量的垃圾代码。原因很简单，我举一个简单的例子你就明白了。比如：在网页设计一个表格，若是每个单元格的宽度和高度让它根据其中的内容自动确定，HTML只要你告诉它是表格和单元格的排列顺序（也就是行列数）就行了，但因为图形化开发工具无法得知你的这种特殊要求，所以只能取一般要求，把每个单元格的宽度和高度都定义起来，从而增加了许多代码。所以一个明智的网页编写者应该在掌握图形编辑工具的基础上进一步学会HTML语言，从而知道那些是垃圾代码，这样，我们就可以利用图形化HTML开发工具快速成地做出网页，又会消除无用的代码，从而达到快速制作高质量网页的目的。　　二、如何用HTML？　　HTML语言，又称超文本标记语言，是英文Hyper Text Markup Language的缩写。HTML语言作为一种标识性的语言，是由一些特定符号和语法组成的，所以理解和掌握都是十分容易的。可以说，HTML语言在所有的计算机编程语言中是最简单易学的。 组成HTML的文档都是ASCIlI档，所以创建HTML文件十分简单，只需一个普通的字符编辑器即可。如 Wndows中的记事本、写字板都可以使用。也可以采用专用的 HTML 编辑工具：如 CoffeeHTML、 Homesite、 HTMLedit Pro等工具，它们的特点是能够自动检查HTML文档中的语法错误并协助改正。由于有了图形化的HTML开发工具，使得我们更加容易，我们可以先用它制作好网页，再在它附带的HTML代码编辑器在删去那些无用的代码，利用它的所见即所得特性，从而使我们很快就能熟炼地掌握HTML。特别是 Micromedia 公司最近发布的Dreamweaver4，可以把源代码编辑器和网页编辑器放在同一个窗口中，真是方便极了。　　三、HTML基本概念　　1、标记　　HTML用于描述功能的符号称为“标记”。如“HTML”、“BODY”、“TABLE”等。标记在使用是必须用方括号“”括起来，而且是成对出现，无斜杠的标记表示该标记的作用开始，有斜杠的标记表示该标记的作用结束。如表示一个表格的开始， 表标一个表格的结束。在HTML中，标记的大小写作用相同，如和都是表示一个表格的开始。　　标记可以包含标记，如：表格中包含表格或其它标记，如下面这样的HTML代码结构是正确的：    hjk  　　但是标记不能交叉嵌套，如下面这样的代码是错误的： 这是不正确的代码　　2、特殊字符　　由于方括号和英文双引号被用来提示HTML的标记及参数值，那么在网页中要显示方括号和英文引号只能用其它的符号来代替，下面是常见特殊字符所代表的正常字符：&quot;或&quot;——对应字符 &quot;à——对应字符 A 　　3、语法 　　一个标记，为了明确它的功能，往往用一些属性参数来描述，对这些属性参数的规定上就是所谓的语法，例如：段落标记，它的语法格式是：　　这就说明标记有两个属性参数，即“align”和“class”，其中“align”用于定义段的位置是靠左、靠右还是居中。默认值是靠左。而“class ”则是定义所属的类型。在实际应用时当然可以没有“align”和“class”参数，按照默认情况显示，这一点非常重要，这是我们判断无用代码的主要标准之一，假如在网页代码中有对默认值进行描述设置的语句代码，显然是无用的代码。另外，在设置标记的属性值时，若是取默认值不影响效果或影响很少，我们就尽量取默认值，这样可以不用设置，从而达到减少代码的目的。　　标记参数的具体的值都有要加西文引号，如：要使段落内容居中，正确的写法是这样的： 段落内容居中示例  　　学好用好HTML语言的关键是灵活应用标记的参数。特别是默认值的应用。
+              </text>
+<image> </image>
+<keywords>新手学习老知识（一）HTML语言基 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>HTML网页初学者教程：讲解网页标题Title </title>
+<link>http://365news.com/a/webbase/html/2010/0407/14.html </link>
+<description>我们制作的每一个HTML网页都应该有文档标题。那么到底如何设置标题呢？这个教程就作为网页初学者的入门吧！给你的文档增加一个标题，按照下面改变你的代码：!DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.0 Strict//ENhttp://www.w3.org/ </description>
+<text>我们制作的每一个HTML网页都应该有文档标题。那么到底如何设置标题呢？这个教程就作为网页初学者的入门吧！给你的文档增加一个标题，按照下面改变你的代码：我的第一个网页我的第一个网页你可以看到，我们已经增加从标签和标签开始的两个新元素（看看他们是怎么关闭的）。头元素（从起始标签到闭合标签之间的内容）出现在主体元素（从起始标签&lt; body&gt;到闭合标签之间的内容）之前，包含将在主体元素信息之前装载的信息。这些信息不会出现在浏览器窗口中。随着我们进一步学习，你会看到更多能够插入头元素的其它元素，但最重要的还是标题元素。如果你从浏览器查看这个网页（像前面一样已经保存和刷新），你可以看到“这是我的第一个网页”出现在浏览器窗口的标题栏。你键入的位于标题（title）标签的文本已经变成了这个文档的标题，惊奇吧？假设把这个网页增添到你的收藏夹或者书签，你会看到标题也会出现在这里。
+              </text>
+<image> </image>
+<keywords>HTML网页初学者教程：讲解网页标 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>网页文本排版知识：为正确的内容使用恰当的标签 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/15.html </link>
+<description>在制作网页时，文本内容是必不可少的！那么我们该如何对网页文本进行正确排版呢？当段落标签p应该使用在段落的时候还有许多滥用换行标签br的情况，p用于表现段落是公认的。基于同样的逻辑，很多标签应该被用来定义确定的文本元素，比如引用，缩写和计算机代码 </description>
+<text>在制作网页时，文本内容是必不可少的！那么我们该如何对网页文本进行正确排版呢？当段落标签p应该使用在段落的时候还有许多滥用换行标签br的情况，p用于表现段落是公认的。基于同样的逻辑，很多标签应该被用来定义确定的文本元素，比如引用，缩写和计算机代码等。应该记住的是，尽管大部分浏览器用不同的方式处理这些标签，最重要的是记住，不是为了让元素看起来像什么，而是它赋予的含义是什么。缩写和首字母组合词缩写标签abbr和首字母组合词标签acronym分别用于缩写词语和首字母组合而成的缩写词。缩写是一个惯用词组的缩短形式。很平常。然而，首字母缩写词则是组成词组的每个单词之首个字母（或者单词的部分）的组合缩写。所以CSS是一个正确的首字母缩写词，但HTML和XHTML却不是（如果Hypertxet markup language是一个首字母缩写词，它应该是HML，同理，XHTML 就是EHML了）。为了优化易用性，缩写和首字母缩写词都应该使用标题属性title。This web site is about HTMLand CSS. 注意有一些不可思议的理由，Internet Explorer，最常用的浏览器，竟然不支持abbr标签。十分幸运，一个叫Marek Prokop的小伙子为此开发了clever Javascript workaround。有很多关于缩写和首字母缩写词元素的讨论，Lars Holst提供了可能是最具体的深入理解。引用blockquote，q和cite用在引用上。blockquote是块状的，用于大面积的引用语上，而q则是内联的，用于更小的词组。cite也是内联的，比起q来其本身的语义更可取，很可能在将来取代q。又，标题属性title用于表明引用从何而来。注意：q一般不改变内附文本的外观──你需要用CSS如果你需要为它指定一个样式。So I asked Bob about quotations and he said I know as much about quotations as I do about pigeon fancying. Luckily, I found HTML Dog and it said...&amp;nbsp;&amp;nbsp;blockquote, q and cite are used for quotations. blockquote is block-line and used for large or citations, whereas q is in-line and used for smaller phrases. cite is also in-line and preferable to q for its semantic nature and possible future deprecation of q.&amp;nbsp; 代码有少部分的标签，code和var用于计算机程序代码，pre和samp则，在实践中，也主要是用于代码。code用于计算机程序代码。var用于指明代码里的变量。ronankeatingisbland = true; samp与代码类似，但被认为是用于程序的代码输出样例。pre是预格式化文本，在HTML标签中不常用，以防止大量空格的产生。它常用于代码块。  Some heading Some paragraph paragraph thing thing thingy.  定义术语dfn是定义术语，用于高亮显示一个第一次使用的术语。像abbr和acronym ，标题属性title可以用来描述术语。Bob's canine mother and equine&amp;nbsp;father sat him down and carefully explained that he was an allopolyploidorganism.地址address应该用于地址。 HMTL Dog House HTML Street Dogsville HT16 3ML 晦涩罕见的标签有一些没有什么价值的标签，有很少的机会被使用只是因为十分特定的场合。bdo可以用来反转文本的方向，可以用来显示从右向左读的文本。必需的属性dir的值可以是ltr（左向右）和rtl（右向左）。god lmth&amp;nbsp;kbd用于表明应由用户键入的文本。Now type woo hoo&amp;nbsp; ins和del分别用于显示编辑插入和删除的文本。它可以有时间属性datetime（用YYYYMMDD的格式）和cite属性（用于说明为什么插入或者删除理由的一个URL）。ins元素一般显示下划线，而del元素则一般显示删除线。This is some nonsense </text>
+<image> </image>
+<keywords>网页文本排版知识：为正确的内容 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>使用XHTML按标准重构网站 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/16.html </link>
+<description>我们曾经为本节撰写的标题是：“XHTML:简单的规则，容易的方针。”原因之一是，本节讨论的规则和方针是简单和容易的。原因之二是，一本简单和容易的WEB设计图书，就像超级市场的新式的免费商品一样，虽然常见却可以有效地吸引人的眼球，这样的东西可以刺激人 </description>
+<text>我们曾经为本节撰写的标题是：“XHTML:简单的规则，容易的方针。”原因之一是，本节讨论的规则和方针是简单和容易的。原因之二是，一本简单和容易的WEB设计图书，就像超级市场的新式的免费商品一样，虽然常见却可以有效地吸引人的眼球，这样的东西可以刺激人的兴趣，并且鼓励人们尝试。我确实希望本节的内容可以激发你的兴趣，并鼓励你去尝试。为什么这么说呢？因为一旦你掌握了本章包含的简单容易的理念，你就会重新思考网页运作的方式，并开始改变建造它们的方法。然而我并不希望你只是将代码重新改写一边。我希望你可以实实在在地以另一种方式思考和工作。另一方面，重构才是XHTML真正的意义。在本章，我们将研究结构化标记的机制和涵义。如果你正在将网站标准融入你的开发项目，你或许会觉得本章的内容有些熟悉。不过即便是这方面的老手，也会从本章发现意外的收获。XHTML规则概要将传统的HTML转换为XHTML 1.0是快捷且无痛的，只要你遵守一些简单的规则和容易的方针。不管是否使用过HTML，都不会妨碍你使用XHTML。使用恰当的文档类型声明和命名空间。 使用meta元素声明你的内容类型。 使用小写字母书写所有的元素和属性。 为所有的属性值加引号。 为所有的属性分配值。 关闭所有的标签。 使用空格和斜线关闭空标签。 不要在注释中写双下划线。 确保小于号及和号为 </text>
+<image> </image>
+<keywords>使用XHTML按标准重构网站 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>快速精通网页框架FRAME </title>
+<link>http://365news.com/a/webbase/html/2010/0407/17.html </link>
+<description>FRAME（框架）是Web上经常会看到的页面结构。使用可视Web开发工具（比如Dreamweaver或者Frontpage），虽然可以在 WYSIWYG环境中通过简单的鼠标托拽完成FRAME的构建，但是要实现真正细致甚至强大的功能，仔细理解FRAME的代码结构至关重要！你将发现， FRAME原 </description>
+<text>FRAME（框架）是Web上经常会看到的页面结构。使用可视Web开发工具（比如Dreamweaver或者Frontpage），虽然可以在 WYSIWYG环境中通过简单的鼠标托拽完成FRAME的构建，但是要实现真正细致甚至强大的功能，仔细理解FRAME的代码结构至关重要！你将发现， FRAME原来是这样的亲切易用。 　　创建基本的FRAMESET 　　FRAMESET页面与普遍的Web页面有些不同。虽然仍旧以和包含标题的标记以及其他脚本开始，但是其内容仅仅是表示的各个页面的版式设计。因此，不再需要有元素，只需要标记。 　　通过标记的和属性，浏览器窗口被分割为一个个格子。 和的设置值可以是固定的像素值，可以是总空间的百分比值，还可以是用*以及一个数字相乘表示的分割剩余空间的比例值。比如说： cols=&quot;80,20%,*&quot; 分为3列，宽度分别为80像素，窗口宽度的20％，以及剩余宽度 rows=&quot;25%,75%&quot; 分为2列，宽度分别为窗口宽度的25％和75％ rows=&quot;*,3*&quot; 与上述第2个表示的一样，分为2列，但表示方法不同：第一列宽度为第二列的1/3 　　在和之间，用多个标记表示每个分割区。col 表示从左到右的列，row表示从上到下的行。每个有一个src属性，给出了这个FRAME的内容。它可以是浏览器能显示的任何一个合法URL，或者是另外一个FRAMESET。为预防递归现象，一个FRAME不能包含它本身所在的FRAMESET页面。要用name属性定义 FRAME的名字，这样就可以在代码或者脚本程序中引用它。 请看一段基本的FRAMESET代码：   Simple FRAMESET                   　　FRAME间的链接 　　一个FRAMESET结构的页面，新文档只转载进窗口的一部分中，而其他页面则保持静态不变。当用户点击FRAME中的链接时，新内容就在同一 FRAME内打开。要让新内容在其他FRAME中打开，可以设置标记的target属性值为那个FRAME的name值。 　　而且，我们还可以设置打开目标为当前可见的任意一个FRAME，而不局限于本身的FRAMESET。目标可能是一个嵌套的FRAMESET中的 FRAME，也可能是其他窗口中的FRAME。但是如果目标FRAME不存在，就会产生一个带有目标FRAME名字的新窗口。 　　下面举个例子说明一下，假设有一个简单含2－FRAME的FRAMESET，文件名叫做home.html，代码如下：  FrommCo home page      　　文件menu.htm在左边的FRAME中，其中有一系列链接，点击它们后新内容将在右边的叫做content的FRAME中打开。下面是menu.html的代码：    Main page Our mission Our staff FrommCo splash page  　　请注意最后一个链接中target的定义为_parent，这属于4个特殊的保留值。它们是： _parent：在当前FRAMESET位置显示新href。 _top：在当前整个窗口位置显示新href，比如本身FRAMESET位于另一个FRAMESET中。 _self：强制在当前FRAME中显示新href。 _blank：在新窗口中显示href。 　　表示客户端图形地图的标记同样可以应用target属性，比如： 　　 　　还有一种经常的情况是：Web页面中的大部分或者全部链接都要求在一个特别的FRAME中打开。这时，可以在页面的代码区使用标记设置默认的target，然后再分别定义特殊链接的target值。 　　修饰FRAME 　　FRAMESET不仅在宽度、高度等方面具有可控制的数值，在美观方面也同样可以精确设置。 　　默认情况下，FRAMESET的FRAME间有一个凸起的边沿，表示分割效果。如果不喜欢这个，想营造“无缝连接”的效果，可以在&lt; FRAME&gt;标记中设置FRAMEborder=0来消除它。在3.0及高版本的Navigator和Internet Explorer中，如果在标记中设置FRAMEborder=0，那么除了设置为FRAMEborder=1的 FRAME外，所有其他FRAME的边沿都将消失。 　　虽然设置了FRAMEborder=0，有些浏览器仍旧会在FRAME间保留一些边沿的颜色痕迹。这时，可以在&lt; FRAMESET&gt;标记中添加FRAMEspacing=0（对Internet Explorer）或者border=0（对Navigator和Opera）实现真正的无缝连接。 　　请看下面的代码是如何使用这些属性的：  FrommCo home page      　　上面的代码中有2个新的属性：noresize表示锁住FRAME而不允许使用鼠标改变大小，scrolling=no表示屏蔽FRAME的滚动条，scrolling=yes表示允许，scrolling=auto表示根据显示内容需要自动显示滚动条。 　　浮动FRAME 　　浮动FRAME是HTML4.0规范中的一个定义，目前的浏览器都支持它。 　　不象FRAMESET表示的分割区样子，一个浮动FRAME作为一个内置对象存在于Web页面上，其样式就象一个页面上的一个图形或者一个 applet。浮动FRAME使用标记，它具有与相同的大多数属性设置，包括：name、 src、marginwidth、marginheight、FRAMEborder以及scrolling。同时，它还具有与图形或者applet一样的height、width和align属性。 　　而且，浮动FRAME遵循与普通FRAME一样的target原则：我们可以通过它的name来指向它。本原则适用于在任一类型FRAME中的浮动FRAME，反之易然。浮动FRAME中的没有traget的链接指向它本身，而_parent链接则指向包含的文档所在的FRAME或者窗口。比如：    Show one.htm Show two.htm Bring back start.htm 　　注意，对应支持标记的浏览器，任何位于和间的内容都将忽略。反之，其中的内容将显示出来，这可以用作解释当前浏览器不支持。 　　何时使用FRAME 　　我们知道，FRAMESET的基本用途就是分割浏览器窗口，使得窗口的一部分内容改变，而其他部分保持不变。利用这个特性，就可以实现工具栏导航功能，一个FRAME内放置静态菜单页面，用户点击其中的项目后，在另外的FRAME内显示相关的内容。这样就可以从整体上减少文件大小，因为不必在每个内容页面中再包含菜单项目。 　　FRAME有2个明显的不足： 　　FRAME从另外的级别上增加了站点的管理，原因在于超级链接不仅仅要指向适当的页面，而且也会装载到相关的FRAME内。 　　另外，大多数浏览器在执行“添加书签”的操作时，只能记录下FRAMESET的初始位置。不管添加书签时是位于多么深的FRAMESET中，当再次选择这个书签时，就会返回到FRAMESET的初始页面。这就加大了访问者浏览指定内容的难度。 　　但是，如果好好地组织站点信息，使导航操作只有不深的几层，那么，使用FRAME就能很好地为访问者服务。记住：访问者都希望简洁的导航信息。 　　当然，导航并非是使用FRAME的唯一原因，也可以使用FRAME创建交换工具和交换页面。而且，FRAME的多文档框架结构非常适于被JavaScript应用程序所操作。 　　用FRAME设计站点 　　最常用的FRAME结构就是“菜单－内容”FRAMESET。一个FRAME内放置导航菜单，另一个FRAME内转载子菜单，每个子菜单的链接就指向本身。唯一的有target的链接都在菜单FRAME内。 请看下面的例程代码：  Welcome to my site!        Welcome to my site. Introduction Products Reviews 
+              </text>
+<image> </image>
+<keywords>快速精通网页框架FRAME </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>浅谈XHTML（可扩展HTML）标准中CDATA </title>
+<link>http://365news.com/a/webbase/html/2010/0407/18.html </link>
+<description>近来，随着XHTML（可扩展HTML）标准的出现，script/标签也经历了一些改变。该标签不再用language特性，而用type特性声明内嵌代码或要加入的外部文件的mime类型，JavaScript的mime类型是text/javascript。例如：html head </description>
+<text>近来，随着XHTML（可扩展HTML）标准的出现，标签也经历了一些改变。该标签不再用language特性，而用type特性声明内嵌代码或要加入的外部文件的mime类型，JavaScript的mime类型是&quot;text/javascript&quot;。例如：&amp;nbsp; 　&amp;nbsp; 　Title of Page&amp;nbsp; 　&amp;nbsp; 　var i = 0;&amp;nbsp;&amp;nbsp; 　&amp;nbsp; 　&amp;nbsp; 　&amp;nbsp; 　&amp;nbsp; 　&amp;nbsp; 　&amp;nbsp; &amp;nbsp; 　　即使许多浏览器不完全支持XHTML，但大多数开发者现在都用type特性，而不用language特性，以提供更好的XHTML支持。省略language特性不会带来任何问题，因为如前所述，所有浏览器都默认的该属性值为JavaScript。　　XHTML的第二个改变是使用CDATA段。XML中的CDATA段用于声明不应被解析为标签的文本（XHTML也是如此），这样就可以使用特殊字符，如小于（）、和号（&amp;）和双引号（&quot;），而不必使用它们的字符实体。考虑下面的代码：&amp;nbsp; 　function compare(a, b) {&amp;nbsp; 　if (a &lt; b) {&amp;nbsp; 　alert(“A is less than B”);&amp;nbsp; 　} else if (a &gt; b) {&amp;nbsp; 　alert(“A is greater than B”);&amp;nbsp; 　} else {&amp;nbsp; 　alert(“A is equal to B”);&amp;nbsp; 　}&amp;nbsp; }&amp;nbsp; &amp;nbsp; 　　这个函数相当简单，它比较数字a和b，然后显示消息说明它们的关系。但是，在XHTML中，这段代码是无效的，因为它使用了三个特殊符号，即小于、大于和双引号。要修正这个问题，必须分别用这三个字符的XML实体和&quot;替换它们：&amp;nbsp; function compare(a, b) {&amp;nbsp; if (a &lt; b) {&amp;nbsp; alert(&quot;A is less than B&quot;);&amp;nbsp; } else if (a &gt; b) {&amp;nbsp; 131&amp;nbsp; JavaScript in the Browser&amp;nbsp; alert(&quot;A is greater than B&quot;);&amp;nbsp; } else {&amp;nbsp; alert(&quot;A is equal to B&quot;);&amp;nbsp; }&amp;nbsp; }&amp;nbsp; &amp;nbsp; 　　这段代码存在两个问题。首先，开发者不习惯用XML实体编写代码。这使代码很难读懂。其次，在JavaScript中，这种代码实际上将视为有语法错，因为解释程序不知道XML实体的意思。用CDATA段即可以以常规形式（即易读的语法）编写JavaScript代码。正式加入CDATA段的方法如下：function compare(a, b) {&amp;nbsp; if (a &lt; b) {&amp;nbsp; alert(“A is less than B”);&amp;nbsp; } else if (a &gt; b) {&amp;nbsp; alert(“A is greater than B”);&amp;nbsp; } else {&amp;nbsp; alert(“A is equal to B”);&amp;nbsp; }&amp;nbsp; }&amp;nbsp; ]]&gt;　　虽然这是正式方式，但还要记住，大多数浏览器都不完全支持XHTML，这就带来主要问题，即这在JavaScript中是个语法错误，因为大多数浏览器还不认识CDATA段。　　当前使用的解决方案模仿了“对旧浏览器隐藏”代码的方法。使用单行的JavaScript注释，可在不影响代码语法的情况下嵌入CDATA段：&amp;nbsp; //function compare(a, b) {&amp;nbsp; if (a &lt; b) {&amp;nbsp; alert(“A is less than B”);&amp;nbsp; } else if (a &gt; b) {&amp;nbsp; alert(“A is greater than B”);&amp;nbsp; } else {&amp;nbsp; alert(“A is equal to B”);&amp;nbsp; }&amp;nbsp; }&amp;nbsp; //]]&gt;&amp;nbsp; 
+              </text>
+<image> </image>
+<keywords>浅谈XHTML（可扩展HTML）标准中C </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>HTML基础知识：学习掌握HTML 标准属性 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/19.html </link>
+<description>HTML标签拥有属性。每个标签的特殊属性均被列于每个标签描述之下。这里列出的属性是通用于每个标签的核心属性和语言属性（有个别例外）：核心属性 (Core Attributes)以下标签不提供下面的属性：base、head、html、meta、param、script、style以及title元素。 </description>
+<text>HTML标签拥有属性。每个标签的特殊属性均被列于每个标签描述之下。这里列出的属性是通用于每个标签的核心属性和语言属性（有个别例外）：核心属性 (Core Attributes)以下标签不提供下面的属性：base、head、html、meta、param、script、style以及title元素。属性值描述classclass_rule or style_rule元素的类(class)idid_name元素的某个特定id。style样式定义内联样式定义。title提示文本显示于提示工具中的文本。语言属性 (Language Attributes)以下标签不提供下面的属性：base、br、frame、frameset、hr、iframe、param以及script元素。属性值描述dirltr | rtl设置文本的方向。lang语言代码设置语言代码。键盘属性 (Keyboard Attributes)属性值描述accesskey字符设置访问某元素的键盘快捷键。tabindex数设置某元素的Tab次序。
+              </text>
+<image> </image>
+<keywords>HTML基础知识：学习掌握HTML,标 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+<item>
+<title>HTML基础教程：学习掌握HTML 元素 </title>
+<link>http://365news.com/a/webbase/html/2010/0407/20.html </link>
+<description>HTML文档是由HTML元素构成的文本文件。HTML元素是通过使用HTML标签进行定义的。HTML标签 HTML标签是用来标记HTML元素的。 HTML标签被和符号包围。 这些包围的符号叫作。 HTML标签是成对出现的。例如b和/b。 位于起始标签和终止标签之 </description>
+<text>HTML文档是由HTML元素构成的文本文件。HTML元素是通过使用HTML标签进行定义的。HTML标签 HTML标签是用来标记HTML元素的。 HTML标签被符号包围。 这些包围的符号叫作。 HTML标签是成对出现的。例如和。 位于起始标签和终止标签之间的文本是元素的内容。 HTML标签对大小写不敏感，和的作用的相同的。 HTML元素还记得上一节中的那个例子吗：
+
+页面的标题
+
+
+这是我的第一个页面。
+此文本是粗体的。
+
+这就是一个HTML元素：此文本是粗体的。这个HTML元素由起始标签开始。这个元素的内容是：“此文本是粗体的。”。这个HTML元素由终止标签结尾。标签的作用是定义一个显示为粗体的HTML元素。这也是一个HTML文档：
+这是我的第一个页面。
+此文本是粗体的。
+这个HTML元素开始于标签，结束于标签。标签的作用是定义HTML文件中的容纳body的HTML元素。为什么我们要使用小写的标签？我们刚才讲到：HTML标签对大小写是不敏感的：和的作用的相同的。当您在网上冲浪时，您会发现大多数教程在他们的例子中都使用大写的HTML标签。而我们总是使用小写。原因何在呢？如果您希望为使用下一代HTML而做好准备，您就应该使用小写标签。万维网协会(W3C)的标准是：建议在HTML 4中使用小写标签，而在XHTML（下一代HTML）中，必须使用小写标签。标签属性标签可以有属性。属性可以为您的页面中的HTML元素提供附加的信息。如前所述，标签用来定义页面的body元素。通过添加一个bgcolor属性，您可以告知浏览器将页面的背景颜色显示为红色，就像这样：。用来定义一个HTML表格。通过添加一个border属性，您可以告知浏览器显示一个没有边框的表格：。属性由属性名和值组成，就像这样：name=&quot;value&quot;。属性应该被添加到HTML元素的起始标签。单引号还是双引号？属性值应被置于引号之间。通常情况下应该使用双引号，不过使用单引号也没有问题。但是在个别的情况下，比如属性值本身就含有双引号，那么您必须使用单引号，例如：name='John&quot;ShotGun&quot;Nelson'
+              </text>
+<image> </image>
+<keywords>HTML基础教程：学习掌握HTML,元 </keywords>
+<category>HTML </category>
+<author> </author>
+<source> </source>
+<pubDate>2010-04-07 09:29 </pubDate>
+</item>
+</document>
